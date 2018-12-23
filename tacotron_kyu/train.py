@@ -106,6 +106,7 @@ class Graph:
 if __name__ == '__main__':
     g = Graph(); print("Training Graph loaded")
     
+    #그래프 해석 : https://github.com/keithito/tacotron/issues/144
     #gpu_fraction = 0.1
     #gpu_options = tf.GPUOptions(per_process_gpu_memory_fraction=gpu_fraction)
     #sess = tf.Session(config=tf.ConfigProto(gpu_options=gpu_options))    

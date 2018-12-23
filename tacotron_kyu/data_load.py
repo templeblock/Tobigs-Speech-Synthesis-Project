@@ -43,14 +43,14 @@ def load_data(mode="train"):
     # load conversion dictionaries
     j2hcj, j2sj, j2shcj = load_j2hcj(), load_j2sj(), load_j2shcj()
 
-    if mode in ("train","eval"): #if mode == "train"에서 바꿈!
+    #if mode in ("train","eval"): #if mode == "train"에서 바꿈!
+    if mode=="train":
         # Parse
         fpaths, text_lengths, texts = [], [], []
         transcript = os.path.join(hp.data, 'transcript.v.1.1.txt')
         lines = codecs.open(transcript, 'rb', 'utf-8').readlines()
         for line in lines:
             fname, _, expanded, text, _ = line.strip().split("|")
-
             fpath = os.path.join(hp.data, fname)
             fpaths.append(fpath)
 
