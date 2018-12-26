@@ -3,7 +3,7 @@
 This is mostly adapted from https://github.com/scarletcho/KoG2P.
 g2p.py
 ~~~~~~~~~~
-This script converts Korean graphemes to romanized phones and then to pronunciation.
+This script converts Korean graphemes to romanized phones and then to pronunciation.(한국어 글자를 로마자로 변환한 다음 발음으로 변환)
     (1) graph2phone: convert Korean graphemes to romanized phones
     (2) phone2prono: convert romanized phones to pronunciation
     (3) graph2phone: convert Korean graphemes to pronunciation
@@ -66,9 +66,8 @@ def writefile(body, fname):
     out.close()
 
 
-def readRules(pver, rule_book):
-    #print('rule_book')
-    #print(rule_book)
+def readRules(pver, rule_book): #python versio 3, rulebook.txt
+    
     if pver == 2:
         f = open(rule_book, 'r')
     elif pver == 3:
@@ -79,6 +78,7 @@ def readRules(pver, rule_book):
 
     while True:
         line = f.readline()
+        
         if pver == 2:
             line = unicode(line.encode("utf-8"))
             line = re.sub(u'\n', u'', line)
@@ -87,7 +87,6 @@ def readRules(pver, rule_book):
 
         if line != u'':
             if line[0] != u'#':
-                # print(line)
                 IOlist = line.split('\t')
                 rule_in.append(IOlist[0])
                 if IOlist[1]:
@@ -96,7 +95,10 @@ def readRules(pver, rule_book):
                     rule_out.append(u'')
         if not line: break
     f.close()
-
+    #print('======rule_in=====')
+    #print(rule_in)
+    #print('======rule_out====')
+    #print(rule_out)
     return rule_in, rule_out
 
 
@@ -130,8 +132,10 @@ def graph2phone(graphs):
 
     integers = []
     for i in range(len(graphs)):
-        integers.append(ord(graphs[i]))
-
+        integers.append(ord(graphs[i])) #graphs[i] : 그/는/ /괜/찮/은/ /척/하/려/고/ /애/쓰/는/ /것/ /~/. -> ord를 씌워서 숫자로 바꿈
+        #print('===(graphs[i])===')
+        #print(graphs[i])
+    
     # Romanization (according to Korean Spontaneous Speech corpus; 성인자유발화코퍼스)
     phones = ''
     ONS = ['k0', 'kk', 'nn', 't0', 'tt', 'rr', 'mm', 'p0', 'pp',
@@ -145,15 +149,31 @@ def graph2phone(graphs):
 
     # Pronunciation
     idx = checkCharType(integers)
+    '''
+    ===integers===
+    그는 괜찮은 척하려고 애쓰는 것 같았다.
+    [44536, 45716, 32, 44316, 52270, 51008, 32, 52377, 54616, 47140, 44256, 32, 50528, 50416, 45716, 32, 44163, 32, 44057, 50520, 45796, 46, 9219]
+    ===idx===
+    [0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, -1, -1]
+    '''
+    #  1: whitespace
+    #  0: hangul
+    # -1: non-hangul
+
     iElement = 0
     while iElement < len(integers):
-        if idx[iElement] == 0:  # not space characters
-            base = 44032
+        if idx[iElement] == 0:  # not space characters(=Hangul)
+            base = 44032 #unicode base / 음절 시작코드(10진값, 문자) : 0xAC00 (44032 ,'가' )
             df = int(integers[iElement]) - base
             iONS = int(math.floor(df / 588)) + 1
             iNUC = int(math.floor((df % 588) / 28)) + 1
             iCOD = int((df % 588) % 28) + 1
-
+            #print('===df,IONS,INUC,ICOD====')
+            #print(df) #504
+            #print(iONS) #1
+            #print(iNUC) #19
+            #print(iCOD) #1
+            #print('==============')
             s1 = '@' + ONS[iONS - 1]  # onset
             s2 = NUC[iNUC - 1]  # nucleus
 
@@ -176,18 +196,21 @@ def graph2phone(graphs):
 
     # Collapse syllable delimiters (`).
     phones = re.sub("`+", "`", phones)
+    #re.sub(pattern,repl,string) : string에서 pattern과 매치하는 텍스트를 repl로 치환
 
     # 초성 이응 삭제
     phones = phones.replace("`@oh`", "`@")
 
     # 받침 이응 'ng'으로 처리 (Velar nasal in coda position)
-    # print(phones)
     phones = phones.replace("oh`@", "ng`@")
-    # print(phones,"===")
     phones = phones.replace("oh`#", "ng`#")
     phones = re.sub('oh`$', 'ng`', phones)
 
-
+    #print('====phones====')
+    #print(phones)
+    #====phones====
+    #`@k0`xx`@nn`xx`nf`#`@k0`wq`nf`@ch`aa`nh`@xx`nf`#`@ch`vv`kf`@h0`aa`@rr`yv`@k0`oo`#`@qq`@ss`xx`@nn`xx`nf`#`@k0`vv`s0`#`@k0`aa`th`@aa`ss`@t0`aa`.`␃`
+    #그는 괜찮은 척하려고 애쓰는 것 같았다
     return phones
 
 
@@ -205,6 +228,8 @@ def phone2prono(phones, rule_in, rule_out):
 
 def graph2prono(graphs, rule_in, rule_out):
     romanized = graph2phone(graphs)
+    #print('====romanized===')
+    #print(romanized)
     prono = phone2prono(romanized, rule_in, rule_out)
 
     prono = re.sub(u'`', u' ', prono)
@@ -264,7 +289,6 @@ def runKoG2P(graph, rulebook):
 # Usage:
 if __name__ == '__main__':
     graph = args[0]
-    #print(graph)
     phonemes = runKoG2P(graph, 'rulebook.txt')
     # print(phonemes)
 

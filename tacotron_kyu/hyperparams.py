@@ -61,8 +61,8 @@ class Hyperparams:
     lr = 0.001 # Initial learning rate.
     logdir = "logdir/{}".format(num_exp)
     sampledir = 'samples/{}'.format(num_exp)
-    batch_size = 16
-    num_iterations = 400000
+    batch_size = 16 #32 -> 16
+    num_iterations = 40
 
 
 

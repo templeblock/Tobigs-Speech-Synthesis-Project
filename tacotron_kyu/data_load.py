@@ -41,10 +41,10 @@ def load_data(mode="train"):
     char2idx, idx2char = load_vocab()
 
     # load conversion dictionaries
-    j2hcj, j2sj, j2shcj = load_j2hcj(), load_j2sj(), load_j2shcj()
+    j2hcj, j2sj, j2shcj = load_j2hcj(), load_j2sj(), load_j2shcj() #자모단위로 자르려고
 
-    #if mode in ("train","eval"): #if mode == "train"에서 바꿈!
-    if mode=="train":
+    if mode in ("train","eval"): #if mode == "train"에서 바꿈!
+    #if mode=="train":
         # Parse
         fpaths, text_lengths, texts = [], [], []
         transcript = os.path.join(hp.data, 'transcript.v.1.1.txt')
@@ -57,6 +57,8 @@ def load_data(mode="train"):
             if hp.num_exp==0:
                 text = expanded + u"␃"  # ␃: EOS
                 text = runKoG2P(text, "rulebook.txt")
+                #print('====text====')
+                #print(text)
             else:
                 text += u"␃"  # ␃: EOS
                 if hp.num_exp==2:
@@ -104,8 +106,8 @@ def load_data(mode="train"):
         for i, sent in enumerate(sents):
             #print(i,sent)
             texts[i, :len(sent)] = sent
-        print("====texts====")
-        print(texts)
+        #print("====texts====")
+        #print(texts)
         return texts
 
 def get_batch():
