@@ -213,7 +213,8 @@ def attention_decoder(inputs, memory, num_units=None, scope="attention_decoder",
     with tf.variable_scope(scope, reuse=reuse):
         if num_units is None:
             num_units = inputs.get_shape().as_list[-1]
-        
+        #print('===num_units===')
+        #print(num_units) #256
         attention_mechanism = tf.contrib.seq2seq.BahdanauAttention(num_units, 
                                                                    memory)
         decoder_cell = tf.contrib.rnn.GRUCell(num_units)
@@ -242,10 +243,10 @@ def prenet(inputs, num_units=None, is_training=True, scope="prenet", reuse=None)
         num_units = [hp.embed_size, hp.embed_size//2]
         
     with tf.variable_scope(scope, reuse=reuse):
-        outputs = tf.layers.dense(inputs, units=num_units[0], activation=tf.nn.relu, name="dense1")
-        outputs = tf.layers.dropout(outputs, rate=hp.dropout_rate, training=is_training, name="dropout1")
-        outputs = tf.layers.dense(outputs, units=num_units[1], activation=tf.nn.relu, name="dense2")
-        outputs = tf.layers.dropout(outputs, rate=hp.dropout_rate, training=is_training, name="dropout2") 
+        outputs = tf.layers.dense(inputs, units=num_units[0], activation=tf.nn.relu, name="dense1") #fully connected + ReLU
+        outputs = tf.layers.dropout(outputs, rate=hp.dropout_rate, training=is_training, name="dropout1") #dropout
+        outputs = tf.layers.dense(outputs, units=num_units[1], activation=tf.nn.relu, name="dense2") #Fully connected + ReLU
+        outputs = tf.layers.dropout(outputs, rate=hp.dropout_rate, training=is_training, name="dropout2") #Dropout
     return outputs # (N, ..., num_units[1])
 
 def highwaynet(inputs, num_units=None, scope="highwaynet", reuse=None):
@@ -257,7 +258,7 @@ def highwaynet(inputs, num_units=None, scope="highwaynet", reuse=None):
              or uses the input size if `None`.
       scope: Optional scope for `variable_scope`.  
       reuse: Boolean, whether to reuse the weights of a previous layer
-        by the same name.
+        by the same name. 
 
     Returns:
       A 3D tensor of shape [N, T, W].
@@ -270,4 +271,5 @@ def highwaynet(inputs, num_units=None, scope="highwaynet", reuse=None):
         T = tf.layers.dense(inputs, units=num_units, activation=tf.nn.sigmoid,
                             bias_initializer=tf.constant_initializer(-1.0), name="dense2")
         outputs = H*T + inputs*(1.-T)
+        #outputs : 한 층의 신경망을 거친 결과, H와 원래 입력 두 값을 weighted sum하는 구조(일반화에 도움이됨)
     return outputs

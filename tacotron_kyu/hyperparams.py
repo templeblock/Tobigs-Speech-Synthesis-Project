@@ -6,7 +6,7 @@ https://www.github.com/kyubyong/tacotron
 '''
 class Hyperparams:
     '''Hyper parameters'''
-    num_exp=0
+    num_exp=4
     # pipeline
     prepro = False  # if True, run `python prepro.py` first before running `python train.py`.
 
@@ -27,17 +27,21 @@ class Hyperparams:
     win_length = int(sr*frame_length) # samples.
     n_mels = 80 # Number of Mel banks to generate
     power = 1.5 # Exponent for amplifying the predicted magnitude
-    n_iter = 50 # Number of inversion iterations
+    n_iter = 100 # Number of inversion iterations (50->100)
     preemphasis = .97 # or None
     max_db = 100
     ref_db = 20
 
     # model
-    embed_size = 128 # alias = E
-    encoder_num_banks = 16
+    embed_size = 256 # alias = E (256->128로 바꿨음) / shape이 다르면 checkpoint 사용 불가
+    encoder_num_banks = 5 #16 -> 5로 바꿈
     decoder_num_banks = 8
     num_highwaynet_blocks = 4
     r = 5 # Reduction factor. Paper => 2, 3, 5
+    #Decoder time step 당 하나가 아닌 여러 frame의 spectrogram을 예상함으로써 훈련시간, 합성시간, 모델 size를 줄임
+    #연속한 frame의 spectrogram끼리 서로 겹치는 정보가 많기 때문에 가능
+    #디코더 time step당 예측하는 frame의 갯수를 reduction factor(r)이라 부름
+
     dropout_rate = .5
 
     if num_exp == 0:
@@ -58,11 +62,11 @@ class Hyperparams:
 
 
     # training scheme
-    lr = 0.001 # Initial learning rate.
+    lr = 0.002 # Initial learning rate. (0.001 -> 0.002)
     logdir = "logdir/{}".format(num_exp)
     sampledir = 'samples/{}'.format(num_exp)
     batch_size = 16 #32 -> 16
-    num_iterations = 40
+    num_iterations = 4000
 
 
 

@@ -142,7 +142,7 @@ def get_batch():
         fname.set_shape(())
         text.set_shape((None,))
         mel.set_shape((None, hp.n_mels*hp.r)) #hp.n_mels->hp,n_mels*hp.r (matching with y_hat)
-        mag.set_shape((None, hp.n_fft//2+1))
+        mag.set_shape((None, hp.n_fft//2+1)) #1025
 
         # Batching
         _, (texts, mels, mags, fnames) = tf.contrib.training.bucket_by_sequence_length(

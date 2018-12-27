@@ -65,17 +65,20 @@ class Graph:
             self.z_hat = decoder2(self.y_hat, is_training=is_training) # (N, T_y//r, (1+n_fft//2)*r)
 
         # monitor
-        self.audio = tf.py_func(spectrogram2wav, [self.z_hat[0]], tf.float32)
-
+        self.audio = tf.py_func(spectrogram2wav, [self.z_hat[0]], tf.float32) 
+        #decoder2를 통해 나온 linear spectrogram을 음성신호로 합성할때 Griffin Lim(=spectrogram2wav)사용
+        #반복적인 과정을 통해 주어진 modified STFT magnitude와 가장 비슷한 STFT magnitude을 가진 음성 기호를 복원하는 알고리즘
+            #1. 이전 단계에서 출력된 음성신호의 STFT를 계산한 뒤 진폭을 입력으로 주어진 MSTFTM으로 대체
+            #2. 새로운 STFT의 진폭과 입력 MSTFT의 진폭이 squared error가 최소가 되도록 원래 신호를 복원
+            #1.,2. iter
         if mode in ("train", "eval"):
             # Loss
             #print('shape???')
             #print(self.y_hat.shape) #(16,?,400)
             #print(self.y.shape) #(16,?,80)
-            self.loss1 = tf.reduce_mean(tf.abs(self.y_hat - self.y))
-            
-            self.loss2 = tf.reduce_mean(tf.abs(self.z_hat - self.z))
-            self.loss = self.loss1 + self.loss2
+            self.loss1 = tf.reduce_mean(tf.abs(self.y_hat - self.y)) #decoder의 mel scale spectrogram의 L1 loss            
+            self.loss2 = tf.reduce_mean(tf.abs(self.z_hat - self.z)) #후처리 네트워크의 linear scale spectrogram의 L1 loss
+            self.loss = self.loss1 + self.loss2 #가중치 합
 
             # Training Scheme
             self.global_step = tf.Variable(0, name='global_step', trainable=False)
@@ -114,11 +117,9 @@ if __name__ == '__main__':
     
     #with g.graph.as_default():
     sv = tf.train.Supervisor(logdir=hp.logdir, save_summaries_secs=60, save_model_secs=0)
-    #print('here?????')
+    # supervisor는 세션 초기화를 관리하고, checkpoint로부터 모델을 복원하고 
+    # 에러가 발생하거나 연산이 완료되면 프로그램을 종료.
     with sv.managed_session() as sess:
-    #with tf.Session() as sess:
-        #print('here??')
-        #sess.run(tf.global_variables_initializer())
         while 1:
             for _ in tqdm(range(g.num_batch), total=g.num_batch, ncols=70, leave=False, unit='b'):
                 _, gs = sess.run([g.train_op, g.global_step])

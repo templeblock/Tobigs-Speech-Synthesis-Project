@@ -104,11 +104,12 @@ def spectrogram2wav(mag):
     return wav.astype(np.float32)
 
 
-def griffin_lim(spectrogram):
+def griffin_lim(spectrogram): #vocoder(스펙트로그램들을 CBHG를 거치고 Griffin-Lim을 거쳐서 음성을 만듦)
+  #decoder2를 통해 나온 linear spectrogram을 음성 신호로 합성할때 사용
     '''Applies Griffin-Lim's raw.
     '''
     X_best = copy.deepcopy(spectrogram)
-    for i in range(hp.n_iter):
+    for i in range(hp.n_iter): #griffin_lim 
         X_t = invert_spectrogram(X_best)
         est = librosa.stft(X_t, hp.n_fft, hp.hop_length, win_length=hp.win_length)
         phase = est / np.maximum(1e-8, np.abs(est))

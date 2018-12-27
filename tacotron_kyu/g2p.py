@@ -282,7 +282,8 @@ def runKoG2P(graph, rulebook):
         prono = graph2prono(graph, rule_in, rule_out)
 
     phones = [phone.replace("#", " ") for phone in prono.split()]
-
+    print('====phones====')
+    print(phones)
     return phones
 
 
