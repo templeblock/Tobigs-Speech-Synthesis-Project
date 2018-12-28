@@ -70,7 +70,7 @@ class Hyperparams:
     logdir = "logdir/{}".format(num_exp)
     sampledir = 'samples/{}'.format(num_exp)
     batch_size = 16 #32 -> 16
-    num_iterations = 40000
+    num_iterations = 400
 
 
 

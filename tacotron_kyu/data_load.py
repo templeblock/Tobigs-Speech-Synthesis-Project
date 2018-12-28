@@ -50,6 +50,8 @@ def load_data(mode="train"):
         transcript = os.path.join(hp.data, 'transcript.v.1.1.txt')
         lines = codecs.open(transcript, 'rb', 'utf-8').readlines()
         for line in lines:
+            #print('====line====')
+            #print(line.strip().split("|"))
             fname, _, expanded, text, _ = line.strip().split("|")
             fpath = os.path.join(hp.data, fname)
             fpaths.append(fpath)
