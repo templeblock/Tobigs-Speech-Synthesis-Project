@@ -217,7 +217,7 @@ def attention_decoder(inputs, memory, num_units=None, scope="attention_decoder",
         #print(num_units) #256
         attention_mechanism = tf.contrib.seq2seq.BahdanauAttention(num_units, 
                                                                    memory)
-        decoder_cell = tf.contrib.rnn.GRUCell(num_units)
+        decoder_cell = tf.contrib.rnn.GRUCell(num_units) #256 GRU 1 layer
         cell_with_attention = tf.contrib.seq2seq.AttentionWrapper(decoder_cell,
                                                                   attention_mechanism,
                                                                   num_units,
@@ -227,6 +227,7 @@ def attention_decoder(inputs, memory, num_units=None, scope="attention_decoder",
     return outputs, state
 
 def prenet(inputs, num_units=None, is_training=True, scope="prenet", reuse=None):
+    # Encoder pre-net(dropout 기법을 적용한 2층의 fully connected layer로서 overfitting을 방지하고 training이 수렴하는걸 도움)
     '''Prenet for Encoder and Decoder1.
     Args:
       inputs: A 2D or 3D tensor.
@@ -241,7 +242,7 @@ def prenet(inputs, num_units=None, is_training=True, scope="prenet", reuse=None)
     '''
     if num_units is None:
         num_units = [hp.embed_size, hp.embed_size//2]
-        
+    #print(num_units) #[256,128]
     with tf.variable_scope(scope, reuse=reuse):
         outputs = tf.layers.dense(inputs, units=num_units[0], activation=tf.nn.relu, name="dense1") #fully connected + ReLU
         outputs = tf.layers.dropout(outputs, rate=hp.dropout_rate, training=is_training, name="dropout1") #dropout

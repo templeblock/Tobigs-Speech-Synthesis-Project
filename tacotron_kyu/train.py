@@ -63,7 +63,8 @@ class Graph:
                                                      is_training=is_training) # (N, T_y//r, n_mels*r)
             # Decoder2 or postprocessing
             self.z_hat = decoder2(self.y_hat, is_training=is_training) # (N, T_y//r, (1+n_fft//2)*r)
-
+        #print('===z_hat===')
+        #print(self.z_hat.shape)
         # monitor
         self.audio = tf.py_func(spectrogram2wav, [self.z_hat[0]], tf.float32) 
         #decoder2를 통해 나온 linear spectrogram을 음성신호로 합성할때 Griffin Lim(=spectrogram2wav)사용
@@ -79,6 +80,8 @@ class Graph:
             self.loss1 = tf.reduce_mean(tf.abs(self.y_hat - self.y)) #decoder의 mel scale spectrogram의 L1 loss            
             self.loss2 = tf.reduce_mean(tf.abs(self.z_hat - self.z)) #후처리 네트워크의 linear scale spectrogram의 L1 loss
             self.loss = self.loss1 + self.loss2 #가중치 합
+            #Each L1 Loss의 가중치는 같고, linear scale spectrogram의 L1 loss는 3000 Hz이하의 값들에 대해 가중치를 둬서 사용함
+            #(L2 / L1 에서 5000Hz이하 값들에 가중치를 둘때보다 성능 좋음)
 
             # Training Scheme
             self.global_step = tf.Variable(0, name='global_step', trainable=False)
@@ -130,6 +133,8 @@ if __name__ == '__main__':
 
                     # plot the first alignment for logging
                     al = sess.run(g.alignments)
+                    print('====al=====')
+                    print(al[0])
                     plot_alignment(al[0], gs)
             if gs >hp.num_iterations: break
 

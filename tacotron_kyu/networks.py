@@ -14,6 +14,7 @@ import tensorflow as tf
 
 def encoder(inputs, is_training=True, scope="encoder", reuse=None): #text를 숫자로 변형 (prenet -> CBHG(1-D Convolution Bank + Highway network + Bidirectional GRU))
     #입력문자 embedding열을 받아 annotation vector를 출력하는 부분
+    #for robust encoder, using CBHG, not RNN
     '''
     Args:
       inputs: A 2d tensor with shape of [N, T_x, E], with dtype of int32. Encoder inputs.
@@ -28,7 +29,7 @@ def encoder(inputs, is_training=True, scope="encoder", reuse=None): #text를 숫
     with tf.variable_scope(scope, reuse=reuse): 
         # Encoder pre-net(dropout 기법을 적용한 2층의 fully connected layer로서 overfitting을 방지하고 training이 수렴하는걸 도움)
         prenet_out = prenet(inputs, is_training=is_training) # (N, T_x, E/2)
-        
+        #print(prenet_out) #Tensor("net/encoder/prenet/dropout2/dropout/mul:0", shape=(16, ?, 128), dtype=float32) , cf) embed_size = 256
         # Encoder CBHG(보다 robust한 인코더를 위해 RNN이 아닌 CBHG사용, 그 전에는 입력 문자 임베딩 열이 pre-net을 거치도록함)
         ## Conv1D banks
         enc = conv1d_banks(prenet_out, K=hp.encoder_num_banks, is_training=is_training) # (N, T_x, K*E/2) / K = 5
@@ -63,7 +64,7 @@ def decoder1(inputs, memory, is_training=True, scope="decoder1", reuse=None):
     '''
     Args:
       inputs: A 3d tensor with shape of [N, T_y/r, n_mels(*r)]. Shifted log melspectrogram of sound files.
-      memory: A 3d tensor with shape of [N, T_x, E].
+      memory: A 3d tensor with shape of [N, T_x, E]. (encoder's output)
       is_training: Whether or not the layer is in training mode.
       scope: Optional scope for `variable_scope`
       reuse: Boolean, whether to reuse the weights of a previous layer
@@ -80,18 +81,22 @@ def decoder1(inputs, memory, is_training=True, scope="decoder1", reuse=None):
     
         # Attention RNN
         dec, state = attention_decoder(inputs, memory, num_units=hp.embed_size) # (N, T_y/r, E)
+        #the output of 'prenet' is the attention_docoder's input
         
         ## for attention monitoring
-        alignments = tf.transpose(state.alignment_history.stack(),[1,2,0])력
-        #print('-----alignment-----')
-        #print(alignments.shape) #(16,?,?)
+        alignments = tf.transpose(state.alignment_history.stack(),[1,2,0]) #attention RNN's hidden state is the input of alignment model
+        
         # Decoder RNNs
-        dec += gru(dec, hp.embed_size, bidirection=False, scope="decoder_gru1") # (N, T_y/r, E) / residual connections
+        dec += gru(dec, hp.embed_size, bidirection=False, scope="decoder_gru1") # (N, T_y/r, E) / include residual connections with 2 layer 256-unit GRU
         dec += gru(dec, hp.embed_size, bidirection=False, scope="decoder_gru2") # (N, T_y/r, E)
         #print('------dec-----')
         #print(dec.shape) #(16,?,128)
         # Outputs => (N, T_y/r, n_mels*r)
         mel_hats = tf.layers.dense(dec, hp.n_mels*hp.r) #(16,?,400)
+        #r(reduction factor) : decoder time step당 하나가 아닌 여러 프레임의 스펙트로그램을 예상함으로써 훈련시간, 합성시간, 모델 사이즈를 줄임
+        #연속한 프레임의 스펙트로그램끼리 서로 겹치는 정보가 많기 때문에 가능
+        #decoder time step당 예측하는 프레임의 개수를 reduction factor라고 부름
+
         #print('======mel_hats=====')
         #print(mel_hats.shape)
     return mel_hats, alignments
@@ -146,3 +151,5 @@ def decoder2(inputs, is_training=True, scope="decoder2", reuse=None):
 
     return outputs #linear spectrogram을 출력
     #음성 신호를 합성하기 위해 1025차 linear scale spectrogram으로 변환한 뒤 최종적으로 음성 신호 출력
+    #데이터가 부족할 경우 후처리 네트워크로의 scale 변환이라는 간단한 목적으로 CBHG모듈에서 convolution bank와 bidirectional GRU를 제외한
+    #2층의 256-unit highway 네트워크를 사용할 수 있음
