@@ -51,7 +51,7 @@ def get_spectrograms(fpath):
     y, _ = librosa.effects.trim(y)
 
     # Preemphasis
-    y = np.append(y[0], y[1:] - hp.preemphasis * y[:-1])
+    y = np.append(y[0], https://www.tensorflow.org/tutorials/sequences/audio_recognitiony[1:] - hp.preemphasis * y[:-1])
 
     # stft
     linear = librosa.stft(y=y,

@@ -21,8 +21,10 @@ class Hyperparams:
     # signal processing
     sr = 22050 # Sample rate.
     n_fft = 2048 # fft points (samples)
-    frame_shift = 0.0125 # seconds (overlab length : 0.0125 -> 0.025) #0.025로 줄이려면 다른것도 손봐야하는듯(error)
-    frame_length = 0.05 # seconds (frame length : 0.05 -> 0.1) ##0.1로 줄이려면 다른것도 손봐야하는듯(error)
+    frame_shift = 0.0125 # seconds (overlab length : 0.0125 -> 0.025) #0.025로 줄이려면 다른것도 손봐야하는듯(error) / = stride
+    frame_length = 0.05 # seconds (frame length : 0.05 -> 0.1) ##0.1로 줄이려면 다른것도 손봐야하는듯(error) / = window size
+    #음파 data(wav)를 분석하기 위해서 data를 window size(Frame length)크기로 stride(frame shift)씩 이동하면서 자르고,
+    #자른 data를 discrete Fourier Transformation한다. 이렇게 하는 것을 stft라 한다. 이때 output의 크기를 결정할 fft_length를 정해주어야 한다
     hop_length = int(sr*frame_shift) # samples.
     win_length = int(sr*frame_length) # samples.
     n_mels = 80 # Number of Mel banks to generate
@@ -70,7 +72,7 @@ class Hyperparams:
     logdir = "logdir/{}".format(num_exp)
     sampledir = 'samples/{}'.format(num_exp)
     batch_size = 16 #32 -> 16
-    num_iterations = 400
+    num_iterations = 400000
 
 
 

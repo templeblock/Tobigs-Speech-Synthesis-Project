@@ -133,8 +133,8 @@ if __name__ == '__main__':
 
                     # plot the first alignment for logging
                     al = sess.run(g.alignments)
-                    print('====al=====')
-                    print(al[0])
+                    #print('====al=====')
+                    #print(al[0])
                     plot_alignment(al[0], gs)
             if gs >hp.num_iterations: break
 
