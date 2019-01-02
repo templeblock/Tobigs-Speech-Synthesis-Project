@@ -216,7 +216,7 @@ def attention_decoder(inputs, memory, num_units=None, scope="attention_decoder",
         #print('===num_units===')
         #print(num_units) #256
         attention_mechanism = tf.contrib.seq2seq.BahdanauAttention(num_units, 
-                                                                   memory,normalize=True)
+                                                                   memory)#,normalize=True)
         decoder_cell = tf.contrib.rnn.GRUCell(num_units) #256 GRU 1 layer
         cell_with_attention = tf.contrib.seq2seq.AttentionWrapper(decoder_cell,
                                                                   attention_mechanism,

@@ -19,7 +19,7 @@ class Hyperparams:
     max_duration = 10.0
 
     # signal processing
-    sr = 22050 # Sample rate.
+    sr = 24000 # Sample rate. (22050 -> 24000)
     n_fft = 2048 # fft points (samples)
     frame_shift = 0.0125 # seconds (overlab length : 0.0125 -> 0.025) #0.025로 줄이려면 다른것도 손봐야하는듯(error) / = stride
     frame_length = 0.05 # seconds (frame length : 0.05 -> 0.1) ##0.1로 줄이려면 다른것도 손봐야하는듯(error) / = window size
@@ -29,7 +29,7 @@ class Hyperparams:
     win_length = int(sr*frame_length) # samples.
     n_mels = 80 # Number of Mel banks to generate
     power = 1.5 # Exponent for amplifying the predicted magnitude
-    n_iter = 50 # Number of inversion iterations (griffin lim iter num : 50->100)
+    n_iter = 100 # Number of inversion iterations (griffin lim iter num : 50->100)
     preemphasis = .97 # or None
     max_db = 100
     ref_db = 20
@@ -37,11 +37,11 @@ class Hyperparams:
     fmax = 7600
 
     # model
-    embed_size = 128 # alias = E (256->128로 바꿨음) / shape이 다르면 checkpoint 사용 불가
-    encoder_num_banks = 5 #16 -> 5로 바꿈 (training data의 양이 적을수록 K는 작아야 함(모델링하는 n-gram의 최대 n이 작아야 한다))
+    embed_size = 256 # alias = E (128 -> 256로 바꿨음) / shape이 다르면 checkpoint 사용 불가
+    encoder_num_banks = 16 #16 -> 5로 바꿈 (training data의 양이 적을수록 K는 작아야 함(모델링하는 n-gram의 최대 n이 작아야 한다))
     #DB양 9~11시간 : 5 / 6시간 : 3
-    decoder_num_banks = 3 #8->3
-    num_highwaynet_blocks = 2 #4->2
+    decoder_num_banks = 8 #8->3
+    num_highwaynet_blocks = 4 #4->2
     r = 5 # Reduction factor. Paper => 2, 3, 5
     #Decoder time step 당 하나가 아닌 여러 frame의 spectrogram을 예상함으로써 훈련시간, 합성시간, 모델 size를 줄임
     #연속한 frame의 spectrogram끼리 서로 겹치는 정보가 많기 때문에 가능
@@ -72,7 +72,7 @@ class Hyperparams:
     logdir = "logdir/{}".format(num_exp)
     sampledir = 'samples/{}'.format(num_exp)
     batch_size = 16 #32 -> 16
-    num_iterations = 400000
+    num_iterations = 500000
 
 
 

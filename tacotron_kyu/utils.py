@@ -51,7 +51,7 @@ def get_spectrograms(fpath):
     y, _ = librosa.effects.trim(y)
 
     # Preemphasis
-    y = np.append(y[0], https://www.tensorflow.org/tutorials/sequences/audio_recognitiony[1:] - hp.preemphasis * y[:-1])
+    y = np.append(y[0], y[1:] - hp.preemphasis * y[:-1])
 
     # stft
     linear = librosa.stft(y=y,
@@ -63,7 +63,7 @@ def get_spectrograms(fpath):
     mag = np.abs(linear)  # (1+n_fft//2, T)
 
     # mel spectrogram
-    mel_basis = librosa.filters.mel(hp.sr, hp.n_fft, hp.n_mels, min=hp.fmin, fmax=hp.fmax)  # (n_mels, 1+n_fft//2) / fmin, fmax추가 (noise를 줄이기 위해)
+    mel_basis = librosa.filters.mel(hp.sr, hp.n_fft, hp.n_mels, fmin=hp.fmin, fmax=hp.fmax)  # (n_mels, 1+n_fft//2) / fmin, fmax추가 (noise를 줄이기 위해)
     mel = np.dot(mel_basis, mag)  # (n_mels, t)
 
     # to decibel
