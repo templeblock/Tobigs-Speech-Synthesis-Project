@@ -1,0 +1,1039 @@
+1_0000-audio.npy|1_0000-mel.npy|1_0000-linear.npy|75900|253|그는 괜찮은 척하려고 애쓰는 것 같았다.|1_0000.npz
+1_0001-audio.npy|1_0001-mel.npy|1_0001-linear.npy|83700|279|그녀의 사랑을 얻기 위해 애썼지만 헛수고였다.|1_0001.npz
+1_0002-audio.npy|1_0002-mel.npy|1_0002-linear.npy|37800|126|용돈을 아껴 써라.|1_0002.npz
+1_0003-audio.npy|1_0003-mel.npy|1_0003-linear.npy|50100|167|그는 아내를 많이 아낀다.|1_0003.npz
+1_0004-audio.npy|1_0004-mel.npy|1_0004-linear.npy|25800|86|그 애 전화번호 알아?|1_0004.npz
+1_0005-audio.npy|1_0005-mel.npy|1_0005-linear.npy|33300|111|차에 대해 잘 아세요?|1_0005.npz
+1_0006-audio.npy|1_0006-mel.npy|1_0006-linear.npy|57000|190|거기 도착하면 나한테 알려 줘.|1_0006.npz
+1_0007-audio.npy|1_0007-mel.npy|1_0007-linear.npy|76200|254|그들은 내가 시험에 떨어졌다고 알려 왔다.|1_0007.npz
+1_0008-audio.npy|1_0008-mel.npy|1_0008-linear.npy|90900|303|나는 살아오면서 감기를 앓은 적이 한 번도 없다.|1_0008.npz
+1_0009-audio.npy|1_0009-mel.npy|1_0009-linear.npy|66600|222|사흘 동안 심하게 몸살을 앓았어요.|1_0009.npz
+1_0010-audio.npy|1_0010-mel.npy|1_0010-linear.npy|39600|132|요즘 공부가 안돼요.|1_0010.npz
+1_0011-audio.npy|1_0011-mel.npy|1_0011-linear.npy|54300|181|장사가 잘 안돼서 우울해.|1_0011.npz
+1_0012-audio.npy|1_0012-mel.npy|1_0012-linear.npy|69000|230|아무 것도 먹지 않으면 죽게 되어 있다.|1_0012.npz
+1_0013-audio.npy|1_0013-mel.npy|1_0013-linear.npy|85200|284|그녀는 이유를 묻지 않고 돈을 빌려 주었다.|1_0013.npz
+1_0014-audio.npy|1_0014-mel.npy|1_0014-linear.npy|45000|150|내가 아기를 안고 있을게.|1_0014.npz
+1_0015-audio.npy|1_0015-mel.npy|1_0015-linear.npy|87300|291|엄마는 말없이 나를 꼭 안아 주셨다.|1_0015.npz
+1_0016-audio.npy|1_0016-mel.npy|1_0016-linear.npy|23700|79|자리에 앉으세요.|1_0016.npz
+1_0017-audio.npy|1_0017-mel.npy|1_0017-linear.npy|45600|152|한 여자가 내 옆에 앉았다.|1_0017.npz
+1_0018-audio.npy|1_0018-mel.npy|1_0018-linear.npy|82500|275|일일사에 전화를 해서 번호를 알아보시지 그러세요?|1_0018.npz
+1_0019-audio.npy|1_0019-mel.npy|1_0019-linear.npy|36900|123|내가 누군지 알아보겠니?|1_0019.npz
+1_0020-audio.npy|1_0020-mel.npy|1_0020-linear.npy|91200|304|그는 절대 다른 사람의 의견을 받아들이지 않는다.|1_0020.npz
+1_0021-audio.npy|1_0021-mel.npy|1_0021-linear.npy|83100|277|아이들도 언젠가는 그녀를 엄마로 받아들일 거야.|1_0021.npz
+1_0022-audio.npy|1_0022-mel.npy|1_0022-linear.npy|45300|151|어디에서 영어를 배우셨어요?|1_0022.npz
+1_0023-audio.npy|1_0023-mel.npy|1_0023-linear.npy|56100|187|동료에게서 수화를 배우고 있습니다.|1_0023.npz
+1_0024-audio.npy|1_0024-mel.npy|1_0024-linear.npy|48000|160|이거 다른 걸로 바꿀 수 있을까요?|1_0024.npz
+1_0025-audio.npy|1_0025-mel.npy|1_0025-linear.npy|44400|148|색깔을 바꾸는 게 나을 거 같아.|1_0025.npz
+1_0026-audio.npy|1_0026-mel.npy|1_0026-linear.npy|32400|108|소영이 좀 바꿔 주세요.|1_0026.npz
+1_0027-audio.npy|1_0027-mel.npy|1_0027-linear.npy|40800|136|눈이 얼음으로 바뀌었어.|1_0027.npz
+1_0028-audio.npy|1_0028-mel.npy|1_0028-linear.npy|50700|169|핸드폰이 네 거랑 바뀐 거 같아.|1_0028.npz
+1_0029-audio.npy|1_0029-mel.npy|1_0029-linear.npy|69600|232|그 차는 들판에 버려진 채 발견됐다.|1_0029.npz
+1_0030-audio.npy|1_0030-mel.npy|1_0030-linear.npy|81900|273|이번 달 초에 상어떼가 해안가에서 발견됐다.|1_0030.npz
+1_0031-audio.npy|1_0031-mel.npy|1_0031-linear.npy|67200|224|오타를 발견하시는 분께 사례하겠습니다.|1_0031.npz
+1_0032-audio.npy|1_0032-mel.npy|1_0032-linear.npy|73200|244|결국 그의 개가 그의 시신을 발견했다.|1_0032.npz
+1_0033-audio.npy|1_0033-mel.npy|1_0033-linear.npy|90900|303|정신분석학은 이십 세기에 급격히 발전했다.|1_0033.npz
+1_0034-audio.npy|1_0034-mel.npy|1_0034-linear.npy|100500|335|한국어 실력이 날이 갈수록 발전하는 것을 보니 기쁩니다.|1_0034.npz
+1_0035-audio.npy|1_0035-mel.npy|1_0035-linear.npy|74400|248|죄송하지만 제 이름을 밝힐 수는 없어요.|1_0035.npz
+1_0036-audio.npy|1_0036-mel.npy|1_0036-linear.npy|57900|193|정전이 되어 촛불을 밝혔다.|1_0036.npz
+1_0037-audio.npy|1_0037-mel.npy|1_0037-linear.npy|101400|338|모두가 시험에 통과했음을 발표하게 되어 기쁘게 생각합니다.|1_0037.npz
+1_0038-audio.npy|1_0038-mel.npy|1_0038-linear.npy|92700|309|그 밴드는 첫 음반을 발표한 직후에 해체했다.|1_0038.npz
+1_0039-audio.npy|1_0039-mel.npy|1_0039-linear.npy|55800|186|화재가 발생하지 않도록 조심해라.|1_0039.npz
+1_0040-audio.npy|1_0040-mel.npy|1_0040-linear.npy|61500|205|어제 일본에서 태풍이 발생했다.|1_0040.npz
+1_0041-audio.npy|1_0041-mel.npy|1_0041-linear.npy|54300|181|돌고래는 지능이 발달했다.|1_0041.npz
+1_0042-audio.npy|1_0042-mel.npy|1_0042-linear.npy|62100|207|이 지역에는 농업이 발달했어요.|1_0042.npz
+1_0043-audio.npy|1_0043-mel.npy|1_0043-linear.npy|58500|195|그녀는 내 제안에 반대했다.|1_0043.npz
+1_0044-audio.npy|1_0044-mel.npy|1_0044-linear.npy|47700|159|저는 무력 사용을 반대합니다.|1_0044.npz
+1_0045-audio.npy|1_0045-mel.npy|1_0045-linear.npy|72600|242|밤늦게 남의 집을 방문하는 것은 실례다.|1_0045.npz
+1_0046-audio.npy|1_0046-mel.npy|1_0046-linear.npy|62700|209|저희 회사에 방문해 주셔서 감사드립니다.|1_0046.npz
+1_0047-audio.npy|1_0047-mel.npy|1_0047-linear.npy|58200|194|너는 브레이크를 너무 세게 밟아.|1_0047.npz
+1_0048-audio.npy|1_0048-mel.npy|1_0048-linear.npy|96600|322|어떤 남자가 지하철에서 내 발을 밟고 모른 척했다.|1_0048.npz
+1_0049-audio.npy|1_0049-mel.npy|1_0049-linear.npy|90000|300|그녀는 호기심으로 가득찬 눈으로 나를 바라보았다.|1_0049.npz
+1_0050-audio.npy|1_0050-mel.npy|1_0050-linear.npy|92100|307|이 문제는 제 삼 자의 시각에서 바라볼 필요가 있어.|1_0050.npz
+1_0051-audio.npy|1_0051-mel.npy|1_0051-linear.npy|56700|189|저한테 너무 많은 걸 바라지 마세요.|1_0051.npz
+1_0052-audio.npy|1_0052-mel.npy|1_0052-linear.npy|38400|128|빨리 나으시길 바랍니다.|1_0052.npz
+1_0053-audio.npy|1_0053-mel.npy|1_0053-linear.npy|42300|141|입술에 침이나 바르고 말해.|1_0053.npz
+1_0054-audio.npy|1_0054-mel.npy|1_0054-linear.npy|40500|135|선크림을 발랐어야지.|1_0054.npz
+1_0055-audio.npy|1_0055-mel.npy|1_0055-linear.npy|59400|198|나는 생일 선물로 책을 받았다.|1_0055.npz
+1_0056-audio.npy|1_0056-mel.npy|1_0056-linear.npy|29100|97|신용 카드를 받나요?|1_0056.npz
+1_0057-audio.npy|1_0057-mel.npy|1_0057-linear.npy|32100|107|스트레스 받는 일 있어?|1_0057.npz
+1_0058-audio.npy|1_0058-mel.npy|1_0058-linear.npy|49200|164|어떻게 그렇게 돈을 버셨어요?|1_0058.npz
+1_0059-audio.npy|1_0059-mel.npy|1_0059-linear.npy|44700|149|한 달에 삼백만 원을 법니다.|1_0059.npz
+1_0060-audio.npy|1_0060-mel.npy|1_0060-linear.npy|28200|94|입을 벌려 보세요.|1_0060.npz
+1_0061-audio.npy|1_0061-mel.npy|1_0061-linear.npy|67200|224|지하철에서 다리를 벌리고 앉지 마라.|1_0061.npz
+1_0062-audio.npy|1_0062-mel.npy|1_0062-linear.npy|49800|166|벽 사이에 벌어진 틈이 있어.|1_0062.npz
+1_0063-audio.npy|1_0063-mel.npy|1_0063-linear.npy|62400|208|그 법안을 놓고 말다툼이 벌어졌어.|1_0063.npz
+1_0064-audio.npy|1_0064-mel.npy|1_0064-linear.npy|53700|179|담배 꽁초를 여기에 버리지 마세요.|1_0064.npz
+1_0065-audio.npy|1_0065-mel.npy|1_0065-linear.npy|33900|113|돈을 다 써 버렸어|1_0065.npz
+1_0066-audio.npy|1_0066-mel.npy|1_0066-linear.npy|69300|231|내년 아버지 환갑 때 잔치를 벌일 거야.|1_0066.npz
+1_0067-audio.npy|1_0067-mel.npy|1_0067-linear.npy|57000|190|오늘 아침 아내랑 말다툼을 벌였어.|1_0067.npz
+1_0068-audio.npy|1_0068-mel.npy|1_0068-linear.npy|73200|244|가난에서 벗어나려면 습관부터 바꿔라.|1_0068.npz
+1_0069-audio.npy|1_0069-mel.npy|1_0069-linear.npy|78600|262|복잡한 도시 지역을 벗어나니 참 좋군요.|1_0069.npz
+1_0070-audio.npy|1_0070-mel.npy|1_0070-linear.npy|28500|95|외투 벗으실래요?|1_0070.npz
+1_0071-audio.npy|1_0071-mel.npy|1_0071-linear.npy|63900|213|신발이 너무 꽉 껴서 벗을 수가 없어요.|1_0071.npz
+1_0072-audio.npy|1_0072-mel.npy|1_0072-linear.npy|70500|235|아침 햇빛이 비치는 걸 보니 상쾌하군.|1_0072.npz
+1_0073-audio.npy|1_0073-mel.npy|1_0073-linear.npy|74700|249|커튼 너머에 누군가의 그림자가 비쳤다.|1_0073.npz
+1_0074-audio.npy|1_0074-mel.npy|1_0074-linear.npy|75600|252|램프가 그의 작품을 비추게 배치되어 있었다.|1_0074.npz
+1_0075-audio.npy|1_0075-mel.npy|1_0075-linear.npy|71400|238|아침마다 내 얼굴을 거울에 비춰 봐요.|1_0075.npz
+1_0076-audio.npy|1_0076-mel.npy|1_0076-linear.npy|53100|177|금고는 이미 비어 있었다.|1_0076.npz
+1_0077-audio.npy|1_0077-mel.npy|1_0077-linear.npy|34800|116|이 자리는 비었습니까?|1_0077.npz
+1_0078-audio.npy|1_0078-mel.npy|1_0078-linear.npy|59700|199|우리는 서로 답을 비교해 보았다.|1_0078.npz
+1_0079-audio.npy|1_0079-mel.npy|1_0079-linear.npy|143400|478|부모가 저지르는 큰 실수 중 하나는 자기 아이를 다른 집 아이와 비교하는 것이다.|1_0079.npz
+1_0080-audio.npy|1_0080-mel.npy|1_0080-linear.npy|52800|176|이틀 동안 차를 빌리고 싶은데요.|1_0080.npz
+1_0081-audio.npy|1_0081-mel.npy|1_0081-linear.npy|83100|277|아내에게서 돈을 빌린다는 것은 좀 이상해요.|1_0081.npz
+1_0082-audio.npy|1_0082-mel.npy|1_0082-linear.npy|71400|238|다이아몬드가 눈부시게 빛나고 있었다.|1_0082.npz
+1_0083-audio.npy|1_0083-mel.npy|1_0083-linear.npy|82800|276|모든 창에서 촛불이 반짝반짝 빛나고 있었다.|1_0083.npz
+1_0084-audio.npy|1_0084-mel.npy|1_0084-linear.npy|22800|76|영화 보러 갈까?|1_0084.npz
+1_0085-audio.npy|1_0085-mel.npy|1_0085-linear.npy|68100|227|오늘 우연히 길에서 그 여자를 봤어요.|1_0085.npz
+1_0086-audio.npy|1_0086-mel.npy|1_0086-linear.npy|24300|81|제가 해 볼게요.|1_0086.npz
+1_0087-audio.npy|1_0087-mel.npy|1_0087-linear.npy|41400|138|어디선가 뵌 분 같아요.|1_0087.npz
+1_0088-audio.npy|1_0088-mel.npy|1_0088-linear.npy|61500|205|지난번에 뵌 후 오랜만에 뵙습니다.|1_0088.npz
+1_0089-audio.npy|1_0089-mel.npy|1_0089-linear.npy|29400|98|그거 맛있어 보이네.|1_0089.npz
+1_0090-audio.npy|1_0090-mel.npy|1_0090-linear.npy|63300|211|그는 나이에 비해 정말 젊어 보인다.|1_0090.npz
+1_0091-audio.npy|1_0091-mel.npy|1_0091-linear.npy|72600|242|그녀가 나에게 사진 몇 장을 보여 주었다.|1_0091.npz
+1_0092-audio.npy|1_0092-mel.npy|1_0092-linear.npy|50100|167|주민등록증을 보여 주시겠어요?|1_0092.npz
+1_0093-audio.npy|1_0093-mel.npy|1_0093-linear.npy|50100|167|김치가 맛이 없어서 볶았어.|1_0093.npz
+1_0094-audio.npy|1_0094-mel.npy|1_0094-linear.npy|41100|137|고기를 기름에 볶지 마라.|1_0094.npz
+1_0095-audio.npy|1_0095-mel.npy|1_0095-linear.npy|62700|209|이 소포를 뉴욕으로 보내고 싶은데요.|1_0095.npz
+1_0096-audio.npy|1_0096-mel.npy|1_0096-linear.npy|53100|177|선생님께 한 부 보내 드리겠습니다.|1_0096.npz
+1_0097-audio.npy|1_0097-mel.npy|1_0097-linear.npy|30600|102|휴가 잘 보내세요.|1_0097.npz
+1_0098-audio.npy|1_0098-mel.npy|1_0098-linear.npy|84300|281|그녀는 짐 하나하나에 이름표를 붙였다.|1_0098.npz
+1_0099-audio.npy|1_0099-mel.npy|1_0099-linear.npy|75000|250|침으로 편지 봉투에 우표를 붙이지 마세요.|1_0099.npz
+1_0100-audio.npy|1_0100-mel.npy|1_0100-linear.npy|84000|280|우리는 파티 준비를 위해 풍선을 불었다.|1_0100.npz
+1_0101-audio.npy|1_0101-mel.npy|1_0101-linear.npy|28200|94|바람이 많이 불어.|1_0101.npz
+1_0102-audio.npy|1_0102-mel.npy|1_0102-linear.npy|32700|109|경찰 좀 불러 주세요.|1_0102.npz
+1_0103-audio.npy|1_0103-mel.npy|1_0103-linear.npy|64800|216|사람들은 그를 게으른 천재라고 부른다.|1_0103.npz
+1_0104-audio.npy|1_0104-mel.npy|1_0104-linear.npy|28200|94|노래 한 곡 부르세요.|1_0104.npz
+1_0105-audio.npy|1_0105-mel.npy|1_0105-linear.npy|63000|210|여행사에 예약을 부탁하는 게 어때?|1_0105.npz
+1_0106-audio.npy|1_0106-mel.npy|1_0106-linear.npy|52200|174|엄마한테 도와달라고 부탁해 봐.|1_0106.npz
+1_0107-audio.npy|1_0107-mel.npy|1_0107-linear.npy|32700|109|냄비에 물을 부어라.|1_0107.npz
+1_0108-audio.npy|1_0108-mel.npy|1_0108-linear.npy|30000|100|우유를 좀 부어 봐.|1_0108.npz
+1_0109-audio.npy|1_0109-mel.npy|1_0109-linear.npy|48600|162|신발 밑창에 껌이 붙었다.|1_0109.npz
+1_0110-audio.npy|1_0110-mel.npy|1_0110-linear.npy|75900|253|저는 운전면허시험에 세 번 만에 붙었어요.|1_0110.npz
+1_0111-audio.npy|1_0111-mel.npy|1_0111-linear.npy|70500|235|밤이 되면 그녀는 괴물로 변한다.|1_0111.npz
+1_0112-audio.npy|1_0112-mel.npy|1_0112-linear.npy|33000|110|전혀 안 변하셨네요.|1_0112.npz
+1_0113-audio.npy|1_0113-mel.npy|1_0113-linear.npy|77700|259|그는 점차 냉혹한 지도자로 변화했다.|1_0113.npz
+1_0114-audio.npy|1_0114-mel.npy|1_0114-linear.npy|48000|160|지구가 빠르게 변화하고 있다.|1_0114.npz
+1_0115-audio.npy|1_0115-mel.npy|1_0115-linear.npy|82500|275|그는 공을 차는 척하면서 상대 선수를 찼다.|1_0115.npz
+1_0116-audio.npy|1_0116-mel.npy|1_0116-linear.npy|126600|422|그녀는 칠 년간 사귄 남자 친구를 차 버리고 딴 남자랑 결혼했다.|1_0116.npz
+1_0117-audio.npy|1_0117-mel.npy|1_0117-linear.npy|40200|134|소지품을 잘 챙기세요.|1_0117.npz
+1_0118-audio.npy|1_0118-mel.npy|1_0118-linear.npy|60900|203|엄마는 아빠를 엄청 챙기신다.|1_0118.npz
+1_0119-audio.npy|1_0119-mel.npy|1_0119-linear.npy|29100|97|빈칸을 채우시오.|1_0119.npz
+1_0120-audio.npy|1_0120-mel.npy|1_0120-linear.npy|39600|132|기름을 가득 채워 주세요.|1_0120.npz
+1_0121-audio.npy|1_0121-mel.npy|1_0121-linear.npy|64500|215|제 잔에는 물을 반만 채워 주세요.|1_0121.npz
+1_0122-audio.npy|1_0122-mel.npy|1_0122-linear.npy|29100|97|인터넷 찾아봤어?|1_0122.npz
+1_0123-audio.npy|1_0123-mel.npy|1_0123-linear.npy|56100|187|다 찾아봤지만 찾을 수가 없어요.|1_0123.npz
+1_0124-audio.npy|1_0124-mel.npy|1_0124-linear.npy|41100|137|내일 댁으로 찾아가겠습니다.|1_0124.npz
+1_0125-audio.npy|1_0125-mel.npy|1_0125-linear.npy|46500|155|내일까지 짐을 찾아가셔야 해요.|1_0125.npz
+1_0126-audio.npy|1_0126-mel.npy|1_0126-linear.npy|52500|175|도움이 필요하면 나를 찾아와.|1_0126.npz
+1_0127-audio.npy|1_0127-mel.npy|1_0127-linear.npy|41700|139|은행에서 돈 찾아와야 해.|1_0127.npz
+1_0128-audio.npy|1_0128-mel.npy|1_0128-linear.npy|83100|277|많은 배우들이 그 시상식에 참석하지 않았다.|1_0128.npz
+1_0129-audio.npy|1_0129-mel.npy|1_0129-linear.npy|91200|304|갑자기 시부모님이 오셔서 모임에 참석하지 못했어요.|1_0129.npz
+1_0130-audio.npy|1_0130-mel.npy|1_0130-linear.npy|41400|138|웃음을 참을 수가 없었어요.|1_0130.npz
+1_0131-audio.npy|1_0131-mel.npy|1_0131-linear.npy|30600|102|더 이상은 못 참아.|1_0131.npz
+1_0132-audio.npy|1_0132-mel.npy|1_0132-linear.npy|77100|257|엄마랑 아빠는 항상 같이 상을 차리세요.|1_0132.npz
+1_0133-audio.npy|1_0133-mel.npy|1_0133-linear.npy|39000|130|얼른 기운 차리셔야죠.|1_0133.npz
+1_0134-audio.npy|1_0134-mel.npy|1_0134-linear.npy|58500|195|교차로에서 저를 찾을 수 있을 거예요.|1_0134.npz
+1_0135-audio.npy|1_0135-mel.npy|1_0135-linear.npy|33000|110|이 책을 찾고 있어요.|1_0135.npz
+1_0136-audio.npy|1_0136-mel.npy|1_0136-linear.npy|63600|212|아기는 소리가 나는 쪽을 쳐다본다.|1_0136.npz
+1_0137-audio.npy|1_0137-mel.npy|1_0137-linear.npy|63600|212|그런 식으로 사람을 빤히 쳐다보지 마.|1_0137.npz
+1_0138-audio.npy|1_0138-mel.npy|1_0138-linear.npy|78000|260|나는 일 년에 한 번 우리 집 화장실을 청소한다.|1_0138.npz
+1_0139-audio.npy|1_0139-mel.npy|1_0139-linear.npy|39900|133|창문은 뭘로 청소하나요?|1_0139.npz
+1_0140-audio.npy|1_0140-mel.npy|1_0140-linear.npy|73800|246|그는 내 얼굴을 쳐서 자기 손목을 삐었다.|1_0140.npz
+1_0141-audio.npy|1_0141-mel.npy|1_0141-linear.npy|60600|202|테니스를 치다가 발목을 삐었어요.|1_0141.npz
+1_0142-audio.npy|1_0142-mel.npy|1_0142-linear.npy|34200|114|오늘 시험 잘 쳤어요?|1_0142.npz
+1_0143-audio.npy|1_0143-mel.npy|1_0143-linear.npy|75900|253|이번 주말 내 생일에 너를 초대하고 싶은데.|1_0143.npz
+1_0144-audio.npy|1_0144-mel.npy|1_0144-linear.npy|54900|183|그녀는 나를 자기 집으로 초대했다.|1_0144.npz
+1_0145-audio.npy|1_0145-mel.npy|1_0145-linear.npy|110100|367|낯선 사람들 앞에서 춤을 추는 건 나한테는 정말 어려운 일이야.|1_0145.npz
+1_0146-audio.npy|1_0146-mel.npy|1_0146-linear.npy|75600|252|그녀와 나는 음악에 맞추어 탱고를 췄다.|1_0146.npz
+1_0147-audio.npy|1_0147-mel.npy|1_0147-linear.npy|23400|78|결혼 축하해!|1_0147.npz
+1_0148-audio.npy|1_0148-mel.npy|1_0148-linear.npy|72900|243|할아버지의 회갑을 축하하는 잔치를 열었다.|1_0148.npz
+1_0149-audio.npy|1_0149-mel.npy|1_0149-linear.npy|65400|218|그 사람은 한 시간 전에 역으로 출발했어요.|1_0149.npz
+1_0150-audio.npy|1_0150-mel.npy|1_0150-linear.npy|70500|235|이 역에서 출발하는 사람 중에는 군인이 많아.|1_0150.npz
+1_0151-audio.npy|1_0151-mel.npy|1_0151-linear.npy|70500|235|이 기차는 부산을 세 시에 출발합니다.|1_0151.npz
+1_0152-audio.npy|1_0152-mel.npy|1_0152-linear.npy|36300|121|지금 춤출 기분이 아냐.|1_0152.npz
+1_0153-audio.npy|1_0153-mel.npy|1_0153-linear.npy|36600|122|오늘 밤에 춤추러 갈까요?|1_0153.npz
+1_0154-audio.npy|1_0154-mel.npy|1_0154-linear.npy|65400|218|소주 다섯 병에 결국 취하고 말았다.|1_0154.npz
+1_0155-audio.npy|1_0155-mel.npy|1_0155-linear.npy|25500|85|나 안 취했어.|1_0155.npz
+1_0156-audio.npy|1_0156-mel.npy|1_0156-linear.npy|38100|127|내가 한 말 취소하겠어요.|1_0156.npz
+1_0157-audio.npy|1_0157-mel.npy|1_0157-linear.npy|53700|179|죄송하지만 예약을 취소하고 싶어요.|1_0157.npz
+1_0158-audio.npy|1_0158-mel.npy|1_0158-linear.npy|51600|172|어제 농구를 하다 코를 다쳤어요.|1_0158.npz
+1_0159-audio.npy|1_0159-mel.npy|1_0159-linear.npy|27600|92|어쩌다 다친 거야?|1_0159.npz
+1_0160-audio.npy|1_0160-mel.npy|1_0160-linear.npy|37500|125|이 문은 잘 안 닫혀요.|1_0160.npz
+1_0161-audio.npy|1_0161-mel.npy|1_0161-linear.npy|59400|198|컴퓨터가 멈춰서 창이 닫히지 않아.|1_0161.npz
+1_0162-audio.npy|1_0162-mel.npy|1_0162-linear.npy|48600|162|카드를 단말기 위에 대세요.|1_0162.npz
+1_0163-audio.npy|1_0163-mel.npy|1_0163-linear.npy|64800|216|그렇게 먹어 대니까 살이 안 빠지지.|1_0163.npz
+1_0164-audio.npy|1_0164-mel.npy|1_0164-linear.npy|31200|104|질문에 대답하세요.|1_0164.npz
+1_0165-audio.npy|1_0165-mel.npy|1_0165-linear.npy|87000|290|어른들에게는 예나 아니요라고 대답해야 합니다.|1_0165.npz
+1_0166-audio.npy|1_0166-mel.npy|1_0166-linear.npy|55200|184|그녀는 나를 딸처럼 대한다.|1_0166.npz
+1_0167-audio.npy|1_0167-mel.npy|1_0167-linear.npy|44700|149|이 문제에 대해 말해 볼 사람?|1_0167.npz
+1_0168-audio.npy|1_0168-mel.npy|1_0168-linear.npy|78900|263|그 개는 낯선 사람이 다가가면 짖는다.|1_0168.npz
+1_0169-audio.npy|1_0169-mel.npy|1_0169-linear.npy|104100|347|내가 그녀에게 다가가자 그녀의 얼굴이 창백해졌다.|1_0169.npz
+1_0170-audio.npy|1_0170-mel.npy|1_0170-linear.npy|68400|228|폭풍이 다가오자 하늘이 어두워졌다.|1_0170.npz
+1_0171-audio.npy|1_0171-mel.npy|1_0171-linear.npy|47700|159|그녀가 내게 다가왔다.|1_0171.npz
+1_0172-audio.npy|1_0172-mel.npy|1_0172-linear.npy|71700|239|그는 힘이 다할 때까지 계속 소리쳤다.|1_0172.npz
+1_0173-audio.npy|1_0173-mel.npy|1_0173-linear.npy|86700|289|부모님을 실망시키지 않기 위해 최선을 다하겠다.|1_0173.npz
+1_0174-audio.npy|1_0174-mel.npy|1_0174-linear.npy|57000|190|자기 전에 이 닦는 거 잊지 마라.|1_0174.npz
+1_0175-audio.npy|1_0175-mel.npy|1_0175-linear.npy|26100|87|바닥을 닦아라.|1_0175.npz
+1_0176-audio.npy|1_0176-mel.npy|1_0176-linear.npy|47700|159|블라우스에 브로치를 달았다.|1_0176.npz
+1_0177-audio.npy|1_0177-mel.npy|1_0177-linear.npy|27300|91|태극기를 다세요.|1_0177.npz
+1_0178-audio.npy|1_0178-mel.npy|1_0178-linear.npy|77700|259|엄마가 돌아가신 후 모든 것이 달라졌어요.|1_0178.npz
+1_0179-audio.npy|1_0179-mel.npy|1_0179-linear.npy|69000|230|저는 아내 덕분에 많이 달라졌습니다.|1_0179.npz
+1_0180-audio.npy|1_0180-mel.npy|1_0180-linear.npy|74700|249|그는 결승점을 향해 전속력으로 달렸다.|1_0180.npz
+1_0181-audio.npy|1_0181-mel.npy|1_0181-linear.npy|71100|237|그 오토바이는 시속 육십 킬로로 달렸어요.|1_0181.npz
+1_0182-audio.npy|1_0182-mel.npy|1_0182-linear.npy|46500|155|포도가 나무에 달려 있었다.|1_0182.npz
+1_0183-audio.npy|1_0183-mel.npy|1_0183-linear.npy|27000|90|너한테 달렸어.|1_0183.npz
+1_0184-audio.npy|1_0184-mel.npy|1_0184-linear.npy|59400|198|아내를 업고 병원으로 달려갔다.|1_0184.npz
+1_0185-audio.npy|1_0185-mel.npy|1_0185-linear.npy|94500|315|딸아이는 저한테 혼나고 나면 엄마한테 달려가요.|1_0185.npz
+1_0186-audio.npy|1_0186-mel.npy|1_0186-linear.npy|37800|126|그릇에 물이 담겨 있어.|1_0186.npz
+1_0187-audio.npy|1_0187-mel.npy|1_0187-linear.npy|69900|233|부모님의 꾸중에는 사랑이 담겨 있다.|1_0187.npz
+1_0188-audio.npy|1_0188-mel.npy|1_0188-linear.npy|76800|256|너는 내가 아는 어떤 사람이랑 많이 닮았어.|1_0188.npz
+1_0189-audio.npy|1_0189-mel.npy|1_0189-linear.npy|81900|273|그들은 아주 친한 사이여서 서로를 닮아 가고 있다.|1_0189.npz
+1_0190-audio.npy|1_0190-mel.npy|1_0190-linear.npy|59400|198|방금 상자에 담아 둔 책이 없어졌어.|1_0190.npz
+1_0191-audio.npy|1_0191-mel.npy|1_0191-linear.npy|82800|276|고객이 감사의 마음을 담은 편지를 보내 왔어.|1_0191.npz
+1_0192-audio.npy|1_0192-mel.npy|1_0192-linear.npy|61200|204|밧줄을 너무 세게 당겨서 끊어졌어.|1_0192.npz
+1_0193-audio.npy|1_0193-mel.npy|1_0193-linear.npy|34800|116|문을 당겨서 여세요.|1_0193.npz
+1_0194-audio.npy|1_0194-mel.npy|1_0194-linear.npy|69300|231|내 동생이 어제 교통사고를 당했어.|1_0194.npz
+1_0195-audio.npy|1_0195-mel.npy|1_0195-linear.npy|72600|242|그는 자기 부하들 앞에서 창피를 당했다.|1_0195.npz
+1_0196-audio.npy|1_0196-mel.npy|1_0196-linear.npy|33300|111|어느 학교에 다녔어요?|1_0196.npz
+1_0197-audio.npy|1_0197-mel.npy|1_0197-linear.npy|68700|229|학생이세요? 아니면 직장을 다니세요?|1_0197.npz
+1_0198-audio.npy|1_0198-mel.npy|1_0198-linear.npy|69000|230|아버지는 일요일이면 사냥을 다니세요.|1_0198.npz
+1_0199-audio.npy|1_0199-mel.npy|1_0199-linear.npy|28500|95|학교 다녀왔어요.|1_0199.npz
+1_0200-audio.npy|1_0200-mel.npy|1_0200-linear.npy|73500|245|추석에는 많은 사람들이 고향을 다녀온다.|1_0200.npz
+1_0201-audio.npy|1_0201-mel.npy|1_0201-linear.npy|56400|188|용의자는 부산으로 달아났다.|1_0201.npz
+1_0202-audio.npy|1_0202-mel.npy|1_0202-linear.npy|57000|190|도둑은 개를 보고는 달아났습니다.|1_0202.npz
+1_0203-audio.npy|1_0203-mel.npy|1_0203-linear.npy|82200|274|신문 좀 내려주실래요? 선반에 손이 안 닿아서요.|1_0203.npz
+1_0204-audio.npy|1_0204-mel.npy|1_0204-linear.npy|76500|255|저희 집은 여기에서 엎어지면 코 닿을 데 있어요.|1_0204.npz
+1_0205-audio.npy|1_0205-mel.npy|1_0205-linear.npy|43500|145|창문을 좀 닫아도 될까요?|1_0205.npz
+1_0206-audio.npy|1_0206-mel.npy|1_0206-linear.npy|73500|245|저희 가게는 밤 열 시에 문을 닫습니다.|1_0206.npz
+1_0207-audio.npy|1_0207-mel.npy|1_0207-linear.npy|75300|251|마음 속으로 생각한 수에 이를 더하세요.|1_0207.npz
+1_0208-audio.npy|1_0208-mel.npy|1_0208-linear.npy|47100|157|삼 더하기 사는 칠|1_0208.npz
+1_0209-audio.npy|1_0209-mel.npy|1_0209-linear.npy|47100|157|연못에 돌을 던지지 마세요.|1_0209.npz
+1_0210-audio.npy|1_0210-mel.npy|1_0210-linear.npy|80100|267|투수는 타자가 아닌 포수에게 공을 던져야 한다.|1_0210.npz
+1_0211-audio.npy|1_0211-mel.npy|1_0211-linear.npy|23400|78|책을 덮으세요.|1_0211.npz
+1_0212-audio.npy|1_0212-mel.npy|1_0212-linear.npy|40500|135|컵을 종이로 덮어 두어라.|1_0212.npz
+1_0213-audio.npy|1_0213-mel.npy|1_0213-linear.npy|57300|191|일곱 시쯤에 너를 데리러 갈게.|1_0213.npz
+1_0214-audio.npy|1_0214-mel.npy|1_0214-linear.npy|51300|171|그는 딸을 데리고 회사에 왔다.|1_0214.npz
+1_0215-audio.npy|1_0215-mel.npy|1_0215-linear.npy|45900|153|이 남자 병원에 데려가야 해.|1_0215.npz
+1_0216-audio.npy|1_0216-mel.npy|1_0216-linear.npy|64800|216|오늘 여자 친구를 부모님께 데려갈 거야.|1_0216.npz
+1_0217-audio.npy|1_0217-mel.npy|1_0217-linear.npy|61800|206|집들이 때 회사 사람들 집에 데려와도 돼?|1_0217.npz
+1_0218-audio.npy|1_0218-mel.npy|1_0218-linear.npy|104100|347|그때 그녀가 의사를 데려오지 않았으면 나는 죽었을 거야.|1_0218.npz
+1_0219-audio.npy|1_0219-mel.npy|1_0219-linear.npy|47700|159|그녀를 잊는 데에 이 년이 들었어.|1_0219.npz
+1_0220-audio.npy|1_0220-mel.npy|1_0220-linear.npy|62100|207|비타민 씨가 많이 들어 있는 과일을 드세요.|1_0220.npz
+1_0221-audio.npy|1_0221-mel.npy|1_0221-linear.npy|21600|72|감기 든 거니?|1_0221.npz
+1_0222-audio.npy|1_0222-mel.npy|1_0222-linear.npy|66600|222|무거운 것을 들다 허리를 삐끗했다.|1_0222.npz
+1_0223-audio.npy|1_0223-mel.npy|1_0223-linear.npy|69900|233|왼손에 우산을 든 여자가 내 아내야.|1_0223.npz
+1_0224-audio.npy|1_0224-mel.npy|1_0224-linear.npy|56400|188|사무실에 잠깐 들러 주실 수 있으세요?|1_0224.npz
+1_0225-audio.npy|1_0225-mel.npy|1_0225-linear.npy|78900|263|어제 주유소를 들러서 기름을 가득 채웠습니다.|1_0225.npz
+1_0226-audio.npy|1_0226-mel.npy|1_0226-linear.npy|26100|87|제 말이 들리세요?|1_0226.npz
+1_0227-audio.npy|1_0227-mel.npy|1_0227-linear.npy|52200|174|당신 제안은 흥미롭게 들리네요.|1_0227.npz
+1_0228-audio.npy|1_0228-mel.npy|1_0228-linear.npy|42600|142|눈에 뭔가가 들어갔어요.|1_0228.npz
+1_0229-audio.npy|1_0229-mel.npy|1_0229-linear.npy|74400|248|열쇠를 잃어버려서 창문으로 집에 들어갔다.|1_0229.npz
+1_0230-audio.npy|1_0230-mel.npy|1_0230-linear.npy|45900|153|그들의 음모가 드러나고 있다.|1_0230.npz
+1_0231-audio.npy|1_0231-mel.npy|1_0231-linear.npy|43200|144|그것이 사실임이 드러났다.|1_0231.npz
+1_0232-audio.npy|1_0232-mel.npy|1_0232-linear.npy|67500|225|그녀가 새하얀 이를 드러내면서 웃었다.|1_0232.npz
+1_0233-audio.npy|1_0233-mel.npy|1_0233-linear.npy|79500|265|방금 네가 한 말은 너의 무지를 드러내는 거야.|1_0233.npz
+1_0234-audio.npy|1_0234-mel.npy|1_0234-linear.npy|41700|139|이곳에 들어오시면 안 됩니다.|1_0234.npz
+1_0235-audio.npy|1_0235-mel.npy|1_0235-linear.npy|44400|148|오늘은 집으로 일찍 들어와라.|1_0235.npz
+1_0236-audio.npy|1_0236-mel.npy|1_0236-linear.npy|42000|140|길을 잘못 들어선 것 같아요.|1_0236.npz
+1_0237-audio.npy|1_0237-mel.npy|1_0237-linear.npy|78000|260|이 지역에 새 아파트가 여기저기 들어서고 있다.|1_0237.npz
+1_0238-audio.npy|1_0238-mel.npy|1_0238-linear.npy|42000|140|제가 전에 명함을 드렸나요?|1_0238.npz
+1_0239-audio.npy|1_0239-mel.npy|1_0239-linear.npy|27900|93|읽어 드리겠습니다.|1_0239.npz
+1_0240-audio.npy|1_0240-mel.npy|1_0240-linear.npy|71400|238|나는 문을 열고 교회 안을 들여다봤다.|1_0240.npz
+1_0241-audio.npy|1_0241-mel.npy|1_0241-linear.npy|70800|236|그 사람은 하루 종일 현미경을 들여다봐.|1_0241.npz
+1_0242-audio.npy|1_0242-mel.npy|1_0242-linear.npy|54000|180|나는 음악을 듣다 잠이 들었다.|1_0242.npz
+1_0243-audio.npy|1_0243-mel.npy|1_0243-linear.npy|27900|93|제 말 듣고 계세요?|1_0243.npz
+1_0244-audio.npy|1_0244-mel.npy|1_0244-linear.npy|44700|149|몇 시에 인천에 도착하셨어요?|1_0244.npz
+1_0245-audio.npy|1_0245-mel.npy|1_0245-linear.npy|30600|102|도착하면 알려 줘.|1_0245.npz
+1_0246-audio.npy|1_0246-mel.npy|1_0246-linear.npy|60600|202|나는 십 년 뒤에는 부자가 될 거야.|1_0246.npz
+1_0247-audio.npy|1_0247-mel.npy|1_0247-linear.npy|50400|168|저는 친구를 사랑하게 되었어요.|1_0247.npz
+1_0248-audio.npy|1_0248-mel.npy|1_0248-linear.npy|47100|157|저는 애완견 돌보는 걸 좋아해요.|1_0248.npz
+1_0249-audio.npy|1_0249-mel.npy|1_0249-linear.npy|115500|385|우리 엄마는 우리를 돌보는 것 때문에 아침부터 밤까지 바빠요.|1_0249.npz
+1_0250-audio.npy|1_0250-mel.npy|1_0250-linear.npy|57600|192|곧장 가다가 왼쪽으로 도세요.|1_0250.npz
+1_0251-audio.npy|1_0251-mel.npy|1_0251-linear.npy|43200|144|지구는 태양을 돈다.|1_0251.npz
+1_0252-audio.npy|1_0252-mel.npy|1_0252-linear.npy|35100|117|채널 좀 그만 돌려라.|1_0252.npz
+1_0253-audio.npy|1_0253-mel.npy|1_0253-linear.npy|89100|297|그녀는 나를 보자마자 차의 방향을 돌렸다.|1_0253.npz
+1_0254-audio.npy|1_0254-mel.npy|1_0254-linear.npy|28200|94|여기에서 도망가자.|1_0254.npz
+1_0255-audio.npy|1_0255-mel.npy|1_0255-linear.npy|74100|247|그는 자기 아내를 죽이고 해외로 도망갔다.|1_0255.npz
+1_0256-audio.npy|1_0256-mel.npy|1_0256-linear.npy|29100|97|뭘 도와 드릴까요?|1_0256.npz
+1_0257-audio.npy|1_0257-mel.npy|1_0257-linear.npy|54900|183|하늘은 스스로 돕는 자를 돕는다.|1_0257.npz
+1_0258-audio.npy|1_0258-mel.npy|1_0258-linear.npy|78000|260|그 사람은 뒤를 돌아보지 않고 차에 올랐다.|1_0258.npz
+1_0259-audio.npy|1_0259-mel.npy|1_0259-linear.npy|69000|230|연말에는 한 해를 돌아볼 필요가 있다.|1_0259.npz
+1_0260-audio.npy|1_0260-mel.npy|1_0260-linear.npy|62400|208|제 꿈은 한국으로 돌아가는 거예요.|1_0260.npz
+1_0261-audio.npy|1_0261-mel.npy|1_0261-linear.npy|73500|245|좀전에 할머니가 돌아가셨다는 전화를 받았어.|1_0261.npz
+1_0262-audio.npy|1_0262-mel.npy|1_0262-linear.npy|63000|210|그는 열아홉 살에 한국으로 돌아왔다.|1_0262.npz
+1_0263-audio.npy|1_0263-mel.npy|1_0263-linear.npy|41700|139|환자의 의식이 돌아왔어요.|1_0263.npz
+1_0264-audio.npy|1_0264-mel.npy|1_0264-linear.npy|36000|120|제 숙제 좀 도와주세요.|1_0264.npz
+1_0265-audio.npy|1_0265-mel.npy|1_0265-linear.npy|36600|122|도와주셔서 고맙습니다.|1_0265.npz
+1_0266-audio.npy|1_0266-mel.npy|1_0266-linear.npy|77100|257|이 약은 아이들 손이 닿지 않는 곳에 두세요.|1_0266.npz
+1_0267-audio.npy|1_0267-mel.npy|1_0267-linear.npy|54300|181|수업 중에 휴대폰을 켜 두지 마세요.|1_0267.npz
+1_0268-audio.npy|1_0268-mel.npy|1_0268-linear.npy|48600|162|이 지역 주변을 둘러보고 싶어요.|1_0268.npz
+1_0269-audio.npy|1_0269-mel.npy|1_0269-linear.npy|32700|109|그냥 둘러보는 거예요.|1_0269.npz
+1_0270-audio.npy|1_0270-mel.npy|1_0270-linear.npy|41100|137|적군이 그를 둘러쌌다.|1_0270.npz
+1_0271-audio.npy|1_0271-mel.npy|1_0271-linear.npy|71700|239|이 문제를 둘러싸고 많은 논의가 있었다.|1_0271.npz
+1_0272-audio.npy|1_0272-mel.npy|1_0272-linear.npy|39900|133|이 얼룩을 없앨 수 있을까요?|1_0272.npz
+1_0273-audio.npy|1_0273-mel.npy|1_0273-linear.npy|48000|160|그렇다면 그 자를 없애!|1_0273.npz
+1_0274-audio.npy|1_0274-mel.npy|1_0274-linear.npy|60000|200|이웃집에서 망치를 하나 얻어 와라.|1_0274.npz
+1_0275-audio.npy|1_0275-mel.npy|1_0275-linear.npy|46500|155|서점에서 아이디어는 좀 얻었어?|1_0275.npz
+1_0276-audio.npy|1_0276-mel.npy|1_0276-linear.npy|52800|176|나쁜 친구와 어울려 다니지 마라.|1_0276.npz
+1_0277-audio.npy|1_0277-mel.npy|1_0277-linear.npy|72600|242|이 넥타이는 당신에게 어울리지 않아요.|1_0277.npz
+1_0278-audio.npy|1_0278-mel.npy|1_0278-linear.npy|55800|186|저는 일요일마다 교회에 갑니다.|1_0278.npz
+1_0279-audio.npy|1_0279-mel.npy|1_0279-linear.npy|63600|212|날이 건조해서 농작물이 죽어 가요.|1_0279.npz
+1_0280-audio.npy|1_0280-mel.npy|1_0280-linear.npy|79500|265|상상력을 개발하고 싶으면 시를 읽으세요.|1_0280.npz
+1_0281-audio.npy|1_0281-mel.npy|1_0281-linear.npy|106200|354|정부는 이 지역을 관광지로 개발할 계획이라고 발표했다.|1_0281.npz
+1_0282-audio.npy|1_0282-mel.npy|1_0282-linear.npy|48300|161|그 옷은 세탁소로 가져가세요.|1_0282.npz
+1_0283-audio.npy|1_0283-mel.npy|1_0283-linear.npy|64500|215|개인 물건들을 꼭 가져가십시오.|1_0283.npz
+1_0284-audio.npy|1_0284-mel.npy|1_0284-linear.npy|35100|117|펜 좀 이리로 가져와라.|1_0284.npz
+1_0285-audio.npy|1_0285-mel.npy|1_0285-linear.npy|86100|287|컴퓨터는 우리 생활에 엄청난 변화를 가져왔다.|1_0285.npz
+1_0286-audio.npy|1_0286-mel.npy|1_0286-linear.npy|59700|199|깜빡 잊고 펜을 안 가지고 왔어요.|1_0286.npz
+1_0287-audio.npy|1_0287-mel.npy|1_0287-linear.npy|77700|259|우리 부부는 아이를 갖지 않기로 결정했어.|1_0287.npz
+1_0288-audio.npy|1_0288-mel.npy|1_0288-linear.npy|34800|116|그 책 어디에 감춘 거야?|1_0288.npz
+1_0289-audio.npy|1_0289-mel.npy|1_0289-linear.npy|57900|193|왜 남자라는 사실을 감추려고 한 겁니까?|1_0289.npz
+1_0290-audio.npy|1_0290-mel.npy|1_0290-linear.npy|69600|232|이 자리에 와 주신 여러분께 감사드립니다.|1_0290.npz
+1_0291-audio.npy|1_0291-mel.npy|1_0291-linear.npy|51300|171|성원에 깊이 감사하고 있습니다.|1_0291.npz
+1_0292-audio.npy|1_0292-mel.npy|1_0292-linear.npy|34200|114|잠시만 눈 좀 감아 봐.|1_0292.npz
+1_0293-audio.npy|1_0293-mel.npy|1_0293-linear.npy|87000|290|저는 사진을 찍을 때 한쪽 눈을 감는 버릇이 있어요.|1_0293.npz
+1_0294-audio.npy|1_0294-mel.npy|1_0294-linear.npy|34200|114|박스를 끈으로 감아라.|1_0294.npz
+1_0295-audio.npy|1_0295-mel.npy|1_0295-linear.npy|71100|237|실수로 테이프를 너무 많이 감아 버렸다.|1_0295.npz
+1_0296-audio.npy|1_0296-mel.npy|1_0296-linear.npy|117900|393|선생님은 우리들에게 독서의 중요성을 늘 강조하셨어요.|1_0296.npz
+1_0297-audio.npy|1_0297-mel.npy|1_0297-linear.npy|104700|349|태권도는 신체뿐만 아니라 마음의 수련을 강조한다.|1_0297.npz
+1_0298-audio.npy|1_0298-mel.npy|1_0298-linear.npy|37500|125|옷을 좀 갈아입고 올게요.|1_0298.npz
+1_0299-audio.npy|1_0299-mel.npy|1_0299-linear.npy|81300|271|그녀는 수영복으로 갈아입은 다음 밖으로 나갔다.|1_0299.npz
+1_0300-audio.npy|1_0300-mel.npy|1_0300-linear.npy|82200|274|제 생각에는 버스를 갈아타는 게 나을 것 같아요.|1_0300.npz
+1_0301-audio.npy|1_0301-mel.npy|1_0301-linear.npy|53400|178|사당역에서 사 호선으로 갈아타세요.|1_0301.npz
+1_0302-audio.npy|1_0302-mel.npy|1_0302-linear.npy|64200|214|저는 학생들을 가르치는 일을 좋아합니다.|1_0302.npz
+1_0303-audio.npy|1_0303-mel.npy|1_0303-linear.npy|58200|194|외국인에게 태권도를 가르치고 있어요.|1_0303.npz
+1_0304-audio.npy|1_0304-mel.npy|1_0304-linear.npy|55800|186|화살표가 북쪽을 가리키고 있다.|1_0304.npz
+1_0305-audio.npy|1_0305-mel.npy|1_0305-linear.npy|59700|199|시계는 일곱 시를 가리키고 있어요.|1_0305.npz
+1_0306-audio.npy|1_0306-mel.npy|1_0306-linear.npy|69000|230|그 호텔은 호화로운 시설들을 갖추고 있다.|1_0306.npz
+1_0307-audio.npy|1_0307-mel.npy|1_0307-linear.npy|129600|432|저는 제 자신이 업무에 필요한 모든 자질을 갖추고 있다고 자신합니다.|1_0307.npz
+1_0308-audio.npy|1_0308-mel.npy|1_0308-linear.npy|61500|205|감독관이 시험지를 빨리 거둔 것 같아.|1_0308.npz
+1_0309-audio.npy|1_0309-mel.npy|1_0309-linear.npy|84000|280|시험에서 좋은 성적을 거두려면 최선을 다해야 해.|1_0309.npz
+1_0310-audio.npy|1_0310-mel.npy|1_0310-linear.npy|93900|313|그는 내게 자신이 그 회사의 사장이라고 거짓말했다.|1_0310.npz
+1_0311-audio.npy|1_0311-mel.npy|1_0311-linear.npy|27900|93|거짓말하지 마세요.|1_0311.npz
+1_0312-audio.npy|1_0312-mel.npy|1_0312-linear.npy|83100|277|저는 사소한 일은 걱정하지 않으려고 노력합니다.|1_0312.npz
+1_0313-audio.npy|1_0313-mel.npy|1_0313-linear.npy|35100|117|저는 걱정하지 마세요.|1_0313.npz
+1_0314-audio.npy|1_0314-mel.npy|1_0314-linear.npy|43500|145|옷걸이에 코트를 걸어라.|1_0314.npz
+1_0315-audio.npy|1_0315-mel.npy|1_0315-linear.npy|63000|210|그녀에게 다가가서 말을 걸었습니다.|1_0315.npz
+1_0316-audio.npy|1_0316-mel.npy|1_0316-linear.npy|33000|110|전화 잘못 거셨어요.|1_0316.npz
+1_0317-audio.npy|1_0317-mel.npy|1_0317-linear.npy|44100|147|벽에 많은 옷이 걸려 있다.|1_0317.npz
+1_0318-audio.npy|1_0318-mel.npy|1_0318-linear.npy|32400|108|감기에 걸렸어요.|1_0318.npz
+1_0319-audio.npy|1_0319-mel.npy|1_0319-linear.npy|65100|217|끝내려면 두 시간쯤 걸릴 거예요.|1_0319.npz
+1_0320-audio.npy|1_0320-mel.npy|1_0320-linear.npy|78900|263|집에서 회사까지 지하철로 얼마나 걸려요?|1_0320.npz
+1_0321-audio.npy|1_0321-mel.npy|1_0321-linear.npy|51600|172|길을 건너면 은행이 있어요.|1_0321.npz
+1_0322-audio.npy|1_0322-mel.npy|1_0322-linear.npy|53700|179|돌다리도 두드려 보고 건너라.|1_0322.npz
+1_0323-audio.npy|1_0323-mel.npy|1_0323-linear.npy|49800|166|보통은 회사에 그냥 걸어가요.|1_0323.npz
+1_0324-audio.npy|1_0324-mel.npy|1_0324-linear.npy|39900|133|저쪽으로 걸어가십시오.|1_0324.npz
+1_0325-audio.npy|1_0325-mel.npy|1_0325-linear.npy|34500|115|여기까지 걸어왔어요.|1_0325.npz
+1_0326-audio.npy|1_0326-mel.npy|1_0326-linear.npy|38400|128|우리가 얼마나 걸어온 거지?|1_0326.npz
+1_0327-audio.npy|1_0327-mel.npy|1_0327-linear.npy|33900|113|맨발로 걷지 마라.|1_0327.npz
+1_0328-audio.npy|1_0328-mel.npy|1_0328-linear.npy|54000|180|길을 걷다 좋은 생각이 떠올랐어요.|1_0328.npz
+1_0329-audio.npy|1_0329-mel.npy|1_0329-linear.npy|69300|231|나무 밑에서 비가 그치기를 기다렸다.|1_0329.npz
+1_0330-audio.npy|1_0330-mel.npy|1_0330-linear.npy|71100|237|나를 보자마자 아기는 울음을 그쳤어요.|1_0330.npz
+1_0331-audio.npy|1_0331-mel.npy|1_0331-linear.npy|43500|145|예전 일은 왜 그만두셨어요?|1_0331.npz
+1_0332-audio.npy|1_0332-mel.npy|1_0332-linear.npy|33900|113|저 그만두겠습니다.|1_0332.npz
+1_0333-audio.npy|1_0333-mel.npy|1_0333-linear.npy|58500|195|저는 방송국에서 근무하고 있습니다.|1_0333.npz
+1_0334-audio.npy|1_0334-mel.npy|1_0334-linear.npy|51300|171|보통 하루에 몇 시간 근무하세요?|1_0334.npz
+1_0335-audio.npy|1_0335-mel.npy|1_0335-linear.npy|36300|121|그러는 게 좋을 것 같아.|1_0335.npz
+1_0336-audio.npy|1_0336-mel.npy|1_0336-linear.npy|45300|151|그러지 않겠다고 약속했잖아.|1_0336.npz
+1_0337-audio.npy|1_0337-mel.npy|1_0337-linear.npy|94500|315|저는 그림을 잘 못 그리지만 그림 그리는 걸 좋아해요.|1_0337.npz
+1_0338-audio.npy|1_0338-mel.npy|1_0338-linear.npy|37200|124|누구를 그리고 계신 거예요?|1_0338.npz
+1_0339-audio.npy|1_0339-mel.npy|1_0339-linear.npy|62700|209|선생님을 만나 뵙기를 기대하고 있습니다.|1_0339.npz
+1_0340-audio.npy|1_0340-mel.npy|1_0340-linear.npy|27900|93|너무 기대하지 마.|1_0340.npz
+1_0341-audio.npy|1_0341-mel.npy|1_0341-linear.npy|34200|114|순서를 기다려 주세요.|1_0341.npz
+1_0342-audio.npy|1_0342-mel.npy|1_0342-linear.npy|41100|137|친구를 기다리는 중입니다.|1_0342.npz
+1_0343-audio.npy|1_0343-mel.npy|1_0343-linear.npy|66300|221|아빠가 결혼기념일을 기억하지 못해?|1_0343.npz
+1_0344-audio.npy|1_0344-mel.npy|1_0344-linear.npy|33600|112|저를 기억하시겠어요?|1_0344.npz
+1_0345-audio.npy|1_0345-mel.npy|1_0345-linear.npy|86700|289|그 여자 낯은 아주 익은데, 이름이 기억나지 않아요.|1_0345.npz
+1_0346-audio.npy|1_0346-mel.npy|1_0346-linear.npy|27000|90|저 기억나세요?|1_0346.npz
+1_0347-audio.npy|1_0347-mel.npy|1_0347-linear.npy|41400|138|어머님이 기뻐하시겠어요.|1_0347.npz
+1_0348-audio.npy|1_0348-mel.npy|1_0348-linear.npy|76800|256|아직 이긴 게 아니니까 기뻐하기에는 이릅니다.|1_0348.npz
+1_0349-audio.npy|1_0349-mel.npy|1_0349-linear.npy|58200|194|엄마, 고양이를 기르게 해 주세요.|1_0349.npz
+1_0350-audio.npy|1_0350-mel.npy|1_0350-linear.npy|40800|136|턱수염을 기른 적이 있어요.|1_0350.npz
+1_0351-audio.npy|1_0351-mel.npy|1_0351-linear.npy|84600|282|집중력을 기르는 것이 공부를 잘하는 비결입니다.|1_0351.npz
+1_0352-audio.npy|1_0352-mel.npy|1_0352-linear.npy|96300|321|저는 일기장에 하루 동안 있었던 일을 모두 기록합니다.|1_0352.npz
+1_0353-audio.npy|1_0353-mel.npy|1_0353-linear.npy|93000|310|한국의 자동차 산업은 세계 삼 위를 기록하고 있습니다.|1_0353.npz
+1_0354-audio.npy|1_0354-mel.npy|1_0354-linear.npy|40500|135|몸을 옆으로 기울여 보세요.|1_0354.npz
+1_0355-audio.npy|1_0355-mel.npy|1_0355-linear.npy|94500|315|나는 대체로 선생님의 말씀에 주의를 기울이지 않았다.|1_0355.npz
+1_0356-audio.npy|1_0356-mel.npy|1_0356-linear.npy|69600|232|이 라디오 고치는 데 얼마나 걸릴까요?|1_0356.npz
+1_0357-audio.npy|1_0357-mel.npy|1_0357-linear.npy|66600|222|다음 문장에서 틀린 부분을 고치세요.|1_0357.npz
+1_0358-audio.npy|1_0358-mel.npy|1_0358-linear.npy|69900|233|밑줄 친 부분을 모두 이탤릭으로 고쳐라.|1_0358.npz
+1_0359-audio.npy|1_0359-mel.npy|1_0359-linear.npy|69300|231|저는 대학에서 국문학을 공부할 거예요.|1_0359.npz
+1_0360-audio.npy|1_0360-mel.npy|1_0360-linear.npy|88500|295|가을은 일 년 중 공부하기에 제일 좋은 계절이다.|1_0360.npz
+1_0361-audio.npy|1_0361-mel.npy|1_0361-linear.npy|38400|128|이 중에서 하나를 고르세요.|1_0361.npz
+1_0362-audio.npy|1_0362-mel.npy|1_0362-linear.npy|43200|144|제일 좋은 걸 고르셨어요.|1_0362.npz
+1_0363-audio.npy|1_0363-mel.npy|1_0363-linear.npy|65700|219|제 나이를 좀 고려해 주셨으면 좋겠어요.|1_0363.npz
+1_0364-audio.npy|1_0364-mel.npy|1_0364-linear.npy|79500|265|모든 점을 고려했을 때 가지 않는 게 낫다.|1_0364.npz
+1_0365-audio.npy|1_0365-mel.npy|1_0365-linear.npy|28200|94|왜 사서 고생해?|1_0365.npz
+1_0366-audio.npy|1_0366-mel.npy|1_0366-linear.npy|54600|182|여기에 오시느라 고생하지 않으셨어요?|1_0366.npz
+1_0367-audio.npy|1_0367-mel.npy|1_0367-linear.npy|53400|178|부산은 구경할 곳이 많아요.|1_0367.npz
+1_0368-audio.npy|1_0368-mel.npy|1_0368-linear.npy|37500|125|어디를 구경하고 싶으세요?|1_0368.npz
+1_0369-audio.npy|1_0369-mel.npy|1_0369-linear.npy|38700|129|일자리를 구하고 있습니다.|1_0369.npz
+1_0370-audio.npy|1_0370-mel.npy|1_0370-linear.npy|32400|108|직장은 구하셨어요?|1_0370.npz
+1_0371-audio.npy|1_0371-mel.npy|1_0371-linear.npy|87300|291|그 개는 주인을 구하기 위해 강으로 뛰어들었다.|1_0371.npz
+1_0372-audio.npy|1_0372-mel.npy|1_0372-linear.npy|63000|210|그 의사가 그녀의 목숨을 구해 냈다.|1_0372.npz
+1_0373-audio.npy|1_0373-mel.npy|1_0373-linear.npy|43800|146|엄마는 빵을 굽고 계세요.|1_0373.npz
+1_0374-audio.npy|1_0374-mel.npy|1_0374-linear.npy|116100|387|나는 소시지를 기름에 튀기는 것보다 석쇠에 굽는 걸 좋아해.|1_0374.npz
+1_0375-audio.npy|1_0375-mel.npy|1_0375-linear.npy|69000|230|축구는 열한 명으로 구성돼 있습니다.|1_0375.npz
+1_0376-audio.npy|1_0376-mel.npy|1_0376-linear.npy|62400|208|이 문제 때문에 위원회가 구성됐습니다.|1_0376.npz
+1_0377-audio.npy|1_0377-mel.npy|1_0377-linear.npy|66000|220|이번 사건은 마약과 관련되어 있다.|1_0377.npz
+1_0378-audio.npy|1_0378-mel.npy|1_0378-linear.npy|60300|201|그 일은 내 동생과 관련돼 있어.|1_0378.npz
+1_0379-audio.npy|1_0379-mel.npy|1_0379-linear.npy|80100|267|내 취미는 길거리의 사람들을 관찰하는 거야.|1_0379.npz
+1_0380-audio.npy|1_0380-mel.npy|1_0380-linear.npy|111600|372|그 이상한 남자는 개미에 대해 관찰하면서 즐거움을 찾았다.|1_0380.npz
+1_0381-audio.npy|1_0381-mel.npy|1_0381-linear.npy|71400|238|저는 그 사고에 관해 아는 것이 없습니다.|1_0381.npz
+1_0382-audio.npy|1_0382-mel.npy|1_0382-linear.npy|52800|176|한국에 관한 책들은 어디에 있나요?|1_0382.npz
+1_0383-audio.npy|1_0383-mel.npy|1_0383-linear.npy|72600|242|저는 어렸을 때 많은 어려움을 겪었어요.|1_0383.npz
+1_0384-audio.npy|1_0384-mel.npy|1_0384-linear.npy|102600|342|저희 부부는 결혼한 직후에 한 차례 위기를 겪었습니다.|1_0384.npz
+1_0385-audio.npy|1_0385-mel.npy|1_0385-linear.npy|50700|169|그와 결혼하기로 마음먹었다.|1_0385.npz
+1_0386-audio.npy|1_0386-mel.npy|1_0386-linear.npy|36300|121|저희 막 결혼했어요.|1_0386.npz
+1_0387-audio.npy|1_0387-mel.npy|1_0387-linear.npy|51300|171|아무 것도 결정된 건 없어요.|1_0387.npz
+1_0388-audio.npy|1_0388-mel.npy|1_0388-linear.npy|80400|268|학교 이사회에서 그를 해고하기로 결정됐다.|1_0388.npz
+1_0389-audio.npy|1_0389-mel.npy|1_0389-linear.npy|81900|273|어디로 피서를 갈 지 아직 결정하지 못했어요.|1_0389.npz
+1_0390-audio.npy|1_0390-mel.npy|1_0390-linear.npy|69300|231|심사위원들이 그를 우승자로 결정했어요.|1_0390.npz
+1_0391-audio.npy|1_0391-mel.npy|1_0391-linear.npy|35100|117|이혼을 결심했다.|1_0391.npz
+1_0392-audio.npy|1_0392-mel.npy|1_0392-linear.npy|79800|266|좀 더 다이어트를 엄격하게 하기로 결심했어요.|1_0392.npz
+1_0393-audio.npy|1_0393-mel.npy|1_0393-linear.npy|92700|309|이민자들은 육체적, 정신적 고통을 견뎌 왔다.|1_0393.npz
+1_0394-audio.npy|1_0394-mel.npy|1_0394-linear.npy|34500|115|더 이상 못 견디겠어.|1_0394.npz
+1_0395-audio.npy|1_0395-mel.npy|1_0395-linear.npy|87300|291|저는 한국에 오자마자 문화적 충격을 경험했어요.|1_0395.npz
+1_0396-audio.npy|1_0396-mel.npy|1_0396-linear.npy|90300|301|그는 한국의 여러 다른 생활방식을 경험할 수 있었다.|1_0396.npz
+1_0397-audio.npy|1_0397-mel.npy|1_0397-linear.npy|43800|146|제가 잘못 계산했나 봐요.|1_0397.npz
+1_0398-audio.npy|1_0398-mel.npy|1_0398-linear.npy|36000|120|카드로 계산하겠습니다.|1_0398.npz
+1_0399-audio.npy|1_0399-mel.npy|1_0399-linear.npy|36900|123|지금 여기에 안 계세요.|1_0399.npz
+1_0400-audio.npy|1_0400-mel.npy|1_0400-linear.npy|44700|149|사장님이 기다리고 계십니다.|1_0400.npz
+1_0401-audio.npy|1_0401-mel.npy|1_0401-linear.npy|45600|152|엄마는 병원에 누워 계세요.|1_0401.npz
+1_0402-audio.npy|1_0402-mel.npy|1_0402-linear.npy|74100|247|우리는 밤새도록 얘기를 계속했습니다.|1_0402.npz
+1_0403-audio.npy|1_0403-mel.npy|1_0403-linear.npy|88800|296|그는 계속해서 새로운 변명거리를 만들어 냈다.|1_0403.npz
+1_0404-audio.npy|1_0404-mel.npy|1_0404-linear.npy|89400|298|이렇게 무더운 날씨가 오래 계속되지는 않을 거예요.|1_0404.npz
+1_0405-audio.npy|1_0405-mel.npy|1_0405-linear.npy|51000|170|회의가 밤늦도록 계속됐다.|1_0405.npz
+1_0406-audio.npy|1_0406-mel.npy|1_0406-linear.npy|43200|144|지금 당장은 할 일이 없어요.|1_0406.npz
+1_0407-audio.npy|1_0407-mel.npy|1_0407-linear.npy|33300|111|숙제는 언제 할 거니?|1_0407.npz
+1_0408-audio.npy|1_0408-mel.npy|1_0408-linear.npy|68400|228|이 문제를 해결하기 전에는 집에 못 가.|1_0408.npz
+1_0409-audio.npy|1_0409-mel.npy|1_0409-linear.npy|75000|250|직장 상사와의 갈등은 어떻게 해결하세요?|1_0409.npz
+1_0410-audio.npy|1_0410-mel.npy|1_0410-linear.npy|77100|257|아내는 나를 보고 기쁨의 눈물을 흘렸다.|1_0410.npz
+1_0411-audio.npy|1_0411-mel.npy|1_0411-linear.npy|41100|137|열쇠를 어디에 흘린 거야?|1_0411.npz
+1_0412-audio.npy|1_0412-mel.npy|1_0412-linear.npy|87900|293|우리는 탬버린을 흔들면서 같이 노래를 불렀다.|1_0412.npz
+1_0413-audio.npy|1_0413-mel.npy|1_0413-linear.npy|85800|286|그녀는 아니라고 말하는 대신 고개를 흔들었다.|1_0413.npz
+1_0414-audio.npy|1_0414-mel.npy|1_0414-linear.npy|69900|233|물은 높은 곳에서 낮은 곳으로 흐른다.|1_0414.npz
+1_0415-audio.npy|1_0415-mel.npy|1_0415-linear.npy|48300|161|시간이 흐르면 괜찮아질 거야.|1_0415.npz
+1_0416-audio.npy|1_0416-mel.npy|1_0416-linear.npy|44100|147|이 가방 산 걸 후회하고 있어|1_0416.npz
+1_0417-audio.npy|1_0417-mel.npy|1_0417-linear.npy|72300|241|그때 그녀를 차 버린 걸 지금은 후회해요.|1_0417.npz
+1_0418-audio.npy|1_0418-mel.npy|1_0418-linear.npy|83700|279|그들은 영수증을 확인하고 돈을 환불해 주었다.|1_0418.npz
+1_0419-audio.npy|1_0419-mel.npy|1_0419-linear.npy|38400|128|예약을 확인하고 싶은데요.|1_0419.npz
+1_0420-audio.npy|1_0420-mel.npy|1_0420-linear.npy|54900|183|빈 방을 창고로 활용하고 있어요.|1_0420.npz
+1_0421-audio.npy|1_0421-mel.npy|1_0421-linear.npy|83100|277|성공은 시간을 어떻게 활용하는가에 달려 있다.|1_0421.npz
+1_0422-audio.npy|1_0422-mel.npy|1_0422-linear.npy|37500|125|아빠가 화나신 것 같아.|1_0422.npz
+1_0423-audio.npy|1_0423-mel.npy|1_0423-linear.npy|24600|82|나한테 화났어?|1_0423.npz
+1_0424-audio.npy|1_0424-mel.npy|1_0424-linear.npy|56700|189|이 배는 일본을 향하고 있습니다.|1_0424.npz
+1_0425-audio.npy|1_0425-mel.npy|1_0425-linear.npy|39900|133|창문을 향해 앉아 주세요.|1_0425.npz
+1_0426-audio.npy|1_0426-mel.npy|1_0426-linear.npy|59100|197|이번에는 너에게 꼭 이기고 싶어.|1_0426.npz
+1_0427-audio.npy|1_0427-mel.npy|1_0427-linear.npy|69300|231|어려움을 이겨 내지 못하면 성공할 수 없어.|1_0427.npz
+1_0428-audio.npy|1_0428-mel.npy|1_0428-linear.npy|59100|197|그 연극은 이해하기가 어려웠다.|1_0428.npz
+1_0429-audio.npy|1_0429-mel.npy|1_0429-linear.npy|63900|213|교사는 학생들을 이해할 필요가 있습니다.|1_0429.npz
+1_0430-audio.npy|1_0430-mel.npy|1_0430-linear.npy|44700|149|실은 나 한 달 전에 이혼했어.|1_0430.npz
+1_0431-audio.npy|1_0431-mel.npy|1_0431-linear.npy|72900|243|부모님이 이혼하신 이후로 엄마랑 살고 있어요.|1_0431.npz
+1_0432-audio.npy|1_0432-mel.npy|1_0432-linear.npy|72000|240|야, 오랜만이야. 얼굴 잊어버리겠어!|1_0432.npz
+1_0433-audio.npy|1_0433-mel.npy|1_0433-linear.npy|49800|166|우산 가져오는 걸 잊어버렸어.|1_0433.npz
+1_0434-audio.npy|1_0434-mel.npy|1_0434-linear.npy|41100|137|만화책 읽는 거 좋아하세요?|1_0434.npz
+1_0435-audio.npy|1_0435-mel.npy|1_0435-linear.npy|78000|260|저는 글을 읽을 줄은 알지만 쓸 줄은 몰라요.|1_0435.npz
+1_0436-audio.npy|1_0436-mel.npy|1_0436-linear.npy|42900|143|편의점에서 일하고 있습니다.|1_0436.npz
+1_0437-audio.npy|1_0437-mel.npy|1_0437-linear.npy|28200|94|하루에 몇 시간 일해?|1_0437.npz
+1_0438-audio.npy|1_0438-mel.npy|1_0438-linear.npy|80400|268|한국에 처음 왔을 때 서울에서 길을 잃었습니다.|1_0438.npz
+1_0439-audio.npy|1_0439-mel.npy|1_0439-linear.npy|81000|270|많은 사람들이 태풍으로 전 재산을 잃었어요.|1_0439.npz
+1_0440-audio.npy|1_0440-mel.npy|1_0440-linear.npy|30600|102|이모한테 인사해라.|1_0440.npz
+1_0441-audio.npy|1_0441-mel.npy|1_0441-linear.npy|45000|150|우리 신랑이랑 인사한 적 있어?|1_0441.npz
+1_0442-audio.npy|1_0442-mel.npy|1_0442-linear.npy|33300|111|어떤 옷을 입어야 해요?|1_0442.npz
+1_0443-audio.npy|1_0443-mel.npy|1_0443-linear.npy|70200|234|교통사고로 가슴에 상처를 입었어요.|1_0443.npz
+1_0444-audio.npy|1_0444-mel.npy|1_0444-linear.npy|37200|124|길을 잃어버렸어요.|1_0444.npz
+1_0445-audio.npy|1_0445-mel.npy|1_0445-linear.npy|38700|129|여권을 잃어버렸어요.|1_0445.npz
+1_0446-audio.npy|1_0446-mel.npy|1_0446-linear.npy|75000|250|자리에서 일어나 대통령을 맞아 주십시오.|1_0446.npz
+1_0447-audio.npy|1_0447-mel.npy|1_0447-linear.npy|27600|92|무슨 일이 일어난 거야?|1_0447.npz
+1_0448-audio.npy|1_0448-mel.npy|1_0448-linear.npy|34200|114|일어서서 말씀해 주세요.|1_0448.npz
+1_0449-audio.npy|1_0449-mel.npy|1_0449-linear.npy|68400|228|그는 바닥을 짚고 간신히 일어섰다.|1_0449.npz
+1_0450-audio.npy|1_0450-mel.npy|1_0450-linear.npy|42900|143|천천히 몸을 일으켜 보세요.|1_0450.npz
+1_0451-audio.npy|1_0451-mel.npy|1_0451-linear.npy|55200|184|너는 왜 늘상 말썽을 일으키니?|1_0451.npz
+1_0452-audio.npy|1_0452-mel.npy|1_0452-linear.npy|69600|232|수소와 산소가 결합해서 물을 이룬다.|1_0452.npz
+1_0453-audio.npy|1_0453-mel.npy|1_0453-linear.npy|65100|217|저는 작가라는 내 어릴 적 꿈을 이뤘어요.|1_0453.npz
+1_0454-audio.npy|1_0454-mel.npy|1_0454-linear.npy|68700|229|축구에서 한 팀은 열한 명으로 이루어진다.|1_0454.npz
+1_0455-audio.npy|1_0455-mel.npy|1_0455-linear.npy|30600|102|꿈은 이루어진다.|1_0455.npz
+1_0456-audio.npy|1_0456-mel.npy|1_0456-linear.npy|47400|158|사실은 시골로 이사하는 게 싫어.|1_0456.npz
+1_0457-audio.npy|1_0457-mel.npy|1_0457-linear.npy|40800|136|내일 이사하신다고 들었어요.|1_0457.npz
+1_0458-audio.npy|1_0458-mel.npy|1_0458-linear.npy|49500|165|짧은 끈을 이어서 사용합시다.|1_0458.npz
+1_0459-audio.npy|1_0459-mel.npy|1_0459-linear.npy|61200|204|필기시험에 이어 면접이 있겠습니다.|1_0459.npz
+1_0460-audio.npy|1_0460-mel.npy|1_0460-linear.npy|48900|163|리모컨은 침대 위에 있어.|1_0460.npz
+1_0461-audio.npy|1_0461-mel.npy|1_0461-linear.npy|31500|105|음악을 듣고 있습니다.|1_0461.npz
+1_0462-audio.npy|1_0462-mel.npy|1_0462-linear.npy|40500|135|왜 아직 안 자고 깨어 있니?|1_0462.npz
+1_0463-audio.npy|1_0463-mel.npy|1_0463-linear.npy|68100|227|아침에 너무 바빠서 렌즈 끼는 걸 잊었어.|1_0463.npz
+1_0464-audio.npy|1_0464-mel.npy|1_0464-linear.npy|32700|109|저를 잊지 마세요.|1_0464.npz
+1_0465-audio.npy|1_0465-mel.npy|1_0465-linear.npy|60000|200|당신과 더 이상 이야기하고 싶지 않아요.|1_0465.npz
+1_0466-audio.npy|1_0466-mel.npy|1_0466-linear.npy|59400|198|아무한테도 이야기하지 마, 알았지?|1_0466.npz
+1_0467-audio.npy|1_0467-mel.npy|1_0467-linear.npy|80700|269|그 영화는 특수효과를 많이 이용해 만들어졌다.|1_0467.npz
+1_0468-audio.npy|1_0468-mel.npy|1_0468-linear.npy|48000|160|너는 책을 베개로 이용하는구나.|1_0468.npz
+1_0469-audio.npy|1_0469-mel.npy|1_0469-linear.npy|40200|134|왜 늦게까지 안 자고 있니?|1_0469.npz
+1_0470-audio.npy|1_0470-mel.npy|1_0470-linear.npy|68100|227|저는 보통 이십 분 정도 낮잠을 잡니다.|1_0470.npz
+1_0471-audio.npy|1_0471-mel.npy|1_0471-linear.npy|43200|144|모든 일이 잘되기를 빈다.|1_0471.npz
+1_0472-audio.npy|1_0472-mel.npy|1_0472-linear.npy|29700|99|공부 잘되고 있어?|1_0472.npz
+1_0473-audio.npy|1_0473-mel.npy|1_0473-linear.npy|46800|156|그 사람 요리를 잘하는 것 같아.|1_0473.npz
+1_0474-audio.npy|1_0474-mel.npy|1_0474-linear.npy|40200|134|노래를 정말 잘하시네요.|1_0474.npz
+1_0475-audio.npy|1_0475-mel.npy|1_0475-linear.npy|40500|135|네가 뭘 잘못했는지 몰라?|1_0475.npz
+1_0476-audio.npy|1_0476-mel.npy|1_0476-linear.npy|39900|133|저는 잘못한 게 없어요.|1_0476.npz
+1_0477-audio.npy|1_0477-mel.npy|1_0477-linear.npy|41700|139|계산이 잘못된 것 같은데요.|1_0477.npz
+1_0478-audio.npy|1_0478-mel.npy|1_0478-linear.npy|65700|219|만일 일이 잘못되면, 다 네 탓이야.|1_0478.npz
+1_0479-audio.npy|1_0479-mel.npy|1_0479-linear.npy|42900|143|잠들었으면 깨우지 마세요.|1_0479.npz
+1_0480-audio.npy|1_0480-mel.npy|1_0480-linear.npy|38400|128|요즘 잠들기가 힘들어.|1_0480.npz
+1_0481-audio.npy|1_0481-mel.npy|1_0481-linear.npy|61200|204|잠자는 척하는 게 쉬운 일이 아니야.|1_0481.npz
+1_0482-audio.npy|1_0482-mel.npy|1_0482-linear.npy|27300|91|잠잘 시간이야.|1_0482.npz
+1_0483-audio.npy|1_0483-mel.npy|1_0483-linear.npy|37800|126|범인이 누구한테 잡혔어요?|1_0483.npz
+1_0484-audio.npy|1_0484-mel.npy|1_0484-linear.npy|74400|248|경찰에게 잡힌 용의자는 혐의를 부인했다.|1_0484.npz
+1_0485-audio.npy|1_0485-mel.npy|1_0485-linear.npy|19500|65|내 손 잡아.|1_0485.npz
+1_0486-audio.npy|1_0486-mel.npy|1_0486-linear.npy|76500|255|그는 자신이 거의 도둑을 잡을 뻔했다고 말했다.|1_0486.npz
+1_0487-audio.npy|1_0487-mel.npy|1_0487-linear.npy|69000|230|머리가 너무 귀찮아. 너무 빨리 자라.|1_0487.npz
+1_0488-audio.npy|1_0488-mel.npy|1_0488-linear.npy|37500|125|저는 부산에서 자랐어요.|1_0488.npz
+1_0489-audio.npy|1_0489-mel.npy|1_0489-linear.npy|71700|239|그 여자 자기 딸 자랑하는 데에 질렸어.|1_0489.npz
+1_0490-audio.npy|1_0490-mel.npy|1_0490-linear.npy|102900|343|우리 엄마는 내가 네 살 때 한글을 깨쳤다고 자랑했다.|1_0490.npz
+1_0491-audio.npy|1_0491-mel.npy|1_0491-linear.npy|20100|67|머리 잘랐어?|1_0491.npz
+1_0492-audio.npy|1_0492-mel.npy|1_0492-linear.npy|100800|336|다이아몬드가 단단한 물질을 자르는 데 사용된다는 거 알아?|1_0492.npz
+1_0493-audio.npy|1_0493-mel.npy|1_0493-linear.npy|118200|394|그 사람은 집이 없는 사람들에게 먹을 것을 무료로 제공하고 있다.|1_0493.npz
+1_0494-audio.npy|1_0494-mel.npy|1_0494-linear.npy|134700|449|그 후보자는 많은 사람들에게 일자리를 제공하겠다고 약속했다.|1_0494.npz
+1_0495-audio.npy|1_0495-mel.npy|1_0495-linear.npy|85500|285|나는 주로 학교 생활에 관한 것들을 일기에 적는다.|1_0495.npz
+1_0496-audio.npy|1_0496-mel.npy|1_0496-linear.npy|39300|131|성함을 영어로 적어 주세요.|1_0496.npz
+1_0497-audio.npy|1_0497-mel.npy|1_0497-linear.npy|60300|201|누가 낼 건지 가위바위보로 정하자.|1_0497.npz
+1_0498-audio.npy|1_0498-mel.npy|1_0498-linear.npy|45600|152|약속 장소는 어디로 정했어?|1_0498.npz
+1_0499-audio.npy|1_0499-mel.npy|1_0499-linear.npy|59400|198|이 서류들을 알파벳 순으로 정리하세요.|1_0499.npz
+1_0500-audio.npy|1_0500-mel.npy|1_0500-linear.npy|62400|208|방을 정리하는 데 여러 시간이 걸렸습니다.|1_0500.npz
+1_0501-audio.npy|1_0501-mel.npy|1_0501-linear.npy|42900|143|부모님께 안부 전해 주세요.|1_0501.npz
+1_0502-audio.npy|1_0502-mel.npy|1_0502-linear.npy|79500|265|이 책을 그 사람에게 꼭 몰래 전해야 합니다.|1_0502.npz
+1_0503-audio.npy|1_0503-mel.npy|1_0503-linear.npy|29700|99|회사에는 전화했어?|1_0503.npz
+1_0504-audio.npy|1_0504-mel.npy|1_0504-linear.npy|45000|150|나중에 제가 다시 전화할게요.|1_0504.npz
+1_0505-audio.npy|1_0505-mel.npy|1_0505-linear.npy|37800|126|비에 옷이 다 젖으셨네요.|1_0505.npz
+1_0506-audio.npy|1_0506-mel.npy|1_0506-linear.npy|86700|289|젖은 옷을 말리지 않으면 감기에 걸릴지도 몰라.|1_0506.npz
+1_0507-audio.npy|1_0507-mel.npy|1_0507-linear.npy|93300|311|아버지는 내게 인생을 즐기라고 말씀하시곤 했어.|1_0507.npz
+1_0508-audio.npy|1_0508-mel.npy|1_0508-linear.npy|46500|155|저는 맥주를 즐겨 마십니다.|1_0508.npz
+1_0509-audio.npy|1_0509-mel.npy|1_0509-linear.npy|67500|225|올해 들어 범죄가 눈에 띄게 증가했어요.|1_0509.npz
+1_0510-audio.npy|1_0510-mel.npy|1_0510-linear.npy|66600|222|이 제품에 대한 수요가 증가하고 있다.|1_0510.npz
+1_0511-audio.npy|1_0511-mel.npy|1_0511-linear.npy|28800|96|벌써 지친 거야?|1_0511.npz
+1_0512-audio.npy|1_0512-mel.npy|1_0512-linear.npy|63300|211|당신한테 잔소리하는 것도 지쳤어요.|1_0512.npz
+1_0513-audio.npy|1_0513-mel.npy|1_0513-linear.npy|75600|252|그는 여자에게 지는 걸 굉장히 싫어한다.|1_0513.npz
+1_0514-audio.npy|1_0514-mel.npy|1_0514-linear.npy|64800|216|내가 게임에서 지다니 믿을 수가 없어.|1_0514.npz
+1_0515-audio.npy|1_0515-mel.npy|1_0515-linear.npy|62700|209|그는 약속을 잘 지키는 사람이다.|1_0515.npz
+1_0516-audio.npy|1_0516-mel.npy|1_0516-linear.npy|91500|305|많은 청년들이 나라를 지키기 위해 자원입대했다.|1_0516.npz
+1_0517-audio.npy|1_0517-mel.npy|1_0517-linear.npy|87300|291|어머니는 내가 먹는 것을 말없이 지켜보셨다.|1_0517.npz
+1_0518-audio.npy|1_0518-mel.npy|1_0518-linear.npy|70500|235|형사는 용의자를 주의 깊게 지켜보았다.|1_0518.npz
+1_0519-audio.npy|1_0519-mel.npy|1_0519-linear.npy|81300|271|주저하지 말고 모르는 건 선생님께 질문해라.|1_0519.npz
+1_0520-audio.npy|1_0520-mel.npy|1_0520-linear.npy|37500|125|질문하실 분 계신가요?|1_0520.npz
+1_0521-audio.npy|1_0521-mel.npy|1_0521-linear.npy|69000|230|마지막으로 사람을 본 지 삼 년이 지났다.|1_0521.npz
+1_0522-audio.npy|1_0522-mel.npy|1_0522-linear.npy|67500|225|자리에서 졸다가 한 정거장을 지났어요.|1_0522.npz
+1_0523-audio.npy|1_0523-mel.npy|1_0523-linear.npy|24000|80|어떻게 지내니?|1_0523.npz
+1_0524-audio.npy|1_0524-mel.npy|1_0524-linear.npy|75300|251|아내와 저는 행복하게 잘 지내고 있습니다.|1_0524.npz
+1_0525-audio.npy|1_0525-mel.npy|1_0525-linear.npy|79200|264|여름 방학이 눈 깜짝할 사이에 지나갔어.|1_0525.npz
+1_0526-audio.npy|1_0526-mel.npy|1_0526-linear.npy|51000|170|이 버스가 종로를 지나갑니까?|1_0526.npz
+1_0527-audio.npy|1_0527-mel.npy|1_0527-linear.npy|60300|201|모든 것이 잘 진행되고 있어요.|1_0527.npz
+1_0528-audio.npy|1_0528-mel.npy|1_0528-linear.npy|66300|221|그 일은 계획한 대로 진행되고 있습니다.|1_0528.npz
+1_0529-audio.npy|1_0529-mel.npy|1_0529-linear.npy|54900|183|젓가락으로 콩 한 조각 집을 수 있니?|1_0529.npz
+1_0530-audio.npy|1_0530-mel.npy|1_0530-linear.npy|42900|143|제 노트 좀 집어 주시겠어요?|1_0530.npz
+1_0531-audio.npy|1_0531-mel.npy|1_0531-linear.npy|92400|308|사람들은 뱀을 보고는 비명을 지르기 시작했습니다.|1_0531.npz
+1_0532-audio.npy|1_0532-mel.npy|1_0532-linear.npy|76200|254|집에 불이 나지 않는 이상은 고함 지르지 마라.|1_0532.npz
+1_0533-audio.npy|1_0533-mel.npy|1_0533-linear.npy|84300|281|교회를 어디에 지을지는 아직 결정되지 않았습니다.|1_0533.npz
+1_0534-audio.npy|1_0534-mel.npy|1_0534-linear.npy|44100|147|따님 이름은 뭐라고 지었어요?|1_0534.npz
+1_0535-audio.npy|1_0535-mel.npy|1_0535-linear.npy|70500|235|그녀는 억지로 미소를 짓고 있었다.|1_0535.npz
+1_0536-audio.npy|1_0536-mel.npy|1_0536-linear.npy|90300|301|화장은 하는 것보다 지우는 게 훨씬 더 중요하다.|1_0536.npz
+1_0537-audio.npy|1_0537-mel.npy|1_0537-linear.npy|96300|321|누군가가 제 전화기의 메시지를 자꾸 지우는 것 같아요.|1_0537.npz
+1_0538-audio.npy|1_0538-mel.npy|1_0538-linear.npy|96900|323|아버지는 포크로 음식을 찍어 먹는 것을 좋아하지 않으세요.|1_0538.npz
+1_0539-audio.npy|1_0539-mel.npy|1_0539-linear.npy|62100|207|그 나라에 가려면 지문을 찍어야 한다.|1_0539.npz
+1_0540-audio.npy|1_0540-mel.npy|1_0540-linear.npy|40800|136|여기서 사진 찍어도 됩니까?|1_0540.npz
+1_0541-audio.npy|1_0541-mel.npy|1_0541-linear.npy|52200|174|나는 여름을 별로 좋아하지 않아.|1_0541.npz
+1_0542-audio.npy|1_0542-mel.npy|1_0542-linear.npy|40800|136|어느 가수를 제일 좋아하니?|1_0542.npz
+1_0543-audio.npy|1_0543-mel.npy|1_0543-linear.npy|75300|251|자리에 앉아 졸다가 한 정거장을 지나쳤다.|1_0543.npz
+1_0544-audio.npy|1_0544-mel.npy|1_0544-linear.npy|35700|119|실은 줄곧 졸았어요.|1_0544.npz
+1_0545-audio.npy|1_0545-mel.npy|1_0545-linear.npy|50100|167|저는 서울대학교를 졸업했습니다.|1_0545.npz
+1_0546-audio.npy|1_0546-mel.npy|1_0546-linear.npy|42900|143|졸업하고 나서 뭘 하고 싶어?|1_0546.npz
+1_0547-audio.npy|1_0547-mel.npy|1_0547-linear.npy|57300|191|경찰이 사건 현장을 조사하고 있어요.|1_0547.npz
+1_0548-audio.npy|1_0548-mel.npy|1_0548-linear.npy|83100|277|오늘의 과제는 환경오염에 대해 조사하는 겁니다.|1_0548.npz
+1_0549-audio.npy|1_0549-mel.npy|1_0549-linear.npy|25500|85|자동차 조심해.|1_0549.npz
+1_0550-audio.npy|1_0550-mel.npy|1_0550-linear.npy|28500|95|감기 조심하세요.|1_0550.npz
+1_0551-audio.npy|1_0551-mel.npy|1_0551-linear.npy|54000|180|제게 기회를 주셔서 감사합니다.|1_0551.npz
+1_0552-audio.npy|1_0552-mel.npy|1_0552-linear.npy|41100|137|저 대신 운전 좀 해 주세요.|1_0552.npz
+1_0553-audio.npy|1_0553-mel.npy|1_0553-linear.npy|33000|110|그 사람을 왜 죽인 거야?|1_0553.npz
+1_0554-audio.npy|1_0554-mel.npy|1_0554-linear.npy|48000|160|시간 죽이려고 영화 보고 있어요.|1_0554.npz
+1_0555-audio.npy|1_0555-mel.npy|1_0555-linear.npy|79200|264|일본은 독도를 자기 땅이라고 주장하고 있다.|1_0555.npz
+1_0556-audio.npy|1_0556-mel.npy|1_0556-linear.npy|62400|208|그녀는 자신이 죄가 없다고 주장했다.|1_0556.npz
+1_0557-audio.npy|1_0557-mel.npy|1_0557-linear.npy|48900|163|아내가 죽은 지 십 년이 됐어요.|1_0557.npz
+1_0558-audio.npy|1_0558-mel.npy|1_0558-linear.npy|31800|106|왜 이렇게 풀이 죽었어?|1_0558.npz
+1_0559-audio.npy|1_0559-mel.npy|1_0559-linear.npy|53400|178|당신을 위해 뭔가를 준비했어요.|1_0559.npz
+1_0560-audio.npy|1_0560-mel.npy|1_0560-linear.npy|85500|285|저는 매일 엄마가 저녁 준비하시는 걸 도와드려요.|1_0560.npz
+1_0561-audio.npy|1_0561-mel.npy|1_0561-linear.npy|41700|139|스웨터가 줄어들었어.|1_0561.npz
+1_0562-audio.npy|1_0562-mel.npy|1_0562-linear.npy|65700|219|한국의 농촌 인구가 줄어들고 있다.|1_0562.npz
+1_0563-audio.npy|1_0563-mel.npy|1_0563-linear.npy|33300|111|소리 좀 줄여 주실래요?|1_0563.npz
+1_0564-audio.npy|1_0564-mel.npy|1_0564-linear.npy|86700|289|운동은 질병의 위험을 줄이기 위해 필요하다.|1_0564.npz
+1_0565-audio.npy|1_0565-mel.npy|1_0565-linear.npy|33300|111|밧줄을 꽉 쥐어라.|1_0565.npz
+1_0566-audio.npy|1_0566-mel.npy|1_0566-linear.npy|75600|252|그는 흥분하여 두 주먹을 불끈 쥐었다.|1_0566.npz
+1_0567-audio.npy|1_0567-mel.npy|1_0567-linear.npy|86100|287|요즘에는 아이들의 키도 커지고 덩치도 커졌다.|1_0567.npz
+1_0568-audio.npy|1_0568-mel.npy|1_0568-linear.npy|58800|196|홈쇼핑 사업은 점점 커지고 있다.|1_0568.npz
+1_0569-audio.npy|1_0569-mel.npy|1_0569-linear.npy|48900|163|너 이 다음에 커서 뭐가 되고 싶니?|1_0569.npz
+1_0570-audio.npy|1_0570-mel.npy|1_0570-linear.npy|34800|116|저는 시골에서 컸어요.|1_0570.npz
+1_0571-audio.npy|1_0571-mel.npy|1_0571-linear.npy|59400|198|저는 고양이를 열두 마리 키워요.|1_0571.npz
+1_0572-audio.npy|1_0572-mel.npy|1_0572-linear.npy|72900|243|아버지는 혼자서 나와 형을 키우셨다.|1_0572.npz
+1_0573-audio.npy|1_0573-mel.npy|1_0573-linear.npy|72300|241|어제 한밤중에 갑자기 잠에서 깼습니다.|1_0573.npz
+1_0574-audio.npy|1_0574-mel.npy|1_0574-linear.npy|36000|120|술이 깬 다음 얘기하자.|1_0574.npz
+1_0575-audio.npy|1_0575-mel.npy|1_0575-linear.npy|38100|127|실수로 접시를 깼어요.|1_0575.npz
+1_0576-audio.npy|1_0576-mel.npy|1_0576-linear.npy|49800|166|걔는 늘 분위기를 깨.|1_0576.npz
+1_0577-audio.npy|1_0577-mel.npy|1_0577-linear.npy|72900|243|이제서야 제 실수를 깨달았어요.|1_0577.npz
+1_0578-audio.npy|1_0578-mel.npy|1_0578-linear.npy|80400|268|나는 내가 그녀를 많이 사랑한다는 걸 깨달았다.|1_0578.npz
+1_0579-audio.npy|1_0579-mel.npy|1_0579-linear.npy|26400|88|사과 깎을 줄 알아?|1_0579.npz
+1_0580-audio.npy|1_0580-mel.npy|1_0580-linear.npy|35100|117|어제 머리를 깎았어요.|1_0580.npz
+1_0581-audio.npy|1_0581-mel.npy|1_0581-linear.npy|32400|108|조금만 깎아 주세요.|1_0581.npz
+1_0582-audio.npy|1_0582-mel.npy|1_0582-linear.npy|75300|251|그 사람은 자기 지갑을 꺼내려고 차에 갔어요.|1_0582.npz
+1_0583-audio.npy|1_0583-mel.npy|1_0583-linear.npy|92100|307|그는 호주머니에서 반지를 꺼내 내게 청혼했다.|1_0583.npz
+1_0584-audio.npy|1_0584-mel.npy|1_0584-linear.npy|47100|157|담배 껐는지 확인해라.|1_0584.npz
+1_0585-audio.npy|1_0585-mel.npy|1_0585-linear.npy|50700|169|방을 나갈 때에는 불을 꺼라.|1_0585.npz
+1_0586-audio.npy|1_0586-mel.npy|1_0586-linear.npy|56700|189|그는 고개를 끄덕이면서 말했다.|1_0586.npz
+1_0587-audio.npy|1_0587-mel.npy|1_0587-linear.npy|102300|341|어떤 나라에서는 고개를 끄덕이는 것이 부정을 의미합니다.|1_0587.npz
+1_0588-audio.npy|1_0588-mel.npy|1_0588-linear.npy|42900|143|아이가 엄마 소매를 끌었다.|1_0588.npz
+1_0589-audio.npy|1_0589-mel.npy|1_0589-linear.npy|71700|239|그 여배우는 늘 사람들의 시선을 끈다.|1_0589.npz
+1_0590-audio.npy|1_0590-mel.npy|1_0590-linear.npy|104400|348|연설이 시간을 오래 끄니까 사람들이 자리를 뜨기 시작했어요.|1_0590.npz
+1_0591-audio.npy|1_0591-mel.npy|1_0591-linear.npy|35700|119|갑자기 실이 끊어졌다.|1_0591.npz
+1_0592-audio.npy|1_0592-mel.npy|1_0592-linear.npy|30600|102|전화가 끊어졌어요.|1_0592.npz
+1_0593-audio.npy|1_0593-mel.npy|1_0593-linear.npy|33000|110|우리 사이는 끝났어.|1_0593.npz
+1_0594-audio.npy|1_0594-mel.npy|1_0594-linear.npy|59700|199|영화가 끝나 갈 즈음에 잠이 들었다.|1_0594.npz
+1_0595-audio.npy|1_0595-mel.npy|1_0595-linear.npy|34500|115|오늘 일은 다 끝냈어?|1_0595.npz
+1_0596-audio.npy|1_0596-mel.npy|1_0596-linear.npy|47700|159|오늘 안으로 과제를 끝내야 해.|1_0596.npz
+1_0597-audio.npy|1_0597-mel.npy|1_0597-linear.npy|61800|206|수리공이 실수로 선을 끊어 버린 것 같아.|1_0597.npz
+1_0598-audio.npy|1_0598-mel.npy|1_0598-linear.npy|23100|77|술 끊었어요.|1_0598.npz
+1_0599-audio.npy|1_0599-mel.npy|1_0599-linear.npy|40200|134|전화 끊었다 다시 걸게.|1_0599.npz
+1_0600-audio.npy|1_0600-mel.npy|1_0600-linear.npy|53100|177|물을 끓인 후에 라면을 넣으세요.|1_0600.npz
+1_0601-audio.npy|1_0601-mel.npy|1_0601-linear.npy|66600|222|내가 당신을 위해 커피 끓여 놓았어.|1_0601.npz
+1_0602-audio.npy|1_0602-mel.npy|1_0602-linear.npy|45600|152|저는 집 꾸미는 걸 좋아해요.|1_0602.npz
+1_0603-audio.npy|1_0603-mel.npy|1_0603-linear.npy|42000|140|그거 전부 내가 꾸며 낸 거야.|1_0603.npz
+1_0604-audio.npy|1_0604-mel.npy|1_0604-linear.npy|75900|253|사람들은 모두 행복해지기를 꿈꾼다.|1_0604.npz
+1_0605-audio.npy|1_0605-mel.npy|1_0605-linear.npy|66600|222|저는 늘 한국에 다시 오는 걸 꿈꿔 왔어요.|1_0605.npz
+1_0606-audio.npy|1_0606-mel.npy|1_0606-linear.npy|53100|177|너무 더워서 에어컨을 켰어.|1_0606.npz
+1_0607-audio.npy|1_0607-mel.npy|1_0607-linear.npy|30900|103|가스 레인지 좀 켜 봐.|1_0607.npz
+1_0608-audio.npy|1_0608-mel.npy|1_0608-linear.npy|79200|264|소영이는 벌써 일을 마치고 집에 돌아갔어요.|1_0608.npz
+1_0609-audio.npy|1_0609-mel.npy|1_0609-linear.npy|36300|121|일이 마치면 좀 쉬어.|1_0609.npz
+1_0610-audio.npy|1_0610-mel.npy|1_0610-linear.npy|30600|102|겨우 세 개 맞혔어.|1_0610.npz
+1_0611-audio.npy|1_0611-mel.npy|1_0611-linear.npy|61200|204|내가 그 문제 맞히면 뭐 줄 거야?|1_0611.npz
+1_0612-audio.npy|1_0612-mel.npy|1_0612-linear.npy|36000|120|안전벨트를 매세요.|1_0612.npz
+1_0613-audio.npy|1_0613-mel.npy|1_0613-linear.npy|76800|256|우리 회사에서는 넥타이를 매지 않아도 됩니다.|1_0613.npz
+1_0614-audio.npy|1_0614-mel.npy|1_0614-linear.npy|32700|109|싱크대가 막혔어.|1_0614.npz
+1_0615-audio.npy|1_0615-mel.npy|1_0615-linear.npy|25500|85|코가 막혀요.|1_0615.npz
+1_0616-audio.npy|1_0616-mel.npy|1_0616-linear.npy|41700|139|차가 막혀서 늦었습니다.|1_0616.npz
+1_0617-audio.npy|1_0617-mel.npy|1_0617-linear.npy|63000|210|쥐가 들어오지 못하게 구멍을 막아라.|1_0617.npz
+1_0618-audio.npy|1_0618-mel.npy|1_0618-linear.npy|82800|276|우리 가족 누구도 우리 아버지를 막을 수 없다.|1_0618.npz
+1_0619-audio.npy|1_0619-mel.npy|1_0619-linear.npy|35400|118|들어가지 마십시오.|1_0619.npz
+1_0620-audio.npy|1_0620-mel.npy|1_0620-linear.npy|54300|181|회사가 결국 망하고 말았다.|1_0620.npz
+1_0621-audio.npy|1_0621-mel.npy|1_0621-linear.npy|54300|181|나한테 네가 원하는 걸 말해 봐.|1_0621.npz
+1_0622-audio.npy|1_0622-mel.npy|1_0622-linear.npy|82200|274|나는 아내에게 바가지 좀 그만 긁으라고 말했다.|1_0622.npz
+1_0623-audio.npy|1_0623-mel.npy|1_0623-linear.npy|48300|161|원하는 게 뭔지 말씀해 보세요.|1_0623.npz
+1_0624-audio.npy|1_0624-mel.npy|1_0624-linear.npy|97800|326|어머니는 늘 내게 재혼하지 않겠다고 말씀하셨다.|1_0624.npz
+1_0625-audio.npy|1_0625-mel.npy|1_0625-linear.npy|60300|201|어떻게 이렇게 큰 눈사람을 만들었어?|1_0625.npz
+1_0626-audio.npy|1_0626-mel.npy|1_0626-linear.npy|69900|233|그는 늘 여자 친구를 질리게 만든다.|1_0626.npz
+1_0627-audio.npy|1_0627-mel.npy|1_0627-linear.npy|34500|115|머리 좀 그만 만져.|1_0627.npz
+1_0628-audio.npy|1_0628-mel.npy|1_0628-linear.npy|28200|94|만지지 마시오.|1_0628.npz
+1_0629-audio.npy|1_0629-mel.npy|1_0629-linear.npy|68100|227|이 계약에 만족하실 거라고 확신합니다.|1_0629.npz
+1_0630-audio.npy|1_0630-mel.npy|1_0630-linear.npy|55500|185|저는 새 멤버들에게 만족합니다.|1_0630.npz
+1_0631-audio.npy|1_0631-mel.npy|1_0631-linear.npy|64500|215|아내와 영화관 앞에서 만나기로 했습니다.|1_0631.npz
+1_0632-audio.npy|1_0632-mel.npy|1_0632-linear.npy|73500|245|너를 여기서 만나다니 정말 세상 좁구나!|1_0632.npz
+1_0633-audio.npy|1_0633-mel.npy|1_0633-linear.npy|108900|363|그 접착제는 아주 빨리 마르고 한 시간만 지나면 굳는다.|1_0633.npz
+1_0634-audio.npy|1_0634-mel.npy|1_0634-linear.npy|38700|129|그 사람 정말 말랐어.|1_0634.npz
+1_0635-audio.npy|1_0635-mel.npy|1_0635-linear.npy|36900|123|살 집은 마련했어?|1_0635.npz
+1_0636-audio.npy|1_0636-mel.npy|1_0636-linear.npy|57900|193|편하신 때로 자리를 마련하겠습니다.|1_0636.npz
+1_0637-audio.npy|1_0637-mel.npy|1_0637-linear.npy|51600|172|커피를 마시다 입이 헐었다.|1_0637.npz
+1_0638-audio.npy|1_0638-mel.npy|1_0638-linear.npy|63000|210|술을 전혀 못 마셔서 걱정입니다.|1_0638.npz
+1_0639-audio.npy|1_0639-mel.npy|1_0639-linear.npy|72300|241|시험이 끝난 후 친구와 답을 맞춰 보았다.|1_0639.npz
+1_0640-audio.npy|1_0640-mel.npy|1_0640-linear.npy|81600|272|자기 전에 알람 시계를 여섯 시에 맞춰라.|1_0640.npz
+1_0641-audio.npy|1_0641-mel.npy|1_0641-linear.npy|46800|156|귀중품은 카운터에 맡기세요.|1_0641.npz
+1_0642-audio.npy|1_0642-mel.npy|1_0642-linear.npy|43500|145|그 일은 저한테 맡겨 주세요.|1_0642.npz
+1_0643-audio.npy|1_0643-mel.npy|1_0643-linear.npy|27900|93|이거 정말 맞아요?|1_0643.npz
+1_0644-audio.npy|1_0644-mel.npy|1_0644-linear.npy|49800|166|이 옷 너한테 잘 맞을 것 같은데.|1_0644.npz
+1_0645-audio.npy|1_0645-mel.npy|1_0645-linear.npy|82500|275|어렸을 때, 가끔 아버지한테 매를 맞았어요.|1_0645.npz
+1_0646-audio.npy|1_0646-mel.npy|1_0646-linear.npy|23400|78|몇 점 맞았어?|1_0646.npz
+1_0647-audio.npy|1_0647-mel.npy|1_0647-linear.npy|55800|186|휴일을 맞아 대청소를 했어요.|1_0647.npz
+1_0648-audio.npy|1_0648-mel.npy|1_0648-linear.npy|54600|182|손님을 늘 따뜻하게 맞으세요.|1_0648.npz
+1_0649-audio.npy|1_0649-mel.npy|1_0649-linear.npy|60900|203|그녀는 그 일을 맡기를 꺼려했다.|1_0649.npz
+1_0650-audio.npy|1_0650-mel.npy|1_0650-linear.npy|65400|218|일곱 시까지 가방을 맡아 주실 수 있나요?|1_0650.npz
+1_0651-audio.npy|1_0651-mel.npy|1_0651-linear.npy|30600|102|꽃 향기를 맡아 봐.|1_0651.npz
+1_0652-audio.npy|1_0652-mel.npy|1_0652-linear.npy|84300|281|저는 축농증이 있어서 냄새를 잘 못 맡아요.|1_0652.npz
+1_0653-audio.npy|1_0653-mel.npy|1_0653-linear.npy|73200|244|아이들에게 너무 많이 먹이지 마십시오.|1_0653.npz
+1_0654-audio.npy|1_0654-mel.npy|1_0654-linear.npy|114900|383|나는 보통 새벽 세 시에 아기에게 젖을 먹이려고 일어난다.|1_0654.npz
+1_0655-audio.npy|1_0655-mel.npy|1_0655-linear.npy|64500|215|중국 음식을 먹고 싶은데, 넌 어때?|1_0655.npz
+1_0656-audio.npy|1_0656-mel.npy|1_0656-linear.npy|40800|136|약속을 잊어 먹었어요.|1_0656.npz
+1_0657-audio.npy|1_0657-mel.npy|1_0657-linear.npy|60600|202|버스가 횡단보도 앞에서 멈췄다.|1_0657.npz
+1_0658-audio.npy|1_0658-mel.npy|1_0658-linear.npy|51600|172|나는 웃음을 멈출 수가 없었어.|1_0658.npz
+1_0659-audio.npy|1_0659-mel.npy|1_0659-linear.npy|37800|126|어디에 머무르실 건가요?|1_0659.npz
+1_0660-audio.npy|1_0660-mel.npy|1_0660-linear.npy|43500|145|하룻밤 더 머무를 수 있나요?|1_0660.npz
+1_0661-audio.npy|1_0661-mel.npy|1_0661-linear.npy|21600|72|너 미쳤어?|1_0661.npz
+1_0662-audio.npy|1_0662-mel.npy|1_0662-linear.npy|36900|123|너 때문에 미치겠어.|1_0662.npz
+1_0663-audio.npy|1_0663-mel.npy|1_0663-linear.npy|44700|149|책상을 밀고 있는 중이다.|1_0663.npz
+1_0664-audio.npy|1_0664-mel.npy|1_0664-linear.npy|36900|123|뒤에서 밀지 마세요.|1_0664.npz
+1_0665-audio.npy|1_0665-mel.npy|1_0665-linear.npy|72600|242|오늘 할 수 있는 일을 내일로 미루지 마라.|1_0665.npz
+1_0666-audio.npy|1_0666-mel.npy|1_0666-linear.npy|60900|203|책임을 다른 사람에게 미루지 마세요.|1_0666.npz
+1_0667-audio.npy|1_0667-mel.npy|1_0667-linear.npy|40800|136|제 말을 믿으셔도 됩니다.|1_0667.npz
+1_0668-audio.npy|1_0668-mel.npy|1_0668-linear.npy|54300|181|그 녀석을 믿다니 어리석었구나.|1_0668.npz
+1_0669-audio.npy|1_0669-mel.npy|1_0669-linear.npy|42000|140|왜 내가 널 미워하겠니?|1_0669.npz
+1_0670-audio.npy|1_0670-mel.npy|1_0670-linear.npy|63300|211|남편과 저는 서로를 미워해요.|1_0670.npz
+1_0671-audio.npy|1_0671-mel.npy|1_0671-linear.npy|79800|266|그들은 불을 피우기 위해 나무를 모으고 있었다.|1_0671.npz
+1_0672-audio.npy|1_0672-mel.npy|1_0672-linear.npy|54300|181|올해에는 돈을 모으고 싶어요.|1_0672.npz
+1_0673-audio.npy|1_0673-mel.npy|1_0673-linear.npy|90600|302|우리 클럽은 일주일에 두 번 정기적으로 모입니다.|1_0673.npz
+1_0674-audio.npy|1_0674-mel.npy|1_0674-linear.npy|55800|186|시위대가 시청 앞 광장에 모였다.|1_0674.npz
+1_0675-audio.npy|1_0675-mel.npy|1_0675-linear.npy|71100|237|비타민이 모자라면 병에 걸리기 쉽다.|1_0675.npz
+1_0676-audio.npy|1_0676-mel.npy|1_0676-linear.npy|43800|146|거스름돈이 모자란 거 같아요.|1_0676.npz
+1_0677-audio.npy|1_0677-mel.npy|1_0677-linear.npy|35400|118|차를 몰고 오실 건가요?|1_0677.npz
+1_0678-audio.npy|1_0678-mel.npy|1_0678-linear.npy|68100|227|아버지는 스무 살 때부터 버스를 모셨다.|1_0678.npz
+1_0679-audio.npy|1_0679-mel.npy|1_0679-linear.npy|98400|328|저녁마다 아들 녀석이 자기 방에서 뭘 하는지 모르겠어.|1_0679.npz
+1_0680-audio.npy|1_0680-mel.npy|1_0680-linear.npy|70800|236|이 문제에 관해서는 나는 아무것도 몰라.|1_0680.npz
+1_0681-audio.npy|1_0681-mel.npy|1_0681-linear.npy|40200|134|시부모님을 모시고 사세요?|1_0681.npz
+1_0682-audio.npy|1_0682-mel.npy|1_0682-linear.npy|59700|199|손님들을 전철 역까지 모셔 드리세요.|1_0682.npz
+1_0683-audio.npy|1_0683-mel.npy|1_0683-linear.npy|41400|138|저는 노래를 잘 못해요.|1_0683.npz
+1_0684-audio.npy|1_0684-mel.npy|1_0684-linear.npy|76500|255|지금은 배가 아파서 아무것도 먹지 못합니다.|1_0684.npz
+1_0685-audio.npy|1_0685-mel.npy|1_0685-linear.npy|114600|382|내 여자 친구는 아침에 머리를 안 감으면 머리를 묶고 다닌다.|1_0685.npz
+1_0686-audio.npy|1_0686-mel.npy|1_0686-linear.npy|108300|361|테러리스트들은 인질들의 손과 발을 밧줄로 묶었다.|1_0686.npz
+1_0687-audio.npy|1_0687-mel.npy|1_0687-linear.npy|59400|198|어떤 개가 내 다리를 물었어.|1_0687.npz
+1_0688-audio.npy|1_0688-mel.npy|1_0688-linear.npy|80400|268|그는 늘 입에 담배를 물고 일을 합니다.|1_0688.npz
+1_0689-audio.npy|1_0689-mel.npy|1_0689-linear.npy|38100|127|테러로 다리가 무너졌다.|1_0689.npz
+1_0690-audio.npy|1_0690-mel.npy|1_0690-linear.npy|64200|214|하늘이 무너져도 솟아날 구멍이 있다.|1_0690.npz
+1_0691-audio.npy|1_0691-mel.npy|1_0691-linear.npy|105300|351|다음 토요일에 우리 집에 올 수 있나 너한테 물어보려고 전화했어.|1_0691.npz
+1_0692-audio.npy|1_0692-mel.npy|1_0692-linear.npy|28500|95|뭐 하나 물어봐도 돼?|1_0692.npz
+1_0693-audio.npy|1_0693-mel.npy|1_0693-linear.npy|69000|230|내 직장 상사는 내 요구를 무시했다.|1_0693.npz
+1_0694-audio.npy|1_0694-mel.npy|1_0694-linear.npy|104700|349|사람들은 다른 사람이 자신을 무시할 때 화가 나는 법이다.|1_0694.npz
+1_0695-audio.npy|1_0695-mel.npy|1_0695-linear.npy|38100|127|너한테 묻고 싶은 게 있어.|1_0695.npz
+1_0696-audio.npy|1_0696-mel.npy|1_0696-linear.npy|19500|65|그걸 왜 물어?|1_0696.npz
+1_0697-audio.npy|1_0697-mel.npy|1_0697-linear.npy|38100|127|나무에 새싹이 났어요.|1_0697.npz
+1_0698-audio.npy|1_0698-mel.npy|1_0698-linear.npy|61200|204|어제 인도네시아에서 지진이 났다.|1_0698.npz
+1_0699-audio.npy|1_0699-mel.npy|1_0699-linear.npy|39900|133|숙제부터 하고 나서 놀아라.|1_0699.npz
+1_0700-audio.npy|1_0700-mel.npy|1_0700-linear.npy|44700|149|그는 신문에 광고를 냈다.|1_0700.npz
+1_0701-audio.npy|1_0701-mel.npy|1_0701-linear.npy|27000|90|답안지를 내세요.|1_0701.npz
+1_0702-audio.npy|1_0702-mel.npy|1_0702-linear.npy|39600|132|배송료는 누가 낼 겁니까?|1_0702.npz
+1_0703-audio.npy|1_0703-mel.npy|1_0703-linear.npy|43800|146|골키퍼가 슛을 막아 냈어요.|1_0703.npz
+1_0704-audio.npy|1_0704-mel.npy|1_0704-linear.npy|60600|202|그녀가 손을 내밀어 악수를 청했다.|1_0704.npz
+1_0705-audio.npy|1_0705-mel.npy|1_0705-linear.npy|54300|181|창 밖으로 고개를 내밀지 마세요.|1_0705.npz
+1_0706-audio.npy|1_0706-mel.npy|1_0706-linear.npy|62100|207|음식물 쓰레기를 바깥에 내놓아라.|1_0706.npz
+1_0707-audio.npy|1_0707-mel.npy|1_0707-linear.npy|55200|184|이 의자 팔려고 내놓은 건가요?|1_0707.npz
+1_0708-audio.npy|1_0708-mel.npy|1_0708-linear.npy|35700|119|비가 내리기 시작했다.|1_0708.npz
+1_0709-audio.npy|1_0709-mel.npy|1_0709-linear.npy|66300|221|엘리베이터를 타고 오 층에서 내리세요.|1_0709.npz
+1_0710-audio.npy|1_0710-mel.npy|1_0710-linear.npy|21000|70|총을 내려 놓아!|1_0710.npz
+1_0711-audio.npy|1_0711-mel.npy|1_0711-linear.npy|54600|182|이번 주말에 집에 내려갈 거야.|1_0711.npz
+1_0712-audio.npy|1_0712-mel.npy|1_0712-linear.npy|42900|143|최근 물가가 내려갔어요.|1_0712.npz
+1_0713-audio.npy|1_0713-mel.npy|1_0713-linear.npy|99000|330|산을 올라가는 것보다 산을 내려가는 게 더 힘들어요.|1_0713.npz
+1_0714-audio.npy|1_0714-mel.npy|1_0714-linear.npy|79200|264|요즘 고향으로 내려오는 젊은 사람들이 많다.|1_0714.npz
+1_0715-audio.npy|1_0715-mel.npy|1_0715-linear.npy|56100|187|계단을 내려올 때 발 조심하세요.|1_0715.npz
+1_0716-audio.npy|1_0716-mel.npy|1_0716-linear.npy|29100|97|밖에 나가 놀자.|1_0716.npz
+1_0717-audio.npy|1_0717-mel.npy|1_0717-linear.npy|41100|137|왜 어제 모임을 안 나간 거야?|1_0717.npz
+1_0718-audio.npy|1_0718-mel.npy|1_0718-linear.npy|85500|285|잘린 게 아냐. 내가 내 발로 회사에서 나간 거지.|1_0718.npz
+1_0719-audio.npy|1_0719-mel.npy|1_0719-linear.npy|80700|269|새 한 마리가 사무실 건물 위로 날고 있어요.|1_0719.npz
+1_0720-audio.npy|1_0720-mel.npy|1_0720-linear.npy|60300|201|누구나 하늘을 날고 싶은 소망이 있지요.|1_0720.npz
+1_0721-audio.npy|1_0721-mel.npy|1_0721-linear.npy|39000|130|메시지를 남기시겠어요?|1_0721.npz
+1_0722-audio.npy|1_0722-mel.npy|1_0722-linear.npy|86400|288|아내를 미국에 남겨 두고 혼자 한국에 왔습니다.|1_0722.npz
+1_0723-audio.npy|1_0723-mel.npy|1_0723-linear.npy|58500|195|흉터가 남지 않을 거라니 다행이야.|1_0723.npz
+1_0724-audio.npy|1_0724-mel.npy|1_0724-linear.npy|58500|195|바구니 속에 샌드위치가 남아 있다.|1_0724.npz
+1_0725-audio.npy|1_0725-mel.npy|1_0725-linear.npy|52800|176|우리 그 돈을 반으로 나누자.|1_0725.npz
+1_0726-audio.npy|1_0726-mel.npy|1_0726-linear.npy|55200|184|친구와 먹을 것을 나눠 먹어라.|1_0726.npz
+1_0727-audio.npy|1_0727-mel.npy|1_0727-linear.npy|71100|237|주말에는 보통 집 밖으로 나오지 않아요.|1_0727.npz
+1_0728-audio.npy|1_0728-mel.npy|1_0728-linear.npy|32400|108|어느 대학 나오셨어요?|1_0728.npz
+1_0729-audio.npy|1_0729-mel.npy|1_0729-linear.npy|67500|225|공부를 계속하려고 직장을 나왔습니다.|1_0729.npz
+1_0730-audio.npy|1_0730-mel.npy|1_0730-linear.npy|72900|243|어머니의 건강이 점점 나빠지고 있어요.|1_0730.npz
+1_0731-audio.npy|1_0731-mel.npy|1_0731-linear.npy|39600|132|시력이 많이 나빠졌어요.|1_0731.npz
+1_0732-audio.npy|1_0732-mel.npy|1_0732-linear.npy|84900|283|제비들은 여름이 되면 북쪽으로 날아간다.|1_0732.npz
+1_0733-audio.npy|1_0733-mel.npy|1_0733-linear.npy|72300|241|나는 그 파일이 날아가 버렸음을 알았다.|1_0733.npz
+1_0734-audio.npy|1_0734-mel.npy|1_0734-linear.npy|49500|165|회사에 가려고 집을 나섰다.|1_0734.npz
+1_0735-audio.npy|1_0735-mel.npy|1_0735-linear.npy|45300|151|남의 일에 나서지 마라.|1_0735.npz
+1_0736-audio.npy|1_0736-mel.npy|1_0736-linear.npy|63900|213|아내는 어젯밤 사내 아이를 낳았다.|1_0736.npz
+1_0737-audio.npy|1_0737-mel.npy|1_0737-linear.npy|90900|303|우리 농장의 암탉은 매일 알을 두 개씩 낳는다.|1_0737.npz
+1_0738-audio.npy|1_0738-mel.npy|1_0738-linear.npy|57300|191|폭력은 폭력을 낳는 법입니다.|1_0738.npz
+1_0739-audio.npy|1_0739-mel.npy|1_0739-linear.npy|68100|227|그가 파티에 나타나서 깜짝 놀랐다.|1_0739.npz
+1_0740-audio.npy|1_0740-mel.npy|1_0740-linear.npy|89400|298|고양이는 언제나 밥 시간에 딱 맞춰서 나타난다.|1_0740.npz
+1_0741-audio.npy|1_0741-mel.npy|1_0741-linear.npy|69600|232|그는 법정에 모습을 나타내지 않았다.|1_0741.npz
+1_0742-audio.npy|1_0742-mel.npy|1_0742-linear.npy|71700|239|에이치 투 오는 물을 나타내는 기호이다.|1_0742.npz
+1_0743-audio.npy|1_0743-mel.npy|1_0743-linear.npy|26700|89|맥주가 넘쳐요.|1_0743.npz
+1_0744-audio.npy|1_0744-mel.npy|1_0744-linear.npy|43500|145|그들은 자신감이 넘쳤다.|1_0744.npz
+1_0745-audio.npy|1_0745-mel.npy|1_0745-linear.npy|35100|117|이 고개만 넘어가자.|1_0745.npz
+1_0746-audio.npy|1_0746-mel.npy|1_0746-linear.npy|39000|130|다음 장으로 넘어갑시다.|1_0746.npz
+1_0747-audio.npy|1_0747-mel.npy|1_0747-linear.npy|78600|262|내 생각에는 네가 정도를 넘어선 것 같아.|1_0747.npz
+1_0748-audio.npy|1_0748-mel.npy|1_0748-linear.npy|49500|165|참을 수 있는 한계를 넘어섰어요.|1_0748.npz
+1_0749-audio.npy|1_0749-mel.npy|1_0749-linear.npy|90900|303|그녀는 셔틀콕을 네트 위로 넘기는 데 실패했다.|1_0749.npz
+1_0750-audio.npy|1_0750-mel.npy|1_0750-linear.npy|38400|128|페이지를 한 장 넘겨라.|1_0750.npz
+1_0751-audio.npy|1_0751-mel.npy|1_0751-linear.npy|36300|121|벌써 다섯 시가 넘었어.|1_0751.npz
+1_0752-audio.npy|1_0752-mel.npy|1_0752-linear.npy|46500|155|우리는 벌써 예산을 넘었어.|1_0752.npz
+1_0753-audio.npy|1_0753-mel.npy|1_0753-linear.npy|72000|240|강도는 담을 넘어 들어온 게 분명합니다.|1_0753.npz
+1_0754-audio.npy|1_0754-mel.npy|1_0754-linear.npy|59400|198|이 옷은 세탁기에 넣지 마세요.|1_0754.npz
+1_0755-audio.npy|1_0755-mel.npy|1_0755-linear.npy|30900|103|가득 넣어 주십시오.|1_0755.npz
+1_0756-audio.npy|1_0756-mel.npy|1_0756-linear.npy|67800|226|그녀는 팔에 심한 통증을 느꼈다.|1_0756.npz
+1_0757-audio.npy|1_0757-mel.npy|1_0757-linear.npy|121500|405|테니스를 시작하고 나서 건강이 훨씬 좋아지는 것을 느끼고 있습니다.|1_0757.npz
+1_0758-audio.npy|1_0758-mel.npy|1_0758-linear.npy|65700|219|어머니는 나이에 비해 늙어 보이세요.|1_0758.npz
+1_0759-audio.npy|1_0759-mel.npy|1_0759-linear.npy|85500|285|할아버지는 그런 일을 하시기에는 너무 늙으셨어.|1_0759.npz
+1_0760-audio.npy|1_0760-mel.npy|1_0760-linear.npy|45600|152|몸무게가 약간 늘었어요.|1_0760.npz
+1_0761-audio.npy|1_0761-mel.npy|1_0761-linear.npy|69600|232|아내의 요리 솜씨가 점점 늘고 있어요.|1_0761.npz
+1_0762-audio.npy|1_0762-mel.npy|1_0762-linear.npy|63600|212|치마 길이를 조금만 늘리고 싶어요.|1_0762.npz
+1_0763-audio.npy|1_0763-mel.npy|1_0763-linear.npy|90600|302|미국이 수출을 늘리기 위해 많은 압력을 가하고 있어요.|1_0763.npz
+1_0764-audio.npy|1_0764-mel.npy|1_0764-linear.npy|59100|197|새 셔츠가 늘어나서 속상해요.|1_0764.npz
+1_0765-audio.npy|1_0765-mel.npy|1_0765-linear.npy|38400|128|이혼율이 늘어나고 있다.|1_0765.npz
+1_0766-audio.npy|1_0766-mel.npy|1_0766-linear.npy|70500|235|그 녀석은 수업 시간에 늘상 늦는다.|1_0766.npz
+1_0767-audio.npy|1_0767-mel.npy|1_0767-linear.npy|32400|108|왜 이렇게 늦었어?|1_0767.npz
+1_0768-audio.npy|1_0768-mel.npy|1_0768-linear.npy|63300|211|책상 위에 놓여 있던 연필 어디 갔어?|1_0768.npz
+1_0769-audio.npy|1_0769-mel.npy|1_0769-linear.npy|63900|213|그녀의 소식을 들으니 마음이 놓였다.|1_0769.npz
+1_0770-audio.npy|1_0770-mel.npy|1_0770-linear.npy|79500|265|아들 녀석은 인형을 가지고 노는 걸 좋아해요.|1_0770.npz
+1_0771-audio.npy|1_0771-mel.npy|1_0771-linear.npy|68400|228|나는 여자 아이들과 놀 때 마음이 편하다.|1_0771.npz
+1_0772-audio.npy|1_0772-mel.npy|1_0772-linear.npy|82800|276|그의 갑작스러운 청혼에 나는 깜짝 놀랐다.|1_0772.npz
+1_0773-audio.npy|1_0773-mel.npy|1_0773-linear.npy|68100|227|그 소식은 우리를 깜짝 놀라게 했다.|1_0773.npz
+1_0774-audio.npy|1_0774-mel.npy|1_0774-linear.npy|59700|199|도둑을 막으려면 담을 높여야 해.|1_0774.npz
+1_0775-audio.npy|1_0775-mel.npy|1_0775-linear.npy|84000|280|야간에 운전자들은 속도를 높이면 안 된다.|1_0775.npz
+1_0776-audio.npy|1_0776-mel.npy|1_0776-linear.npy|76800|256|나는 춤추는 것보다 노래하는 게 더 좋다.|1_0776.npz
+1_0777-audio.npy|1_0777-mel.npy|1_0777-linear.npy|96900|323|그녀는 밤새 춤추고 노래해도 지치는 법이 없어.|1_0777.npz
+1_0778-audio.npy|1_0778-mel.npy|1_0778-linear.npy|66900|223|정부는 경제 활성화에 노력하고 있습니다.|1_0778.npz
+1_0779-audio.npy|1_0779-mel.npy|1_0779-linear.npy|68700|229|합격을 위해 정말 열심히 노력했어.|1_0779.npz
+1_0780-audio.npy|1_0780-mel.npy|1_0780-linear.npy|41700|139|접시를 식탁 위에 놓아라.|1_0780.npz
+1_0781-audio.npy|1_0781-mel.npy|1_0781-linear.npy|14100|47|손 놓아!|1_0781.npz
+1_0782-audio.npy|1_0782-mel.npy|1_0782-linear.npy|33000|110|창문을 열어 놓으세요.|1_0782.npz
+1_0783-audio.npy|1_0783-mel.npy|1_0783-linear.npy|67500|225|제일 좋아하는 연속극을 놓치고 싶지 않아요.|1_0783.npz
+1_0784-audio.npy|1_0784-mel.npy|1_0784-linear.npy|49800|166|좋은 기회를 놓치지 마라.|1_0784.npz
+1_0785-audio.npy|1_0785-mel.npy|1_0785-linear.npy|36600|122|비행기를 놓칠 뻔했어요.|1_0785.npz
+1_0786-audio.npy|1_0786-mel.npy|1_0786-linear.npy|45600|152|엄마는 침대에 누워 계신다.|1_0786.npz
+1_0787-audio.npy|1_0787-mel.npy|1_0787-linear.npy|33300|111|오른쪽으로 누우세요.|1_0787.npz
+1_0788-audio.npy|1_0788-mel.npy|1_0788-linear.npy|52500|175|외부 전화는 구 번을 누르세요.|1_0788.npz
+1_0789-audio.npy|1_0789-mel.npy|1_0789-linear.npy|55800|186|나는 더 이상 화를 누를 수 없었다.|1_0789.npz
+1_0790-audio.npy|1_0790-mel.npy|1_0790-linear.npy|58500|195|시간 있으면 제 전시회에 오세요.|1_0790.npz
+1_0791-audio.npy|1_0791-mel.npy|1_0791-linear.npy|85800|286|그 사람은 이십 년간 한 회사에서 일해 왔어요.|1_0791.npz
+1_0792-audio.npy|1_0792-mel.npy|1_0792-linear.npy|56700|189|엄마가 내게 돌아오라고 외쳤다.|1_0792.npz
+1_0793-audio.npy|1_0793-mel.npy|1_0793-linear.npy|62400|208|누군가 도와 달라고 외치는 것을 들었다.|1_0793.npz
+1_0794-audio.npy|1_0794-mel.npy|1_0794-linear.npy|56100|187|삼 층까지 계단을 걸어 올라가세요.|1_0794.npz
+1_0795-audio.npy|1_0795-mel.npy|1_0795-linear.npy|48900|163|오늘은 기온이 많이 올라갔다.|1_0795.npz
+1_0796-audio.npy|1_0796-mel.npy|1_0796-linear.npy|39000|130|언제 서울에 올라오셨어요?|1_0796.npz
+1_0797-audio.npy|1_0797-mel.npy|1_0797-linear.npy|30600|102|옥상으로 올라오세요.|1_0797.npz
+1_0798-audio.npy|1_0798-mel.npy|1_0798-linear.npy|33000|110|바지 지퍼를 올리세요.|1_0798.npz
+1_0799-audio.npy|1_0799-mel.npy|1_0799-linear.npy|69600|232|시험 점수를 빨리 올릴 방법이 없을까?|1_0799.npz
+1_0800-audio.npy|1_0800-mel.npy|1_0800-linear.npy|34200|114|게시판에 글 좀 올려.|1_0800.npz
+1_0801-audio.npy|1_0801-mel.npy|1_0801-linear.npy|43800|146|제 짐 좀 방으로 옮겨 주세요.|1_0801.npz
+1_0802-audio.npy|1_0802-mel.npy|1_0802-linear.npy|98700|329|아버지께서 저더러 이 캐비닛을 밖으로 옮기라고 하셨어요.|1_0802.npz
+1_0803-audio.npy|1_0803-mel.npy|1_0803-linear.npy|63900|213|이 산을 오르는 건 결코 쉽지 않아.|1_0803.npz
+1_0804-audio.npy|1_0804-mel.npy|1_0804-linear.npy|88200|294|딸 아이가 이번 시험에서 성적이 많이 올랐어요.|1_0804.npz
+1_0805-audio.npy|1_0805-mel.npy|1_0805-linear.npy|80400|268|빚을 갚으려고 친구한테 오토바이를 팔았다.|1_0805.npz
+1_0806-audio.npy|1_0806-mel.npy|1_0806-linear.npy|53100|177|저희는 물건을 다발로 팔아요.|1_0806.npz
+1_0807-audio.npy|1_0807-mel.npy|1_0807-linear.npy|41400|138|코스모스는 가을에 펴요.|1_0807.npz
+1_0808-audio.npy|1_0808-mel.npy|1_0808-linear.npy|47400|158|벚꽃이 활짝 폈다.|1_0808.npz
+1_0809-audio.npy|1_0809-mel.npy|1_0809-linear.npy|51000|170|격렬한 운동은 피하셔야 합니다.|1_0809.npz
+1_0810-audio.npy|1_0810-mel.npy|1_0810-linear.npy|41700|139|왜 요즘 저를 자꾸 피해요?|1_0810.npz
+1_0811-audio.npy|1_0811-mel.npy|1_0811-linear.npy|48900|163|그가 난로에 불을 피웠다.|1_0811.npz
+1_0812-audio.npy|1_0812-mel.npy|1_0812-linear.npy|40200|134|여기서 담배 피워도 되나요?|1_0812.npz
+1_0813-audio.npy|1_0813-mel.npy|1_0813-linear.npy|91500|305|저는 제게 주어진 일을 절대 쉽게 포기하지 않습니다.|1_0813.npz
+1_0814-audio.npy|1_0814-mel.npy|1_0814-linear.npy|29100|97|포기하기에는 일러.|1_0814.npz
+1_0815-audio.npy|1_0815-mel.npy|1_0815-linear.npy|72300|241|그 요금에 아침 식사가 포함되어 있습니까?|1_0815.npz
+1_0816-audio.npy|1_0816-mel.npy|1_0816-linear.npy|59100|197|통근 수당은 봉급에 포함되어 있습니다.|1_0816.npz
+1_0817-audio.npy|1_0817-mel.npy|1_0817-linear.npy|36900|123|세금을 포함하는 건가요?|1_0817.npz
+1_0818-audio.npy|1_0818-mel.npy|1_0818-linear.npy|87300|291|우리 가족은 저를 포함해서 모두 여섯 명입니다.|1_0818.npz
+1_0819-audio.npy|1_0819-mel.npy|1_0819-linear.npy|58500|195|초대장에서 그 사람 이름을 빼라.|1_0819.npz
+1_0820-audio.npy|1_0820-mel.npy|1_0820-linear.npy|40200|134|십 빼기 팔은 |1_0820.npz
+1_0821-audio.npy|1_0821-mel.npy|1_0821-linear.npy|61200|204|살을 빼는 제일 좋은 방법이 뭘까요?|1_0821.npz
+1_0822-audio.npy|1_0822-mel.npy|1_0822-linear.npy|66000|220|어떻게 그렇게 혼잡한 곳에서 빠져나갔니?|1_0822.npz
+1_0823-audio.npy|1_0823-mel.npy|1_0823-linear.npy|61800|206|아무도 여기를 빠져나갈 수는 없어.|1_0823.npz
+1_0824-audio.npy|1_0824-mel.npy|1_0824-linear.npy|74700|249|어렸을 때 바다에 빠져 죽을 뻔한 적이 있어요.|1_0824.npz
+1_0825-audio.npy|1_0825-mel.npy|1_0825-linear.npy|39300|131|나 사랑에 빠진 것 같아.|1_0825.npz
+1_0826-audio.npy|1_0826-mel.npy|1_0826-linear.npy|54300|181|요즘 매일 머리가 한 움큼씩 빠져.|1_0826.npz
+1_0827-audio.npy|1_0827-mel.npy|1_0827-linear.npy|77700|259|내 이름이 합격자 명단에서 빠져 있어.|1_0827.npz
+1_0828-audio.npy|1_0828-mel.npy|1_0828-linear.npy|64200|214|내 아들 녀석은 학교를 자주 빠져요.|1_0828.npz
+1_0829-audio.npy|1_0829-mel.npy|1_0829-linear.npy|81900|273|오늘 치과에서 이를 뽑아서 씹을 수가 없어.|1_0829.npz
+1_0830-audio.npy|1_0830-mel.npy|1_0830-linear.npy|62100|207|이 사람들 중에서 다섯 명만 뽑을 거야.|1_0830.npz
+1_0831-audio.npy|1_0831-mel.npy|1_0831-linear.npy|42600|142|음식에 후추 좀 그만 뿌려라.|1_0831.npz
+1_0832-audio.npy|1_0832-mel.npy|1_0832-linear.npy|30600|102|향수만 뿌리면 돼.|1_0832.npz
+1_0833-audio.npy|1_0833-mel.npy|1_0833-linear.npy|42600|142|좌석벨트를 풀어 주십시|1_0833.npz
+1_0834-audio.npy|1_0834-mel.npy|1_0834-linear.npy|41400|138|이 문제를 못 풀겠어.|1_0834.npz
+1_0835-audio.npy|1_0835-mel.npy|1_0835-linear.npy|47700|159|왼쪽 신발 끈이 풀렸어요.|1_0835.npz
+1_0836-audio.npy|1_0836-mel.npy|1_0836-linear.npy|57000|190|그 문제는 의외로 쉽게 풀렸어.|1_0836.npz
+1_0837-audio.npy|1_0837-mel.npy|1_0837-linear.npy|35100|117|할아버지 이불 펴 드려라.|1_0837.npz
+1_0838-audio.npy|1_0838-mel.npy|1_0838-linear.npy|27300|91|십 쪽을 펴세요.|1_0838.npz
+1_0839-audio.npy|1_0839-mel.npy|1_0839-linear.npy|98700|329|나는 그 애의 책이 책상 위에 펼쳐져 있는 걸 본 적이 없어.|1_0839.npz
+1_0840-audio.npy|1_0840-mel.npy|1_0840-linear.npy|131400|438|부산국제영화제가 시월 이 일부터 시월 팔 일까지 펼쳐질 예정입니다.|1_0840.npz
+1_0841-audio.npy|1_0841-mel.npy|1_0841-linear.npy|84900|283|지하철에서는 신문을 펼치고 봐서는 안 된다.|1_0841.npz
+1_0842-audio.npy|1_0842-mel.npy|1_0842-linear.npy|77100|257|두 팀은 막상막하의 경기를 펼쳤습니다.|1_0842.npz
+1_0843-audio.npy|1_0843-mel.npy|1_0843-linear.npy|85800|286|경상도 남자들은 애정을 잘 표현하지 않아|1_0843.npz
+1_0844-audio.npy|1_0844-mel.npy|1_0844-linear.npy|79500|265|한국어로 제 생각을 표현하는 게 쉽지 않아요.|1_0844.npz
+1_0845-audio.npy|1_0845-mel.npy|1_0845-linear.npy|46500|155|어디에서 우표를 살 수 있습니까?|1_0845.npz
+1_0847-audio.npy|1_0847-mel.npy|1_0847-linear.npy|65100|217|그는 하루 종일 뭘 먹을지 생각한다.|1_0847.npz
+1_0848-audio.npy|1_0848-mel.npy|1_0848-linear.npy|88200|294|아무리 그 질문에 대해 생각해 봐도 모르겠어요.|1_0848.npz
+1_0849-audio.npy|1_0849-mel.npy|1_0849-linear.npy|78600|262|많은 사람들이 그 아이를 천재라고 생각합니다.|1_0849.npz
+1_0850-audio.npy|1_0850-mel.npy|1_0850-linear.npy|57000|190|그 남자가 범인으로 생각됩니다.|1_0850.npz
+1_0851-audio.npy|1_0851-mel.npy|1_0851-linear.npy|66000|220|아프다고 생각되면 빨리 병원에 가라.|1_0851.npz
+1_0852-audio.npy|1_0852-mel.npy|1_0852-linear.npy|51900|173|좋은 의견이 생각나면 말해 줘.|1_0852.npz
+1_0853-audio.npy|1_0853-mel.npy|1_0853-linear.npy|74400|248|나는 비만 보면 예전 여자 친구가 생각나.|1_0853.npz
+1_0854-audio.npy|1_0854-mel.npy|1_0854-linear.npy|71700|239|회사 건너편에 새로 생긴 커피숍 가 봤니?|1_0854.npz
+1_0855-audio.npy|1_0855-mel.npy|1_0855-linear.npy|60300|201|이 아기는 바비 인형처럼 생겼어요.|1_0855.npz
+1_0856-audio.npy|1_0856-mel.npy|1_0856-linear.npy|60900|203|이 지역에 새 아파트가 생겨나고 있다.|1_0856.npz
+1_0857-audio.npy|1_0857-mel.npy|1_0857-linear.npy|53100|177|이 곰팡이는 어디에서 생겨난 거야?|1_0857.npz
+1_0858-audio.npy|1_0858-mel.npy|1_0858-linear.npy|45600|152|그녀는 길 건너편에 산다.|1_0858.npz
+1_0859-audio.npy|1_0859-mel.npy|1_0859-linear.npy|42300|141|기숙사에서 사는 게 지겨워.|1_0859.npz
+1_0860-audio.npy|1_0860-mel.npy|1_0860-linear.npy|38700|129|누가 절 살려 주셨어요?|1_0860.npz
+1_0861-audio.npy|1_0861-mel.npy|1_0861-linear.npy|106800|356|다음 대통령이 가장 먼저 해야 할 일은 경제를 살리는 것이다.|1_0861.npz
+1_0862-audio.npy|1_0862-mel.npy|1_0862-linear.npy|35400|118|다른 서랍을 살펴봤어?|1_0862.npz
+1_0863-audio.npy|1_0863-mel.npy|1_0863-linear.npy|60900|203|비용 문제를 자세히 살펴봐야 한다.|1_0863.npz
+1_0864-audio.npy|1_0864-mel.npy|1_0864-linear.npy|88800|296|그녀가 다른 남자와 같이 있는 걸 상상할 수가 없어요.|1_0864.npz
+1_0865-audio.npy|1_0865-mel.npy|1_0865-linear.npy|80400|268|가격은 선생님이 상상하시는 것보다 저렴합니다.|1_0865.npz
+1_0866-audio.npy|1_0866-mel.npy|1_0866-linear.npy|82200|274|하루에 수십 개의 언어가 이 땅에서 사라지고 있다.|1_0866.npz
+1_0867-audio.npy|1_0867-mel.npy|1_0867-linear.npy|48900|163|달이 구름 속으로 사라졌다.|1_0867.npz
+1_0868-audio.npy|1_0868-mel.npy|1_0868-linear.npy|66600|222|저는 자유보다 복종을 더 사랑해요.|1_0868.npz
+1_0869-audio.npy|1_0869-mel.npy|1_0869-linear.npy|46800|156|당신을 더 이상 사랑하지 않아.|1_0869.npz
+1_0870-audio.npy|1_0870-mel.npy|1_0870-linear.npy|58800|196|이것은 무언가를 자르는 데 사용된다.|1_0870.npz
+1_0871-audio.npy|1_0871-mel.npy|1_0871-linear.npy|65100|217|이 방은 응접실로 사용될 겁니다.|1_0871.npz
+1_0872-audio.npy|1_0872-mel.npy|1_0872-linear.npy|54900|183|산 지렁이를 미끼로 사용해 봐.|1_0872.npz
+1_0873-audio.npy|1_0873-mel.npy|1_0873-linear.npy|75900|253|쿠폰을 사용해서 돈을 조금 절약할 수 있었다.|1_0873.npz
+1_0874-audio.npy|1_0874-mel.npy|1_0874-linear.npy|33300|111|구석에 서 있지 마세요.|1_0874.npz
+1_0875-audio.npy|1_0875-mel.npy|1_0875-linear.npy|53100|177|서울역 가는 버스가 여기 서요?|1_0875.npz
+1_0876-audio.npy|1_0876-mel.npy|1_0876-linear.npy|32100|107|서두르지 않아도 돼.|1_0876.npz
+1_0877-audio.npy|1_0877-mel.npy|1_0877-linear.npy|39600|132|떠날 채비를 서둘러라.|1_0877.npz
+1_0878-audio.npy|1_0878-mel.npy|1_0878-linear.npy|54300|181|우유랑 버터를 밀가루에 섞으세요.|1_0878.npz
+1_0879-audio.npy|1_0879-mel.npy|1_0879-linear.npy|29700|99|제가 카드 섞어요?|1_0879.npz
+1_0880-audio.npy|1_0880-mel.npy|1_0880-linear.npy|84300|281|나는 의사에게 내 증상을 자세히 설명했다.|1_0880.npz
+1_0881-audio.npy|1_0881-mel.npy|1_0881-linear.npy|51300|171|좀 더 자세히 설명해 주시겠어요?|1_0881.npz
+1_0882-audio.npy|1_0882-mel.npy|1_0882-linear.npy|84900|283|사업에 성공하려면 우선 자신을 돌봐야 한다.|1_0882.npz
+1_0883-audio.npy|1_0883-mel.npy|1_0883-linear.npy|73500|245|그 영화는 상업적으로 크게 성공했다.|1_0883.npz
+1_0884-audio.npy|1_0884-mel.npy|1_0884-linear.npy|74400|248|나는 그녀에게 꽃 한 다발을 선물했다.|1_0884.npz
+1_0885-audio.npy|1_0885-mel.npy|1_0885-linear.npy|62100|207|어머니 생신에 뭐 선물할 거니?|1_0885.npz
+1_0886-audio.npy|1_0886-mel.npy|1_0886-linear.npy|73800|246|직업을 잘 선택하는 것은 중요한 일이다.|1_0886.npz
+1_0887-audio.npy|1_0887-mel.npy|1_0887-linear.npy|37200|124|누구를 선택하시겠어요?|1_0887.npz
+1_0888-audio.npy|1_0888-mel.npy|1_0888-linear.npy|74400|248|사람들을 일렬로 세우는 게 네가 할 일이야.|1_0888.npz
+1_0889-audio.npy|1_0889-mel.npy|1_0889-linear.npy|67800|226|내 꿈은 언젠가 학교를 세우는 거야.|1_0889.npz
+1_0890-audio.npy|1_0890-mel.npy|1_0890-linear.npy|42300|141|차를 세우고 물어봐야겠는걸.|1_0890.npz
+1_0891-audio.npy|1_0891-mel.npy|1_0891-linear.npy|63300|211|요즘 너무 많은 스트레스에 시달리고 있어요.|1_0891.npz
+1_0892-audio.npy|1_0892-mel.npy|1_0892-linear.npy|74100|247|오늘 조카들한테 시달려서 몹시 피곤해.|1_0892.npz
+1_0893-audio.npy|1_0893-mel.npy|1_0893-linear.npy|69000|230|의사 선생님이 운동을 시작하라고 하셨다.|1_0893.npz
+1_0894-audio.npy|1_0894-mel.npy|1_0894-linear.npy|41700|139|영화가 막 시작하려고 합니다.|1_0894.npz
+1_0895-audio.npy|1_0895-mel.npy|1_0895-linear.npy|40200|134|회의가 곧 시작돼요.|1_0895.npz
+1_0896-audio.npy|1_0896-mel.npy|1_0896-linear.npy|54300|181|보통 장마가 언제 시작됩니까?|1_0896.npz
+1_0897-audio.npy|1_0897-mel.npy|1_0897-linear.npy|48300|161|시키는 대로 하는 게 좋을 텐데.|1_0897.npz
+1_0898-audio.npy|1_0898-mel.npy|1_0898-linear.npy|41700|139|오늘 점심은 시켜 먹읍시다.|1_0898.npz
+1_0899-audio.npy|1_0899-mel.npy|1_0899-linear.npy|28500|95|저녁 식사하셨어요?|1_0899.npz
+1_0900-audio.npy|1_0900-mel.npy|1_0900-linear.npy|34200|114|점심 식사하러 나가죠.|1_0900.npz
+1_0901-audio.npy|1_0901-mel.npy|1_0901-linear.npy|21000|70|실례합니다.|1_0901.npz
+1_0902-audio.npy|1_0902-mel.npy|1_0902-linear.npy|54000|180|실례합니다만 먼저 가 봐야 해서요.|1_0902.npz
+1_0903-audio.npy|1_0903-mel.npy|1_0903-linear.npy|76200|254|이 영화는 상을 받았지만, 흥행에는 실패했어.|1_0903.npz
+1_0904-audio.npy|1_0904-mel.npy|1_0904-linear.npy|42900|143|내가 실패할 줄은 몰랐어.|1_0904.npz
+1_0905-audio.npy|1_0905-mel.npy|1_0905-linear.npy|36600|122|누구나 실수할 수 있다.|1_0905.npz
+1_0906-audio.npy|1_0906-mel.npy|1_0906-linear.npy|73200|244|이메일을 보내다가 실수하신 적이 있습니까?|1_0906.npz
+1_0907-audio.npy|1_0907-mel.npy|1_0907-linear.npy|88800|296|나는 아버지를 도와 옥수수를 심겠다고 약속했다.|1_0907.npz
+1_0908-audio.npy|1_0908-mel.npy|1_0908-linear.npy|32700|109|심은 대로 거둔다.|1_0908.npz
+1_0909-audio.npy|1_0909-mel.npy|1_0909-linear.npy|51900|173|스타킹 위에 양말을 신지 그래?|1_0909.npz
+1_0910-audio.npy|1_0910-mel.npy|1_0910-linear.npy|39900|133|신발 신는 것 좀 도와 줘.|1_0910.npz
+1_0911-audio.npy|1_0911-mel.npy|1_0911-linear.npy|77700|259|저는 여자 친구와 쇼핑하는 걸 굉장히 싫어해요.|1_0911.npz
+1_0912-audio.npy|1_0912-mel.npy|1_0912-linear.npy|90900|303|그녀가 나를 싫어하기 때문에 나도 그녀를 싫어한다.|1_0912.npz
+1_0913-audio.npy|1_0913-mel.npy|1_0913-linear.npy|93000|310|그 사람들 지금 트럭에 상자를 싣는 중이라 바빠요.|1_0913.npz
+1_0914-audio.npy|1_0914-mel.npy|1_0914-linear.npy|30600|102|차에 짐 다 실었어?|1_0914.npz
+1_0915-audio.npy|1_0915-mel.npy|1_0915-linear.npy|52200|174|여러분께 제 어머니를 소개합니다.|1_0915.npz
+1_0916-audio.npy|1_0916-mel.npy|1_0916-linear.npy|31200|104|저를 소개하겠습니다.|1_0916.npz
+1_0917-audio.npy|1_0917-mel.npy|1_0917-linear.npy|60300|201|저는 어느 동아리에도 속해 있지 않아요.|1_0917.npz
+1_0918-audio.npy|1_0918-mel.npy|1_0918-linear.npy|48300|161|그녀는 상당한 미인에 속한다.|1_0918.npz
+1_0919-audio.npy|1_0919-mel.npy|1_0919-linear.npy|27000|90|나한테 소리치지 마.|1_0919.npz
+1_0920-audio.npy|1_0920-mel.npy|1_0920-linear.npy|49800|166|우리는 도와 달라고 소리쳤다.|1_0920.npz
+1_0921-audio.npy|1_0921-mel.npy|1_0921-linear.npy|36300|121|포장지에 싸 드릴까요?|1_0921.npz
+1_0922-audio.npy|1_0922-mel.npy|1_0922-linear.npy|43800|146|남은 음식 좀 싸 주시겠어요?|1_0922.npz
+1_0923-audio.npy|1_0923-mel.npy|1_0923-linear.npy|60900|203|모니터 위에 먼지가 잔뜩 쌓였어요.|1_0923.npz
+1_0924-audio.npy|1_0924-mel.npy|1_0924-linear.npy|42900|143|오늘은 정말 스트레스 쌓여.|1_0924.npz
+1_0925-audio.npy|1_0925-mel.npy|1_0925-linear.npy|62400|208|최대한 빨리 여기에 통나무를 쌓아라.|1_0925.npz
+1_0926-audio.npy|1_0926-mel.npy|1_0926-linear.npy|103500|345|좋은 작가가 되려면 폭넓은 경험을 쌓는 것이 중요하다.|1_0926.npz
+1_0927-audio.npy|1_0927-mel.npy|1_0927-linear.npy|101100|337|엄마는 나한테 제발 동생과 그만 싸우라고 소리쳤다.|1_0927.npz
+1_0928-audio.npy|1_0928-mel.npy|1_0928-linear.npy|29100|97|뭐 때문에 싸웠어?|1_0928.npz
+1_0929-audio.npy|1_0929-mel.npy|1_0929-linear.npy|49800|166|파를 썰어서 접시 위에 두어라.|1_0929.npz
+1_0930-audio.npy|1_0930-mel.npy|1_0930-linear.npy|29100|97|치즈 좀 썰어 줄래?|1_0930.npz
+1_0931-audio.npy|1_0931-mel.npy|1_0931-linear.npy|57300|191|첫 장에 이름 쓰는 거 잊지 마세요.|1_0931.npz
+1_0932-audio.npy|1_0932-mel.npy|1_0932-linear.npy|84900|283|저는 이메일보다 편지를 쓰는 걸 더 좋아해요.|1_0932.npz
+1_0933-audio.npy|1_0933-mel.npy|1_0933-linear.npy|69300|231|저는 외출을 할 때 꼭 모자를 씁니다.|1_0933.npz
+1_0934-audio.npy|1_0934-mel.npy|1_0934-linear.npy|68100|227|군인은 비가 와도 우산을 쓸 수 없어요.|1_0934.npz
+1_0935-audio.npy|1_0935-mel.npy|1_0935-linear.npy|37200|124|얼마 동안 쓰실 건가요?|1_0935.npz
+1_0936-audio.npy|1_0936-mel.npy|1_0936-linear.npy|35100|117|돈을 어디에 다 쓴 거야?|1_0936.npz
+1_0937-audio.npy|1_0937-mel.npy|1_0937-linear.npy|80400|268|이 돈은 가난한 사람들을 돕는 데 쓰일 거야.|1_0937.npz
+1_0938-audio.npy|1_0938-mel.npy|1_0938-linear.npy|66900|223|국제회의에서는 흔히 영어가 쓰인다.|1_0938.npz
+1_0939-audio.npy|1_0939-mel.npy|1_0939-linear.npy|31500|105|껌 좀 조용히 씹어.|1_0939.npz
+1_0940-audio.npy|1_0940-mel.npy|1_0940-linear.npy|46500|155|음식을 씹은 다음 삼켜라.|1_0940.npz
+1_0941-audio.npy|1_0941-mel.npy|1_0941-linear.npy|26400|88|손 먼저 씻어라.|1_0941.npz
+1_0942-audio.npy|1_0942-mel.npy|1_0942-linear.npy|81300|271|차가운 물로 발을 씻으면 기분이 상쾌해질 거야.|1_0942.npz
+1_0943-audio.npy|1_0943-mel.npy|1_0943-linear.npy|48000|160|비가 억수같이 쏟아지고 있어요.|1_0943.npz
+1_0944-audio.npy|1_0944-mel.npy|1_0944-linear.npy|93900|313|아내가 이혼을 원한다는 말을 듣자 눈물이 쏟아졌다.|1_0944.npz
+1_0945-audio.npy|1_0945-mel.npy|1_0945-linear.npy|27000|90|내 뒤에 얼른 숨어.|1_0945.npz
+1_0946-audio.npy|1_0946-mel.npy|1_0946-linear.npy|48600|162|그는 산속으로 숨어 버렸다.|1_0946.npz
+1_0947-audio.npy|1_0947-mel.npy|1_0947-linear.npy|52800|176|그녀가 좀 쉬어야 한다고 생각합니다.|1_0947.npz
+1_0948-audio.npy|1_0948-mel.npy|1_0948-linear.npy|30900|103|오늘은 쉬는 날이야.|1_0948.npz
+1_0949-audio.npy|1_0949-mel.npy|1_0949-linear.npy|59400|198|우리는 비행기에 타려고 줄을 섰다.|1_0949.npz
+1_0950-audio.npy|1_0950-mel.npy|1_0950-linear.npy|86700|289|저는 운전할 줄은 아는데 자전거를 탈 줄은 몰라요.|1_0950.npz
+1_0951-audio.npy|1_0951-mel.npy|1_0951-linear.npy|39600|132|뭔가 타고 있는 것 같아요.|1_0951.npz
+1_0952-audio.npy|1_0952-mel.npy|1_0952-linear.npy|55500|185|고기가 다 타서 먹을 수가 없었죠.|1_0952.npz
+1_0953-audio.npy|1_0953-mel.npy|1_0953-linear.npy|76200|254|한국에서는 태어나면 곧바로 한 살이에요.|1_0953.npz
+1_0954-audio.npy|1_0954-mel.npy|1_0954-linear.npy|77700|259|저는 미국에서 태어났지만 한국에서 자랐어요.|1_0954.npz
+1_0955-audio.npy|1_0955-mel.npy|1_0955-linear.npy|68400|228|버스는 이미 승객들을 가득 태우고 있었다.|1_0955.npz
+1_0956-audio.npy|1_0956-mel.npy|1_0956-linear.npy|27600|92|나 좀 태워 줘요.|1_0956.npz
+1_0957-audio.npy|1_0957-mel.npy|1_0957-linear.npy|71400|238|산에서 쓰레기를 태우는 건 아주 위험해요.|1_0957.npz
+1_0958-audio.npy|1_0958-mel.npy|1_0958-linear.npy|43800|146|너는 늘 밥을 태우는구나.|1_0958.npz
+1_0959-audio.npy|1_0959-mel.npy|1_0959-linear.npy|46800|156|여기저기서 폭탄이 터졌다.|1_0959.npz
+1_0960-audio.npy|1_0960-mel.npy|1_0960-linear.npy|108000|360|사람들이 전쟁이 터질 때를 대비해서 물건을 사재기하고 있습니다.|1_0960.npz
+1_0961-audio.npy|1_0961-mel.npy|1_0961-linear.npy|107100|357|개를 보자마자 핸들을 왼쪽으로 틀려고 했지만 이미 늦었다.|1_0961.npz
+1_0962-audio.npy|1_0962-mel.npy|1_0962-linear.npy|48300|161|선풍기 틀어도 괜찮으시겠어요?|1_0962.npz
+1_0963-audio.npy|1_0963-mel.npy|1_0963-linear.npy|62400|208|내 생각엔, 네 답이 틀린 것 같은데.|1_0963.npz
+1_0964-audio.npy|1_0964-mel.npy|1_0964-linear.npy|56100|187|한국어 시험에서 두 문제를 틀렸어.|1_0964.npz
+1_0965-audio.npy|1_0965-mel.npy|1_0965-linear.npy|40200|134|나무는 전기가 안 통해요.|1_0965.npz
+1_0966-audio.npy|1_0966-mel.npy|1_0966-linear.npy|74700|249|시행착오를 통해 배우는 것도 나쁘지 않아.|1_0966.npz
+1_0967-audio.npy|1_0967-mel.npy|1_0967-linear.npy|54900|183|이 부분은 뜻이 안 통하는 것 같은데.|1_0967.npz
+1_0968-audio.npy|1_0968-mel.npy|1_0968-linear.npy|40500|135|엄마는 포도를 따고 계세요.|1_0968.npz
+1_0969-audio.npy|1_0969-mel.npy|1_0969-linear.npy|26100|87|이 캔 좀 따 줘.|1_0969.npz
+1_0970-audio.npy|1_0970-mel.npy|1_0970-linear.npy|98700|329|그 남자는 자기 아이를 때렸다는 이유로 고소를 당했다.|1_0970.npz
+1_0971-audio.npy|1_0971-mel.npy|1_0971-linear.npy|68700|229|선생님이 회초리로 손바닥을 때리셨어.|1_0971.npz
+1_0972-audio.npy|1_0972-mel.npy|1_0972-linear.npy|30600|102|이 길을 따라가세요.|1_0972.npz
+1_0973-audio.npy|1_0973-mel.npy|1_0973-linear.npy|73500|245|토론에서는 그 여자를 따라갈 사람이 없어.|1_0973.npz
+1_0974-audio.npy|1_0974-mel.npy|1_0974-linear.npy|30600|102|저를 따라오십시오.|1_0974.npz
+1_0975-audio.npy|1_0975-mel.npy|1_0975-linear.npy|60600|202|수학이라면 저를 따라올 사람이 없어요.|1_0975.npz
+1_0976-audio.npy|1_0976-mel.npy|1_0976-linear.npy|34200|114|총에서 손을 떼라.|1_0976.npz
+1_0977-audio.npy|1_0977-mel.npy|1_0977-linear.npy|82200|274|나는 그 아름다운 여인에게서 눈을 뗄 수가 없었다.|1_0977.npz
+1_0978-audio.npy|1_0978-mel.npy|1_0978-linear.npy|24000|80|왜 떨고 있어?|1_0978.npz
+1_0979-audio.npy|1_0979-mel.npy|1_0979-linear.npy|27300|91|다리 좀 떨지 마.|1_0979.npz
+1_0980-audio.npy|1_0980-mel.npy|1_0980-linear.npy|65400|218|놀라서 목소리가 떨리기 시작했다.|1_0980.npz
+1_0981-audio.npy|1_0981-mel.npy|1_0981-linear.npy|66600|222|시험 보기 전이면 항상 이렇게 떨려.|1_0981.npz
+1_0982-audio.npy|1_0982-mel.npy|1_0982-linear.npy|35100|117|그 사람 어디로 떠난 거야?|1_0982.npz
+1_0983-audio.npy|1_0983-mel.npy|1_0983-linear.npy|90900|303|좋은 추억을 많이 가지고 한국을 떠나셨으면 좋겠네요.|1_0983.npz
+1_0984-audio.npy|1_0984-mel.npy|1_0984-linear.npy|61200|204|해외여행을 떠나려면 준비할 게 많아.|1_0984.npz
+1_0985-audio.npy|1_0985-mel.npy|1_0985-linear.npy|79200|264|행복했던 시절을 떠올리면 미소가 지어진다.|1_0985.npz
+1_0986-audio.npy|1_0986-mel.npy|1_0986-linear.npy|95400|318|그 사람을 볼 때마다 내 예전 남자 친구를 떠올리게 돼.|1_0986.npz
+1_0987-audio.npy|1_0987-mel.npy|1_0987-linear.npy|48300|161|해는 동쪽에서 떠오른다.|1_0987.npz
+1_0988-audio.npy|1_0988-mel.npy|1_0988-linear.npy|35700|119|좋은 생각이 떠올랐다.|1_0988.npz
+1_0989-audio.npy|1_0989-mel.npy|1_0989-linear.npy|67200|224|말에서 떨어져서 왼팔이 부러졌어요.|1_0989.npz
+1_0990-audio.npy|1_0990-mel.npy|1_0990-linear.npy|66000|220|딸아이가 입학시험에 떨어졌어요.|1_0990.npz
+1_0991-audio.npy|1_0991-mel.npy|1_0991-linear.npy|34200|114|연료가 다 떨어져 가.|1_0991.npz
+1_0992-audio.npy|1_0992-mel.npy|1_0992-linear.npy|47700|159|무언가가 표면에 떠 다닌다.|1_0992.npz
+1_0993-audio.npy|1_0993-mel.npy|1_0993-linear.npy|69300|231|태양은 동쪽에서 떠서 서쪽으로 진다.|1_0993.npz
+1_0994-audio.npy|1_0994-mel.npy|1_0994-linear.npy|37800|126|눈을 뜨고 나를 봐요.|1_0994.npz
+1_0995-audio.npy|1_0995-mel.npy|1_0995-linear.npy|44100|147|아침 일곱 시에 눈을 떴어요.|1_0995.npz
+1_0996-audio.npy|1_0996-mel.npy|1_0996-linear.npy|54900|183|아줌마는 결혼한 여자를 뜻한다.|1_0996.npz
+1_0997-audio.npy|1_0997-mel.npy|1_0997-linear.npy|47100|157|이 문장은 무엇을 뜻합니까?|1_0997.npz
+1_0998-audio.npy|1_0998-mel.npy|1_0998-linear.npy|27000|90|걷지 말고 뛰어!|1_0998.npz
+1_0999-audio.npy|1_0999-mel.npy|1_0999-linear.npy|77100|257|모든 사람들이 출구를 향해 뛰기 시작했다.|1_0999.npz
+1_1000-audio.npy|1_1000-mel.npy|1_1000-linear.npy|92400|308|그녀는 육상 선수였기 때문에 굉장히 높이 뛸 수 있다.|1_1000.npz
+1_1001-audio.npy|1_1001-mel.npy|1_1001-linear.npy|57600|192|그의 맥박은 여전히 뛰고 있다.|1_1001.npz
+1_1002-audio.npy|1_1002-mel.npy|1_1002-linear.npy|103500|345|한글은 십오 세기에 세종대왕에 의해 만들어졌어.|1_1002.npz
+1_1003-audio.npy|1_1003-mel.npy|1_1003-linear.npy|87000|290|그가 회복된 건 순전히 그 여자의 간호에 의한 거야.|1_1003.npz
+1_1004-audio.npy|1_1004-mel.npy|1_1004-linear.npy|72600|242|일기예보에 의하면 날씨가 좋을 거래요.|1_1004.npz
+1_1006-audio.npy|1_1006-mel.npy|1_1006-linear.npy|46200|154|빨간 불은 위험을 의미해요.|1_1006.npz
+1_1007-audio.npy|1_1007-mel.npy|1_1007-linear.npy|77100|257|여름철에는 매미가 우는 걸 쉽게 볼 수 있어요.|1_1007.npz
+1_1008-audio.npy|1_1008-mel.npy|1_1008-linear.npy|45900|153|그는 기뻐서 울고 있다.|1_1008.npz
+1_1009-audio.npy|1_1009-mel.npy|1_1009-linear.npy|94200|314|우리 형은 어릴 때 걸핏하면 저를 울렸어요.|1_1009.npz
+1_1010-audio.npy|1_1010-mel.npy|1_1010-linear.npy|57000|190|전화 받아! 전화벨 울리잖아!|1_1010.npz
+1_1011-audio.npy|1_1011-mel.npy|1_1011-linear.npy|26700|89|고개를 움직여 봐.|1_1011.npz
+1_1012-audio.npy|1_1012-mel.npy|1_1012-linear.npy|26700|89|팔이 안 움직여.|1_1012.npz
+1_1013-audio.npy|1_1013-mel.npy|1_1013-linear.npy|67800|226|오늘은 운동하기에 아주 좋은 날씨였다.|1_1013.npz
+1_1014-audio.npy|1_1014-mel.npy|1_1014-linear.npy|72300|241|저는 매일 운동하러 헬스 클럽에 다녀요.|1_1014.npz
+1_1015-audio.npy|1_1015-mel.npy|1_1015-linear.npy|39300|131|버스를 운전할 수 있으세요?|1_1015.npz
+1_1016-audio.npy|1_1016-mel.npy|1_1016-linear.npy|73800|246|비 오는 날 빨리 운전하면 매우 위험하다.|1_1016.npz
+1_1017-audio.npy|1_1017-mel.npy|1_1017-linear.npy|83100|277|그는 엉뚱한 질문으로 사람들을 곧잘 웃겼다.|1_1017.npz
+1_1018-audio.npy|1_1018-mel.npy|1_1018-linear.npy|32700|109|그 사람 정말 웃겨.|1_1018.npz
+1_1019-audio.npy|1_1019-mel.npy|1_1019-linear.npy|58200|194|그는 머리를 뒤로 젖히고 웃었다.|1_1019.npz
+1_1020-audio.npy|1_1020-mel.npy|1_1020-linear.npy|38700|129|아기가 나를 보고 웃었어.|1_1020.npz
+1_1021-audio.npy|1_1021-mel.npy|1_1021-linear.npy|87600|292|그들은 도시 전체를 보기 위해 산꼭대기로 올라갔다.|1_1021.npz
+1_1022-audio.npy|1_1022-mel.npy|1_1022-linear.npy|67800|226|그 사람은 자기 부모를 끔찍이 위해요.|1_1022.npz
+1_1023-audio.npy|1_1023-mel.npy|1_1023-linear.npy|50400|168|누구나 오래 살길 원한다.|1_1023.npz
+1_1024-audio.npy|1_1024-mel.npy|1_1024-linear.npy|17400|58|뭘 원해?|1_1024.npz
+1_1025-audio.npy|1_1025-mel.npy|1_1025-linear.npy|111000|370|나는 새해에는 담배를 끊겠다고 아들 녀석과 약속했다.|1_1025.npz
+1_1026-audio.npy|1_1026-mel.npy|1_1026-linear.npy|131100|437|시험을 잘 보면 아빠가 새 컴퓨터를 사 주시겠다고 나한테 약속하셨어요.|1_1026.npz
+1_1027-audio.npy|1_1027-mel.npy|1_1027-linear.npy|66900|223|그는 전국 방방곡곡을 여행했다.|1_1027.npz
+1_1028-audio.npy|1_1028-mel.npy|1_1028-linear.npy|69900|233|기차를 타고 유럽 전역을 여행했어요.|1_1028.npz
+1_1029-audio.npy|1_1029-mel.npy|1_1029-linear.npy|32100|107|창문 열어도 될까요?|1_1029.npz
+1_1030-audio.npy|1_1030-mel.npy|1_1030-linear.npy|50400|168|첨부하신 파일을 못 열겠어요.|1_1030.npz
+1_1031-audio.npy|1_1031-mel.npy|1_1031-linear.npy|63600|212|두드려라, 그러면 열릴 것이다.|1_1031.npz
+1_1032-audio.npy|1_1032-mel.npy|1_1032-linear.npy|87900|293|이천이 년 월드컵이 한국과 일본에서 열렸다.|1_1032.npz
+1_1033-audio.npy|1_1033-mel.npy|1_1033-linear.npy|93300|311|아버지는 한국어를 연구하는 데 평생을 바치셨다.|1_1033.npz
+1_1034-audio.npy|1_1034-mel.npy|1_1034-linear.npy|78300|261|제 일은 고대 문자에 대해 연구하는 거예요.|1_1034.npz
+1_1035-audio.npy|1_1035-mel.npy|1_1035-linear.npy|63900|213|내일은 제일 중요한 장면을 연습할 거야.|1_1035.npz
+1_1036-audio.npy|1_1036-mel.npy|1_1036-linear.npy|85200|284|그 선수가 연습하는 걸 보려고 사람들이 모여 들었어요.|1_1036.npz
+1_1037-audio.npy|1_1037-mel.npy|1_1037-linear.npy|89700|299|우리 부모님은 저한테 너무 많은 것을 요구하세요.|1_1037.npz
+1_1038-audio.npy|1_1038-mel.npy|1_1038-linear.npy|94500|315|내가 환불을 요구하자 그들은 영수증을 보여 달라고 했다.|1_1038.npz
+1_1039-audio.npy|1_1039-mel.npy|1_1039-linear.npy|69900|233|김치찌개 요리하다 손가락을 베었어.|1_1039.npz
+1_1040-audio.npy|1_1040-mel.npy|1_1040-linear.npy|61500|205|제 아내는 요리하는 걸 좋아해요.|1_1040.npz
